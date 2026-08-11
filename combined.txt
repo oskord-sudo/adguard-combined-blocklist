@@ -1,3 +1,6 @@
+! Объединённый список блокировки для AdGuard Home
+! Сгенерировано: 2026-08-11 18:16:40
+! Количество записей: 543154
 ||%*.juicyads.^
 ||%2fevent.gif%3f^
 ||%2fopen.aspx%3f^
@@ -42666,6 +42669,7 @@
 ||aflam.io^
 ||aflameclaimstylized.com^
 ||aflamfree.top^
+||aflamicose.com^
 ||aflbjkkdckwcl.online^
 ||aflenses.net^
 ||aflink.com^
@@ -83312,7 +83316,6 @@
 ||beavergamer.com^
 ||beaverscripts.com^
 ||beavertonvalleytimes.com,jav.wine,ringwitdatwixtor.com,metropolisjapan.com,hentai-sharing.net,hentaiomg.com,jav1080.com,javrookies.com,sakuravrjav.com,pridesource.com,4sysops.com,idevicecentral.com,forums.flyer.co.uk,3xplanet.com,schooldrillers.com,aceofhacking.com,linuxpip.org,kodi-tutorials.uk,yofreesamples.com,thispointer.com,stevessmarthomeguide.com,hwnews.in,collegelearners.com,watchmalcolminthemiddle.com^
-||beavertonvalleytimes.com,sportspyder.com^
 ||beavertron.com^
 ||beaxewr.com^
 ||beazzm.brllllantdates.com^
@@ -102909,6 +102912,7 @@
 ||cannablepr.bid^
 ||cannaclicks.com^
 ||cannahome-markets.com^
+||cannainsider.com^
 ||cannainsider.com,society6.com,cmcmotorsports.com,payneglasses.com,provenwinners.com,fritz.com,lemsshoes.com,bike-room.com,paulpadel.com,keychron.de,zelesta.de,takeknocked.com,drmartens.com,ridgemerino.com,papercraftworld.com,bodylab24.de,green-naturals.de,simplicitylaser.com,janespatisserie.com,radpowerbikes.com,edenbrothers.com,bulkwildflowers.com,carolinacoops.com,baseus.com,dreametech.com.tr^
 ||cannalab.eu^
 ||cannalawnetwork.com^
@@ -219395,6 +219399,7 @@
 ||hollywood.com^
 ||hollywood.com,trollno.com^
 ||hollywoodauthentic.com^
+||hollywoodhinditracks2.blogspot.com^
 ||hollywoodkhabar.com^
 ||hollywoodlife.com^
 ||hollywoodmask.com^
@@ -351863,8 +351868,6 @@
 ||portionmedieval.com^
 ||portionsmeltdown.com^
 ||portlandoregonlifestyles.com^
-||portlandtribune.com,beavertonvalleytimes.com^
-||portlandtribune.com,beavertonvalleytimes.com,tellows.net^
 ||portlimit.com^
 ||portly-rent.pro^
 ||portlycalendar.pro^
@@ -410892,6 +410895,7 @@
 ||skyback.ru^
 ||skybaggycollecting.com^
 ||skybirdnetfares.com^
+||skyblewx.com^
 ||skyblock.bz^
 ||skyblue.ciao.jp,volx.jp^
 ||skyblueboutique.com^
@@ -466836,6 +466840,9 @@
 ||theouterhaven.net^
 ||theouterhaven.net,watchallchannels.com,wikipekes.com^
 ||theoutline.com^
+||theoutlookonline.com,portlandtribune.com,beavertonvalleytimes.com^
+||theoutlookonline.com,thebeenews.com,beavertonvalleytimes.com,sportspyder.com^
+||theoutlookonline.com,thebeenews.com,portlandtribune.com,beavertonvalleytimes.com,tellows.net^
 ||theoutnet.com^
 ||theoutplay.com^
 ||theowlsperch.net^
@@ -496101,6 +496108,7 @@
 ||uppit.ml^
 ||uppitytime.com^
 ||upplayer.jkoytw.com^
+||upplinks.net,upfion.com,upfiles.app,upfiles-urls.com,falpus.com,fooak.com^
 ||upplysning.se^
 ||uppook.com^
 ||uppro.ru^
