@@ -10,3 +10,8 @@
 ## 📥 Использование
 
 Добавьте в AdGuard Home как внешний фильтр:
+https://raw.githubusercontent.com/oskord-sudo/adguard-combined-blocklist/main/combined.txt
+
+## 🔄 Автоматическое обновление
+
+Список обновляется каждые 12 часов (в 00:00 и 12:00 UTC) через GitHub Actions.
