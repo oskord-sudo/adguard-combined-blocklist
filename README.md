@@ -1,9 +1,12 @@
 # Combined AdGuard Home Blocklist
 
-Автоматически собирает более 50 списков блокировки и создаёт единый файл `combined.txt` для AdGuard Home.
+<!-- START_META -->
+**🗓 Дата генерации:** 2026-08-11 18:16:40  
+**📊 Количество записей:** 543154
+<!-- END_META -->
 
-## Использование
+Автоматически собирает более 50 списков блокировки рекламы, трекеров и вредоносных сайтов, объединяет их и формирует единый файл `combined.txt` для AdGuard Home.
+
+## 📥 Использование
+
 Добавьте в AdGuard Home как внешний фильтр:
-https://raw.githubusercontent.com/oskord-sudo/adguard-combined-blocklist/main/combined.txt
-
-Обновление каждые 12 часов.
