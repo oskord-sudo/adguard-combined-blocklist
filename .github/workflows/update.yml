@@ -8,7 +8,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-
+    permissions:              # <-- ДОБАВЛЕН ЭТОТ БЛОК
+      contents: write         # <-- даёт право на запись в репозиторий
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
