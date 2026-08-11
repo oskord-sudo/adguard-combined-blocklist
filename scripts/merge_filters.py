@@ -5,6 +5,7 @@ import requests
 import re
 import logging
 from pathlib import Path
+from datetime import datetime   # <-- добавили для времени
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
@@ -124,8 +125,14 @@ def build_combined():
     sorted_domains = sorted(all_domains)
     formatted = [f"||{d}^" for d in sorted_domains]
     out_path = Path("combined.txt")
+    
+    # Записываем с заголовком-комментарием
     with open(out_path, "w", encoding="utf-8") as f:
+        f.write("! Объединённый список блокировки для AdGuard Home\n")
+        f.write(f"! Сгенерировано: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
+        f.write(f"! Количество записей: {len(formatted)}\n")
         f.write("\n".join(formatted))
+    
     logging.info(f"Файл {out_path} создан, записей: {len(formatted)}")
 
 if __name__ == "__main__":
