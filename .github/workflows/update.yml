@@ -8,8 +8,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions:              # <-- ДОБАВЛЕН ЭТОТ БЛОК
-      contents: write         # <-- даёт право на запись в репозиторий
+    permissions:
+      contents: write
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -27,10 +27,13 @@ jobs:
       - name: Run merge script
         run: python scripts/merge_filters.py
 
+      - name: Update README with metadata
+        run: python scripts/update_readme.py
+
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add combined.txt
+          git add combined.txt README.md
           git diff --staged --quiet || git commit -m "Auto-update combined list $(date +'%Y-%m-%d %H:%M')"
           git push
