@@ -1,6 +1,6 @@
 ! Объединённый список блокировки для AdGuard Home
-! Сгенерировано: 2026-08-11 18:16:40
-! Количество записей: 543154
+! Сгенерировано: 2026-08-11 18:27:54
+! Количество записей: 543187
 ||%*.juicyads.^
 ||%2fevent.gif%3f^
 ||%2fopen.aspx%3f^
@@ -7694,6 +7694,7 @@
 ||1ps6e7sort397gy9.edge46.testandtarget.omniture.com^
 ||1pt.co^
 ||1pt7wq8di.com^
+||1puq9cnwjpgoxicjgu8co28k.rest^
 ||1push.io^
 ||1q.com^
 ||1q2w3.fun^
@@ -80766,6 +80767,7 @@
 ||baretopmost.com^
 ||barf-ads.us^
 ||barfingcultivabiqqlity.info^
+||barfingwauve.shop^
 ||barfuck.com^
 ||barfularilduant.cyou^
 ||barfuss--schuhe.com^
@@ -81054,6 +81056,7 @@
 ||baselinetoisolated.net^
 ||baselinker.com,deloitte.com,netcompany.com,optomer.pl^
 ||baselinux.net^
+||basellabuibuibacksey.qpon^
 ||basemedia.me^
 ||basementunfamiliar.com^
 ||basementx.xyz,basementx.pro^
@@ -135193,6 +135196,7 @@
 ||darvin-ec.ads.heytapmobi.com^
 ||darvorn.com^
 ||darvuxbakh.com^
+||darweshcharkas.cfd^
 ||darwin.cx^
 ||darwinai-solution.com^
 ||darwinports.com^
@@ -140427,6 +140431,7 @@
 ||dawahandel.de^
 ||dawanda.com^
 ||dawdeviled.qpon^
+||dawdlesresider.cfd^
 ||dawfrmforl.shop^
 ||dawg.pl^
 ||dawg.wtf^
@@ -150183,6 +150188,7 @@
 ||dodoclk.com^
 ||dododrioer.com^
 ||dodopizza.ru^
+||dodossudanic.cyou^
 ||dodostats.com^
 ||dodot.cafe24.com,loapost.cafe24.com,jiavr.xyz,ohohz.cafe24.com^
 ||dodownload.com^
@@ -192190,6 +192196,7 @@
 ||garrigue-gourmande.fr^
 ||garronpews.shop^
 ||garronstallit.cfd^
+||garroopoppy.cyou^
 ||garry.sgaas.net^
 ||garryslist.org^
 ||garrysmods.org^
@@ -198944,6 +198951,7 @@
 ||gnattereelfare.qpon^
 ||gnavi.co.jp^
 ||gnawedastrict.com^
+||gnawersgatch.qpon^
 ||gnawpush.com^
 ||gnaza.weebly.com^
 ||gnbcz.oakwell.com^
@@ -212195,6 +212203,7 @@
 ||hag.golf^
 ||haganah.org.il^
 ||hagbornflioma.com^
+||hagdenrept.shop^
 ||hagdonsredue.cfd^
 ||hagebakken.no^
 ||hagebau.de^
@@ -221289,6 +221298,7 @@
 ||houndananter.cyou^
 ||houndinflateclassmate.com^
 ||houndlocumfeather.com^
+||houndsouvenirs.com^
 ||houndverticallyartificial.com^
 ||hounslow.info^
 ||hounto.com^
@@ -281996,6 +282006,7 @@
 ||malliq-api.com^
 ||mallof.shop^
 ||mallofistanbul.com.tr^
+||mallofistanbul.com.tr,manga.bilibili.com,foxweather.com,shufuse.com,poczta.interia.pl,forfun.com,tw.yahoo.com^
 ||mallonire.us.com^
 ||mallorca-holidayhomes.com^
 ||mallorca-partner.com^
@@ -283011,6 +283022,7 @@
 ||maranbet.com^
 ||marandr.com^
 ||marapcana.online^
+||mararalindera.com^
 ||maraseffete.shop^
 ||marasgumpus.com^
 ||marashaber.com.tr^
@@ -283146,6 +283158,7 @@
 ||margaretscott391.wixstudio.com^
 ||margaripre.cyou^
 ||margaritawanderingelusive.com^
+||margedsurfle.qpon^
 ||marghot.com^
 ||margiebackage.shop^
 ||margiela.d3.sc.omtrdc.net^
@@ -323774,6 +323787,7 @@
 ||nxrxt.com^
 ||nxsfund.com^
 ||nxstrib.com^
+||nxstrihqearnemf.com^
 ||nxstx.top^
 ||nxszybhvuiblq.online^
 ||nxt-psh.com^
@@ -334504,6 +334518,7 @@
 ||owrock.com^
 ||owrqqrpeit5w.online^
 ||ows.ihs.com^
+||owsazgnm.in^
 ||owserv.aniview.com^
 ||owsezan.ru^
 ||owsf.top^
@@ -370586,6 +370601,7 @@
 ||recapture.io^
 ||recapturesvalsahawaiians.com^
 ||recart.com^
+||recartmuleys.qpon^
 ||recashclub.com^
 ||recastwilsomeleaves.cyou^
 ||recaulsijiz.net^
@@ -381190,6 +381206,7 @@
 ||rudeteach.pro^
 ||rudexxputoeucz.com^
 ||rudolf-emilia.de^
+||rudolfmiscue.cyou^
 ||rudolphmaschine.de^
 ||rudousgillied.com^
 ||rudr-cdn1.joybird.com^
@@ -384819,6 +384836,7 @@
 ||sachawaz.com^
 ||sachbedhadakdaily.com^
 ||sachemfrenalanukit.cyou^
+||sachemsifint.cfd^
 ||sachermes.fr^
 ||sachetonbarta.com.bd^
 ||sachikalam.com^
@@ -406205,6 +406223,7 @@
 ||shitcustody.com^
 ||shitsoojacm.net^
 ||shivamoggalive.com^
+||shivaranging.qpon^
 ||shiveexoticsmucor.cfd^
 ||shiveringspot.com^
 ||shiverscissors.com^
@@ -483947,6 +483966,7 @@
 ||treatment.grammarly.com^
 ||treatment11.top^
 ||treatmentarthritis.com^
+||treatmentforgout.com^
 ||treatmentfurthermoresobbing.com^
 ||treatmentoctopus.com^
 ||treatmentsent.lat^
@@ -483966,6 +483986,7 @@
 ||trebleperfect.com^
 ||trebleswimmingbritish.com^
 ||trebolbienzorio.net^
+||trebvinaro.com^
 ||treccani.it^
 ||trecetv.es^
 ||trecker.aklamio.com^
@@ -488106,6 +488127,7 @@
 ||tubelight.nl^
 ||tubeload.co^
 ||tubeluck.com^
+||tubemananattosostmen.cyou^
 ||tubemania.org^
 ||tubemogul-sync.dotomi.com^
 ||tubemogul.com^
@@ -493960,6 +493982,7 @@
 ||unarmedlickpattern.com^
 ||unarmedphrasemtipulid.qpon^
 ||unarmedtriumphal.com^
+||unarychaffer.qpon^
 ||unashamedinsoluble.com^
 ||unasonoric.com^
 ||unathrowler.com^
@@ -517894,6 +517917,7 @@
 ||wieistmeineip.ch,wieistmeineip.at,wieistmeineip.de^
 ||wieistmeineip.de^
 ||wieistmeineip.de.data.adobedc.net^
+||wieldygrover.cyou^
 ||wieleliter.pl^
 ||wielen.boldons.nl^
 ||wielerflits.be,wielerflits.nl^
@@ -527569,6 +527593,7 @@
 ||xblxxhnr.top^
 ||xbmady.daimaru-matsuzakaya.jp^
 ||xbn.ru^
+||xbnhstiiowglu.online^
 ||xbntrnsfgmhiw.space^
 ||xbnzc.com^
 ||xbokepfb.co^
@@ -529028,6 +529053,7 @@
 ||xjx65c.pmwzuf567glojz.cyou^
 ||xjxspiec.com^
 ||xjxtwlgfaopkp.online^
+||xjxwbrbxjafgb.website^
 ||xjybb.com^
 ||xjysy.diamondsfactory.co.uk^
 ||xjyyvx.uno^
@@ -530649,6 +530675,7 @@
 ||xnvjjkinsmqyu.site^
 ||xnvohzvudizgf.space^
 ||xnvvt.batteryjunction.com^
+||xnvxwgiytrszi.space^
 ||xnwncknejempg.website^
 ||xnwoyfoqfwvck.site^
 ||xnwtugzfknrtr.store^
@@ -531658,6 +531685,7 @@
 ||xuu8.cc^
 ||xuuclck.com^
 ||xuuy19fiyvw4nj.rest^
+||xuvabqbvuecjg.space^
 ||xuvlzyep.icu^
 ||xuvqgs.com^
 ||xuvxaknemnska.site^
@@ -531804,6 +531832,7 @@
 ||xwgkbcbvjjvxr.website^
 ||xwhite-tube.com^
 ||xwhztrazolmbm.space^
+||xwikmfiuotauw.website^
 ||xwinistered.uk.com^
 ||xwjwdjhb3a.space^
 ||xwkepddq.com^
@@ -532591,6 +532620,7 @@
 ||y7x.podatk.com^
 ||y8.com^
 ||y820.darientimes.com^
+||y85522qooyngglo5.cfd^
 ||y884.wbaltv.com^
 ||y88pvqn6x4iqt2hep765.cyou^
 ||y89fjgm3vc.com^
@@ -534403,6 +534433,7 @@
 ||ykcjxvg.cn^
 ||ykcnjritoluxy.store^
 ||ykdium.profishop.nl^
+||ykdoyluivekcm.online^
 ||ykdqqskuziadx.site^
 ||ykejihmzdvsex.store^
 ||ykfojdaa.shop^
@@ -538181,6 +538212,7 @@
 ||zcpplcvjzmlqj.site^
 ||zcpxl.hobbs.com^
 ||zcrddj.icu^
+||zcrlnkhvomiyd.website^
 ||zcrqsfq.biz^
 ||zcs.silomanagement.gr^
 ||zcswet.com^
@@ -541820,6 +541852,7 @@
 ||zunabet.fr^
 ||zunbo.app^
 ||zunezf.icu^
+||zunianhayers.cyou^
 ||zunifario.com^
 ||zunlen.com^
 ||zunmanned.com^
