@@ -2,13 +2,13 @@
 # -*- coding: utf-8 -*-
 
 import requests
-import re
 import logging
 from pathlib import Path
-from datetime import datetime   # <-- добавили для времени
+from datetime import datetime
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
+# Список всех источников (полный, как у вас)
 URLS = [
     "https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt",
     "https://adguardteam.github.io/HostlistsRegistry/assets/filter_2.txt",
@@ -76,64 +76,37 @@ def fetch_list(url):
         logging.info(f"Загрузка: {url}")
         resp = requests.get(url, timeout=60)
         resp.raise_for_status()
-        lines = set(resp.text.splitlines())
-        logging.info(f"  Загружено строк: {len(lines)}")
-        return lines
+        lines = resp.text.splitlines()
+        # Удаляем пустые строки и комментарии (строки, начинающиеся с ! или #)
+        # Но не удаляем правила, которые могут содержать ! или # внутри (например, в исключениях)
+        filtered = []
+        for line in lines:
+            line = line.strip()
+            if line and not line.startswith(('!', '#')):
+                filtered.append(line)
+        logging.info(f"  Загружено строк: {len(filtered)}")
+        return set(filtered)
     except Exception as e:
         logging.error(f"Ошибка при загрузке {url}: {e}")
         return set()
 
-def normalize_domain(line: str):
-    line = line.strip()
-    if not line:
-        return None
-    if '#' in line:
-        line = line.split('#', 1)[0]
-    if '!' in line:
-        line = line.split('!', 1)[0]
-    line = line.strip()
-    if not line:
-        return None
-    if line.startswith('@@'):
-        return None
-    if '$' in line:
-        line = line.split('$', 1)[0]
-    host_match = re.match(r'^(\d+\.\d+\.\d+\.\d+|0\.0\.0\.0|127\.0\.0\.1)\s+(\S+)', line)
-    if host_match:
-        domain = host_match.group(2).strip()
-        if domain and '.' in domain:
-            return domain.lower()
-    if line.startswith('||'):
-        domain = line[2:]
-        domain = re.split(r'[\^/$]', domain)[0]
-        if domain and '.' in domain and not domain.startswith('*'):
-            return domain.lower()
-    if '.' in line and not any(c in line for c in ['/', ':', '?', '&', '=', ' ', '\t']):
-        if not re.match(r'^\d+\.\d+\.\d+\.\d+$', line):
-            return line.lower()
-    return None
-
 def build_combined():
-    all_domains = set()
+    all_rules = set()
     for url in URLS:
-        raw_lines = fetch_list(url)
-        for line in raw_lines:
-            domain = normalize_domain(line)
-            if domain:
-                all_domains.add(domain)
-        logging.info(f"Всего уникальных доменов: {len(all_domains)}")
-    sorted_domains = sorted(all_domains)
-    formatted = [f"||{d}^" for d in sorted_domains]
+        rules = fetch_list(url)
+        all_rules.update(rules)
+        logging.info(f"Всего уникальных правил на данный момент: {len(all_rules)}")
+
+    sorted_rules = sorted(all_rules)  # сортировка для стабильности
     out_path = Path("combined.txt")
     
-    # Записываем с заголовком-комментарием
     with open(out_path, "w", encoding="utf-8") as f:
         f.write("! Объединённый список блокировки для AdGuard Home\n")
         f.write(f"! Сгенерировано: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
-        f.write(f"! Количество записей: {len(formatted)}\n")
-        f.write("\n".join(formatted))
+        f.write(f"! Количество записей: {len(sorted_rules)}\n")
+        f.write("\n".join(sorted_rules))
     
-    logging.info(f"Файл {out_path} создан, записей: {len(formatted)}")
+    logging.info(f"Файл {out_path} создан, записей: {len(sorted_rules)}")
 
 if __name__ == "__main__":
     build_combined()
