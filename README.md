@@ -1,17 +1,53 @@
 # Combined AdGuard Home Blocklist
 
 <!-- START_META -->
-**🗓 Дата генерации:** 2026-08-14 02:12:02  
-**📊 Количество записей:** 763858
+**🗓 Дата генерации:** ещё не сгенерировано  
+**📊 Полный список (`combined.txt`):** —  
+**📊 DNS-список (`combined-dns.txt`):** —
 <!-- END_META -->
 
-Автоматически собирает более 50 списков блокировки рекламы, трекеров и вредоносных сайтов, объединяет их и формирует единый файл `combined.txt` для AdGuard Home.
+Автоматически собирает 50+ списков блокировки рекламы, трекеров и вредоносных сайтов и формирует **два** файла.
 
 ## 📥 Использование
 
-Добавьте в AdGuard Home как внешний фильтр:
+### Для AdGuard Home (рекомендуется)
+
+Только сетевые правила (без cosmetic / `$cookie` / `$csp` / scriptlet):
+
+```text
+https://raw.githubusercontent.com/oskord-sudo/adguard-combined-blocklist/main/combined-dns.txt
+```
+
+### Полный список (браузер + DNS)
+
+Все типы правил, включая косметику и annoyances:
+
+```text
 https://raw.githubusercontent.com/oskord-sudo/adguard-combined-blocklist/main/combined.txt
+```
 
-## 🔄 Автоматическое обновление
+## Что внутри
 
-Список обновляется каждые 12 часов (в 00:00 и 12:00 UTC) через GitHub Actions.
+| Файл | Описание |
+|------|----------|
+| `combined.txt` | Полный merge всех источников, дедуп точных строк |
+| `combined-dns.txt` | Только сетевые правила; языковые фильтры сохранены; дубли EasyList убраны |
+
+### Добавлено
+
+- AdGuard Russian filter (`ublock`-путь):  
+  `https://filters.adtidy.org/extension/ublock/filters/1.txt`
+
+### DNS-версия
+
+- Оставляет языковые фильтры  
+- Убирает дубли EasyList / EasyPrivacy / EasyList Germany (остаётся по одной полной копии)  
+- Отфильтровывает cosmetic, `$cookie`, `$csp`, scriptlet  
+- Оставляет правила вида `||domain^`, `@@||...`, hosts, простые домены  
+
+## 🔄 Автообновление
+
+Список обновляется каждые 12 часов (00:00 и 12:00 UTC) через GitHub Actions.  
+
+python scripts/update_readme.py
+```
