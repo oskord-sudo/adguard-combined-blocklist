@@ -1,6 +1,6 @@
 ! Объединённый DNS-список для AdGuard Home (только сетевые правила)
-! Сгенерировано: 2026-08-14 04:24:13
-! Количество записей: 581453
+! Сгенерировано: 2026-08-14 04:37:35
+! Количество записей: 581458
 /&*^$popup,domain=piracyproxy.app|piraproxy.info|unblocked.club|unblockedstreaming.net
 /(.*)\/etacritic\/(.*)/$xhr,uritransform=//$1\/metacritic\/$2/,domain=metacritic.com
 /(946|01|378X96-1|370-1|%D0%91%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-%D0%BB%D0%B0%D0%BD%D1%87-1200-%D0%BD%D0%B0-500-%D0%BF%D0%BA%D1%81\.-2|WhatsApp-Image-2020-08-12-at-12\.59\.32|WhatsApp-Image-2020-01-20-at-11\.51\.19|1200%D1%85100_%D0%90%D0%BD%D0%B3%D0%B0%D1%80%D1%81%D0%BA)\.(gif|jpg|jpeg)/$domain=angarsk38.ru
@@ -107809,6 +107809,7 @@ openx.static.kava.ee
 ||baku.ws/images/banners/
 ||bakuguide.com/rek/
 ||bakulatroolie.shop^
+||bakundalari.com^
 ||bakupost.az/banner
 ||bakupost.az/extra/vumart-top/$domain=medicina.az
 ||bakupost.az/theme/frontend/y/style/default/images/2017-yeni-satis-sertleri_KVADRAT.jpg
@@ -213578,6 +213579,7 @@ openx.static.kava.ee
 ||fkitumbk.com^
 ||fkiuklhqe.com^
 ||fkjdeljfeew32233.com^
+||fkjybdjjbxpys.site^
 ||fkkewlglyayispw.com^
 ||fkkfgerggbroicp.net^
 ||fkkse.com^
@@ -254195,6 +254197,7 @@ openx.static.kava.ee
 ||huxtoq.com^$third-party
 ||huyamba.mobi^
 ||huyapxxwno.com^
+||huydmbpjjlwgx.site^
 ||huystar342.my.id^
 ||huzhanbin.cn^
 ||huzi.com^
@@ -310294,6 +310297,7 @@ openx.static.kava.ee
 ||luuce.jp^
 ||luuce.jp^$doc
 ||luuckylinen.com^
+||luugy.com^
 ||luuib.sillysanta.se^
 ||luujhia.com^
 ||luumhi.whatonearthcatalog.com^
@@ -549735,6 +549739,7 @@ openx.static.kava.ee
 ||vuavjqnpxa.com^
 ||vub-appsk.web.app^$all
 ||vuble.tv^
+||vubmzx.com^
 ||vubu.pl^
 ||vucgxemby.com^
 ||vucmgrwiujj.com^
