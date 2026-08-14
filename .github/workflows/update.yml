@@ -27,8 +27,7 @@ jobs:
       - name: Run merge script
         run: python scripts/merge_filters.py
 
-      # === НОВЫЙ ШАГ: проверка списка на подозрительные записи ===
-      - name: Validate generated list
+      - name: Validate DNS list
         run: python scripts/validate_list.py
 
       - name: Update README with metadata
@@ -38,6 +37,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add combined.txt README.md suspicious.txt  # добавлен suspicious.txt
-          git diff --staged --quiet || git commit -m "Auto-update combined list $(date +'%Y-%m-%d %H:%M')"
+          git add combined.txt combined-dns.txt README.md suspicious.txt
+          git diff --staged --quiet || git commit -m "Auto-update combined lists $(date +'%Y-%m-%d %H:%M')"
           git push
