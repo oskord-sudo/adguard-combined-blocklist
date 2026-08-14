@@ -33,11 +33,6 @@ https://raw.githubusercontent.com/oskord-sudo/adguard-combined-blocklist/main/co
 | `combined.txt` | Полный merge всех источников, дедуп точных строк |
 | `combined-dns.txt` | Только сетевые правила; языковые фильтры сохранены; дубли EasyList убраны |
 
-### Добавлено
-
-- AdGuard Russian filter (`ublock`-путь):  
-  `https://filters.adtidy.org/extension/ublock/filters/1.txt`
-
 ### DNS-версия
 
 - Оставляет языковые фильтры  
@@ -47,7 +42,4 @@ https://raw.githubusercontent.com/oskord-sudo/adguard-combined-blocklist/main/co
 
 ## 🔄 Автообновление
 
-Список обновляется каждые 12 часов (00:00 и 12:00 UTC) через GitHub Actions.  
-
-python scripts/update_readme.py
-```
+Список обновляется каждые 12 часов (00:00 и 12:00 UTC) через GitHub Actions.
