@@ -1,6 +1,6 @@
 ! Объединённый DNS-список для AdGuard Home (только сетевые правила)
-! Сгенерировано: 2026-08-23 12:46:43
-! Количество записей: 603373
+! Сгенерировано: 2026-08-24 01:35:49
+! Количество записей: 603226
 /&*^$popup,domain=piracyproxy.app|piraproxy.info|unblocked.club|unblockedstreaming.net
 /(.*)\/etacritic\/(.*)/$xhr,uritransform=//$1\/metacritic\/$2/,domain=metacritic.com
 /(946|01|378X96-1|370-1|%D0%91%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-%D0%BB%D0%B0%D0%BD%D1%87-1200-%D0%BD%D0%B0-500-%D0%BF%D0%BA%D1%81\.-2|WhatsApp-Image-2020-08-12-at-12\.59\.32|WhatsApp-Image-2020-01-20-at-11\.51\.19|1200%D1%85100_%D0%90%D0%BD%D0%B3%D0%B0%D1%80%D1%81%D0%BA)\.(gif|jpg|jpeg)/$domain=angarsk38.ru
@@ -7479,6 +7479,7 @@
 /rad_singlepageapp.js$script
 /radar/trace?
 /rainbow/master-js
+/rainbow/master-js|$script,domain=nairahost.com.ng|topranktech.com|toolszu.com|roxbold.com|seomagnifier.com|coolseotools.com|helperseotools.com|seovaro.com|digitalvimal.com|proseo.com.br|seoyandira.com|wapmastazone.com|bitfitxalltools.com|njjfeducationcenter.com
 /raja-sloto-$image
 /ramadan-band-widget-*.html$subdocument,domain=ahaber.com.tr
 /random.js$script,domain=lookmovie.*|uppit.ml
@@ -30063,6 +30064,7 @@
 @@||tractorshed.com/photoads/upload/$~third-party
 @@||tradedoubler.com/*www.mediaexpert.pl
 @@||tradedoubler.com^$removeparam=tduid
+@@||tradingref.com^$generichide
 @@||tradingview.com/adx/$subdocument,domain=adx.ae
 @@||tradingview.com^$script,stealth
 @@||traffic.omny.fm/*/clips/$stealth=useragent,domain=iheart.com
@@ -34524,9 +34526,11 @@ openx.static.kava.ee
 ||103.159.221.33^$all
 ||103.160.130.109^$all
 ||103.160.130.178^$all
+||103.161.17.92^$all
 ||103.163.119.220^$all
 ||103.164.117.74^$all
 ||103.164.128.184^$all
+||103.167.175.108^$all
 ||103.168.67.55^$all
 ||103.172.221.97^$all
 ||103.179.189.35^
@@ -34535,22 +34539,18 @@ openx.static.kava.ee
 ||103.20.213.34^$all
 ||103.206.139.61^$all
 ||103.208.202.85^$all
-||103.209.184.118^$all
-||103.209.184.121^$all
 ||103.209.67.34^$all
 ||103.217.215.238^$all
 ||103.224.182.210^
 ||103.226.124.232^$all
 ||103.227.118.45^$all
-||103.229.53.84^$all
 ||103.240.211.121^$all
 ||103.245.10.51^$all
 ||103.245.204.42^$all
 ||103.247.164.242^$all
 ||103.247.218.186^$all
-||103.28.227.58^$all
-||103.31.103.204^$all
 ||103.36.80.114^$all
+||103.4.102.81^$all
 ||103.54.153.49^$all
 ||103.59.134.98^$all
 ||103.68.95.197^$all
@@ -34722,6 +34722,7 @@ openx.static.kava.ee
 ||109.236.46.215^$all
 ||109.245.220.229^$all
 ||109.25.123.70^$all
+||109.69.79.44^$all
 ||109.74.204.206^$all
 ||109.87.223.241^$all
 ||109.92.143.90^$all
@@ -34919,6 +34920,7 @@ openx.static.kava.ee
 ||11.rtcode.com^
 ||11.yiqig.cn^
 ||11.yiqig.com^
+||110.227.197.204^$all
 ||110.93.143.144^
 ||110.vg^
 ||11002111.weebly.com^$all
@@ -34949,7 +34951,6 @@ openx.static.kava.ee
 ||110polizei110.de^
 ||110words.com^
 ||111-design.com^
-||111.228.4.54^$all
 ||111.235.143.155^$all
 ||111.59.254.165^$all
 ||111.72.43.182^$all
@@ -35008,12 +35009,13 @@ openx.static.kava.ee
 ||112-rowaytonave.com^
 ||112.18.10.80^$all
 ||112.198.130.112^$all
+||112.198.186.190^$all
 ||112.229.203.112^$all
 ||112.237.148.180^$all
-||112.238.108.90^$all
 ||112.248.105.21^$all
 ||112.248.106.88^$all
 ||112.248.60.89^$all
+||112.248.83.204^$all
 ||112.254.223.118^$all
 ||112.4.110.28^$all
 ||112.4.110.42^$all
@@ -35047,18 +35049,16 @@ openx.static.kava.ee
 ||113-bca.online^
 ||113.105.248.169^
 ||113.160.251.236^$all
-||113.221.25.59^$all
 ||113.228.140.10^$all
 ||113.229.190.135^$all
 ||113.230.30.175^$all
 ||113.230.68.198^$all
+||113.230.83.154^$all
 ||113.231.127.198^$all
 ||113.231.225.170^$all
 ||113.232.254.209^$all
 ||113.236.118.216^$all
 ||113.236.135.234^$all
-||113.237.104.66^$all
-||113.239.116.131^$all
 ||113.239.216.250^$all
 ||113.239.223.142^$all
 ||113.239.64.220^$all
@@ -35088,6 +35088,7 @@ openx.static.kava.ee
 ||114.226.31.25^$all
 ||114.227.224.253^$all
 ||114.228.132.133^$all
+||114.242.100.72^$all
 ||114.31.8.22^$all
 ||114.31.8.25^$all
 ||114.55.101.133^$all
@@ -35115,28 +35116,27 @@ openx.static.kava.ee
 ||115.190.250.28^$all
 ||115.240.70.185^$all
 ||115.42.71.239^$all
-||115.48.144.135^$all
-||115.48.146.190^$all
-||115.48.149.175^$all
 ||115.49.210.219^$all
 ||115.49.24.80^$all
 ||115.49.6.248^$all
+||115.50.3.162^$all
 ||115.50.82.162^$all
 ||115.51.35.175^$all
 ||115.52.190.88^$all
-||115.52.242.168^$all
 ||115.55.151.152^$all
 ||115.55.161.237^$all
 ||115.55.247.47^$all
 ||115.55.49.244^$all
 ||115.55.55.56^$all
 ||115.56.113.61^$all
+||115.56.125.101^$all
 ||115.57.255.1^$all
-||115.58.177.63^$all
 ||115.58.88.2^$all
+||115.58.88.6^$all
 ||115.60.200.162^$all
 ||115.60.223.148^$all
 ||115.61.118.232^$all
+||115.61.16.37^$all
 ||115.98.147.69^$all
 ||115.at^
 ||115123.com^
@@ -35179,7 +35179,6 @@ openx.static.kava.ee
 ||116k.net^
 ||116kan.com^
 ||116lordspalacebet.com^
-||117.146.92.46^$all
 ||117.157.17.194^$all
 ||117.215.129.223^$all
 ||117.216.139.127^$all
@@ -35253,7 +35252,6 @@ openx.static.kava.ee
 ||119.117.108.130^$all
 ||119.117.164.177^$all
 ||119.166.194.8^$all
-||119.189.172.160^$all
 ||119.192.128.163^$all
 ||119.193.158.215^$all
 ||119.236.238.176^$all
@@ -35375,7 +35373,6 @@ openx.static.kava.ee
 ||120.132.57.41/pjk/pag/ys.php
 ||120.26.166.249^$all
 ||120.28.135.245^$all
-||120.28.219.218^$all
 ||120.46.12.14^$all
 ||120.46.15.254^$all
 ||120.57.122.56^$all
@@ -35386,8 +35383,7 @@ openx.static.kava.ee
 ||120.79.64.164^$all
 ||120.84.213.157^$all
 ||120.84.214.107^$all
-||120.84.214.215^$all
-||120.84.214.70^$all
+||120.84.215.165^$all
 ||120.net^
 ||120030.xyz^
 ||1200555.com^
@@ -35464,6 +35460,7 @@ openx.static.kava.ee
 ||122.170.110.131^$all
 ||122.170.8.40^$all
 ||122.179.136.112^$all
+||122.241.8.175^$all
 ||1223lacrosse.com^
 ||1224.zg-babyroo.com^
 ||1227.com^
@@ -35496,6 +35493,8 @@ openx.static.kava.ee
 ||123.11.180.8^$all
 ||123.117.136.97^$all
 ||123.12.234.38^$all
+||123.13.1.98^$all
+||123.13.48.131^$all
 ||123.13.74.177^$all
 ||123.132.158.53^$all
 ||123.132.166.255^$all
@@ -35514,7 +35513,6 @@ openx.static.kava.ee
 ||123.249.20.250^$all
 ||123.254.108.116^$all
 ||123.4.233.107^$all
-||123.5.171.102^$all
 ||123.57.250.154^$all
 ||123.8.30.116^$all
 ||123.8.9.18^$all
@@ -35912,15 +35910,11 @@ openx.static.kava.ee
 ||125.41.1.142^$all
 ||125.41.228.121^$all
 ||125.42.30.58^$all
-||125.43.20.178^$all
-||125.43.246.89^$all
 ||125.44.38.130^$all
 ||125.44.39.164^$all
 ||125.45.57.136^$all
 ||125.46.213.70^$all
-||125.47.246.199^$all
 ||125.47.32.24^$all
-||125.47.87.135^$all
 ||125.net.jumia.co.ke^
 ||125151.com^
 ||12530.info^
@@ -36064,6 +36058,7 @@ openx.static.kava.ee
 ||13.accessbenefitscenter.com^$all
 ||13.notifysrv.com^
 ||130.12.182.175^$all
+||130.12.182.77^$all
 ||130.12.209.153^$all
 ||130.162.240.8^$all
 ||130.185.193.208^$all
@@ -36213,7 +36208,6 @@ openx.static.kava.ee
 ||139.162.53.175^$all
 ||139.196.111.118^$all
 ||139.198.15.223^$all
-||139.255.97.116^$all
 ||139003.com^
 ||1391.com^
 ||139130.com^
@@ -36465,6 +36459,7 @@ openx.static.kava.ee
 ||15-minute-appointment.com^
 ||150.158.25.244^$all
 ||150.187.25.242^$all
+||150.241.65.250^$all
 ||150.95.27.35^$all
 ||150.co.il/rustdesk-1.2.3-2-x86_64.exe^$all
 ||1500020991.vodplayer.wxamedia.com^
@@ -36684,6 +36679,7 @@ openx.static.kava.ee
 ||162.215.218.94^$all
 ||162.246.26.77^$all
 ||162.252.214.4^
+||162.255.251.91^$all
 ||162.89.74.97.host.secureserver.net^$all
 ||1620labs.com^
 ||1620thebrightside.com^
@@ -36693,9 +36689,7 @@ openx.static.kava.ee
 ||16268.com^
 ||162yy.com^
 ||163.142.87.19^$all
-||163.142.92.221^$all
 ||163.142.92.235^$all
-||163.142.93.0^$all
 ||163.142.93.152^$all
 ||163.142.94.220^$all
 ||163.142.94.45^$all
@@ -36720,6 +36714,7 @@ openx.static.kava.ee
 ||165.154.184.75^$all
 ||165.73.108.6^$all
 ||1651.us^
+||16513i3bqq8uuuuy4k.cfd^
 ||165cao.com^
 ||165tchuang.com^
 ||166-google.com^
@@ -36917,17 +36912,15 @@ openx.static.kava.ee
 ||175.146.159.250^$all
 ||175.146.231.101^$all
 ||175.146.54.164^$all
-||175.147.159.41^$all
-||175.149.88.173^$all
 ||175.150.176.248^$all
-||175.150.177.126^$all
 ||175.150.250.245^$all
-||175.150.26.8^$all
 ||175.151.224.238^$all
 ||175.151.74.60^$all
 ||175.151.83.137^$all
 ||175.165.142.110^$all
 ||175.165.85.188^$all
+||175.167.77.1^$all
+||175.169.60.91^$all
 ||175.173.72.28^$all
 ||175.174.102.151^$all
 ||175.174.110.158^$all
@@ -36959,7 +36952,7 @@ openx.static.kava.ee
 ||176.65.139.209^$all
 ||176.65.139.211^$all
 ||176.65.139.212^$all
-||176.65.139.228^$all
+||176.65.139.226^$all
 ||176.65.139.229^$all
 ||176.65.139.230^$all
 ||176.65.139.232^$all
@@ -37095,9 +37088,6 @@ openx.static.kava.ee
 ||180.149.198.22^$all
 ||180.191.122.115^$all
 ||180.191.42.15^$all
-||180.252.216.68^$all
-||180.76.137.37^$all
-||180.76.141.175^$all
 ||180.76.153.78^$all
 ||180.76.2.18^
 ||180.92.225.138^$all
@@ -37132,6 +37122,8 @@ openx.static.kava.ee
 ||181.129.100.123^$all
 ||181.129.177.162^$all
 ||181.171.188.254^$all
+||181.193.59.78^$all
+||181.193.62.225^$all
 ||181.211.252.34^$all
 ||181.49.47.190^$all
 ||181.55.251.93^$all
@@ -37148,23 +37140,23 @@ openx.static.kava.ee
 ||182.109.0.22^$all
 ||182.112.6.161^$all
 ||182.113.205.36^$all
-||182.113.3.74^$all
 ||182.113.34.181^$all
 ||182.113.40.115^$all
 ||182.116.20.151^$all
 ||182.116.21.39^$all
 ||182.116.23.190^$all
 ||182.117.0.179^$all
-||182.117.79.50^$all
+||182.117.71.91^$all
 ||182.117.86.246^$all
 ||182.119.205.237^$all
 ||182.120.1.2^$all
+||182.120.96.20^$all
 ||182.121.137.156^$all
 ||182.123.210.95^$all
+||182.125.18.121^$all
 ||182.126.118.161^$all
+||182.126.124.102^$all
 ||182.126.201.118^$all
-||182.127.168.179^$all
-||182.127.178.111^$all
 ||182.130.209.58^$all
 ||182.160.102.188^$all
 ||182.160.116.52^$all
@@ -37192,7 +37184,6 @@ openx.static.kava.ee
 ||182cao.com^
 ||183.188.77.45^$all
 ||183.81.156.121^$all
-||183.81.156.123^$all
 ||183.81.156.124^$all
 ||183.81.156.125^$all
 ||183.83.186.77^$all
@@ -37205,6 +37196,7 @@ openx.static.kava.ee
 ||184.106.248.76^
 ||184.154.142.242/download.aspx?
 ||184.164.88.220^$app=com.newtime.hp.templetreasure
+||184.174.20.150^$all
 ||184.185.30.182^$all
 ||18409237.xyz^$all
 ||1840events.com^
@@ -37217,15 +37209,16 @@ openx.static.kava.ee
 ||184c4i95p.de^
 ||185-217-0-181.ip.obe.net^$all
 ||185.103.130.250^$all
+||185.104.63.79^$all
 ||185.118.128.34^$all
 ||185.12.78.161^$all
 ||185.133.214.138^$all
-||185.136.195.193^$all
 ||185.147.34.126^$popup
 ||185.149.120.173^
 ||185.152.219.150^$all
 ||185.165.169.108^$websocket,third-party
 ||185.166.91.145^$all
+||185.168.227.130^$all
 ||185.17.146.156^$all
 ||185.190.20.228^$all
 ||185.191.89.120^$all
@@ -37233,6 +37226,7 @@ openx.static.kava.ee
 ||185.193.38.148^
 ||185.2.229.122^$all
 ||185.20.19.72^$all
+||185.205.226.191^$all
 ||185.216.143.121^
 ||185.224.107.4^$all
 ||185.233.94.151^$all
@@ -37447,7 +37441,6 @@ openx.static.kava.ee
 ||190.113.124.155^$all
 ||190.12.99.194^$all
 ||190.145.205.178^$all
-||190.183.254.69^$all
 ||190.196.38.77^$all
 ||190.2.237.104^$all
 ||1900196654.p04.elqsandbox.com^
@@ -37512,9 +37505,9 @@ openx.static.kava.ee
 ||192z.xyz^
 ||193.104.58.65^$all
 ||193.106.58.174^$all
+||193.111.117.135^$all
 ||193.135.9.84^$all
 ||193.163.187.213^$all
-||193.163.187.73^$all
 ||193.165.245.46^$all
 ||193.200.64.20^
 ||193.200.64.24^
@@ -37540,7 +37533,6 @@ openx.static.kava.ee
 ||195-242-152-122.static.hvvc.us^
 ||195-242-152-122.static.hvvc.us^$document,popup
 ||195.103.203.106^$all
-||195.158.88.156^$all
 ||195.178.110.204^$all
 ||195.201.45.92^$all
 ||195.242.152.122^$all
@@ -37551,9 +37543,9 @@ openx.static.kava.ee
 ||1951.us^
 ||19515bia.de^
 ||196.189.3.1^$all
+||196.190.10.252^$all
 ||196.251.107.186^$all
 ||196.251.121.142^$all
-||196.251.121.185^$all
 ||196.251.85.197^$all
 ||196.39.143.113^$all
 ||196.44.167.72.host.secureserver.net^$all
@@ -38545,6 +38537,7 @@ openx.static.kava.ee
 ||2.1lr.de^
 ||2.26.136.128^$all
 ||2.26.81.46^$all
+||2.27.248.13^$all
 ||2.54.238.31^$all
 ||2.54.239.97^$all
 ||2.54.239.98^$all
@@ -38556,6 +38549,7 @@ openx.static.kava.ee
 ||2.54.88.189^$all
 ||2.54.88.190^$all
 ||2.54.89.92^$all
+||2.54.96.198^$all
 ||2.54.96.52^$all
 ||2.55.126.179^$all
 ||2.55.81.169^$all
@@ -38702,6 +38696,7 @@ openx.static.kava.ee
 ||201vulkanvegas.com^
 ||202.105.196.30^$all
 ||202.107.0.250^$all
+||202.129.16.119^$all
 ||202.129.16.172^$all
 ||202.131.234.26^$all
 ||202.137.141.244^$all
@@ -38841,7 +38836,6 @@ openx.static.kava.ee
 ||203.195.121.74^
 ||203.195.121.74^$popup
 ||203.212.222.22^$all
-||203.57.109.214^$all
 ||203.76.108.6^$all
 ||203.83.186.62^$all
 ||20353.com^
@@ -38868,7 +38862,6 @@ openx.static.kava.ee
 ||20573691.xyz^$all
 ||20590def33.com^
 ||206.214.35.106^$all
-||206.245.165.5^$all
 ||206.54.181.250^
 ||2069372430.com^
 ||206ads.com^
@@ -38931,6 +38924,7 @@ openx.static.kava.ee
 ||21.huanqiu.com^
 ||21.zhaozongjie.com^
 ||210.16.163.207^$all
+||210.208.110.21^$all
 ||210.71.197.175^$all
 ||21010010x1.weebly.com^$all
 ||210189.com^
@@ -39012,6 +39006,7 @@ openx.static.kava.ee
 ||217.154.188.255^$all
 ||217.168.128.146^$all
 ||217.208.164.149^$all
+||217.60.102.12^$all
 ||217.60.195.113^$all
 ||217.60.195.219^$all
 ||217.60.241.32^$all
@@ -39031,9 +39026,9 @@ openx.static.kava.ee
 ||218080.com^
 ||2187999.com^
 ||218emo1t.de^
+||219.154.188.157^$all
 ||219.155.81.115^$all
 ||219.156.34.146^$all
-||219.157.249.227^$all
 ||2196tka.top^$all
 ||2198785035.luamaya.com^
 ||21a3ff363a.com^
@@ -39083,6 +39078,7 @@ openx.static.kava.ee
 ||22-plaisir.com^
 ||22-trading.com^
 ||22-trk-srv.com^
+||220.118.75.244^$all
 ||220.177.11.228^$all
 ||220.178.8.154^$all
 ||220.180.99.71^$all
@@ -39099,6 +39095,7 @@ openx.static.kava.ee
 ||221.13.235.11^$all
 ||221.143.49.222^$all
 ||221.15.184.239^$all
+||221.202.22.141^$all
 ||221.225.253.118^$all
 ||2212socket.com^
 ||22153974.branch.rocks^
@@ -39107,17 +39104,15 @@ openx.static.kava.ee
 ||222-t.com^
 ||222.127.220.233^$all
 ||222.127.49.161^$all
-||222.127.53.189^$all
 ||222.136.52.188^$all
 ||222.137.174.198^$all
+||222.138.116.230^$all
 ||222.138.117.213^$all
-||222.138.235.135^$all
 ||222.139.42.27^$all
 ||222.140.182.112^$all
 ||222.140.183.208^$all
 ||222.140.183.70^$all
 ||222.141.138.63^$all
-||222.142.73.193^$all
 ||222.165.237.58^$all
 ||222.165.237.59^$all
 ||222.165.237.60^$all
@@ -39142,7 +39137,6 @@ openx.static.kava.ee
 ||222brixlix.com^
 ||222gallery.com^
 ||222srrr.weebly.com^$all
-||223.105.50.190^$all
 ||223.108.58.13^$all
 ||223.108.58.15^$all
 ||223.108.82.26^$all
@@ -39297,7 +39291,6 @@ openx.static.kava.ee
 ||23.224.89.2^
 ||23.231.151.252^
 ||23.238.39.247^$all
-||23.239.12.230^$all
 ||23.254.227.236^$all
 ||23.83.114.131^
 ||23.83.67.164^
@@ -39789,8 +39782,8 @@ openx.static.kava.ee
 ||26zsd.cn^
 ||27-theproject.com^
 ||27.125.169.235^$all
-||27.147.196.138^$all
 ||27.147.225.2^$all
+||27.152.11.30^$all
 ||27.202.245.161^$all
 ||27.203.158.156^$all
 ||27.204.195.233^$all
@@ -40125,6 +40118,7 @@ openx.static.kava.ee
 ||2eraflk3d.de^
 ||2euqnxt25.com^
 ||2explore.com^
+||2eyd6n.share-eu1.hsforms.com^$all
 ||2f-kanzlei.com^
 ||2f.9fz8rn9rqlfeimjoyic3uij.cfd^
 ||2f0bf9baae.5dede791d0.com^
@@ -40132,6 +40126,7 @@ openx.static.kava.ee
 ||2f1969b0e8.com^
 ||2f20f7a413.com^
 ||2f2d60b8b5.com^
+||2f2mnz.share-eu1.hsforms.com^$all
 ||2f3.555b2b.com^
 ||2f31fe3l1.de^
 ||2f3747e327.com^
@@ -40140,38 +40135,168 @@ openx.static.kava.ee
 ||2f44166f35.com^
 ||2f4a93wskk.com^
 ||2f4cb8b93e.8acd6b63f9.com^
+||2f4lhg.share-eu1.hsforms.com^$all
+||2f4u40.share-eu1.hsforms.com^$all
+||2f4uih.share-eu1.hsforms.com^$all
+||2f5doi.share-eu1.hsforms.com^$all
+||2f5ju0.share-eu1.hsforms.com^$all
 ||2f5ws6.wiki^$all
+||2f6008.share-eu1.hsforms.com^$all
+||2f602l.share-eu1.hsforms.com^$all
+||2f608j.share-eu1.hsforms.com^$all
+||2f609y.share-eu1.hsforms.com^$all
+||2f60fd.share-eu1.hsforms.com^$all
+||2f60mx.share-eu1.hsforms.com^$all
+||2f60t4.share-eu1.hsforms.com^$all
+||2f60w6.share-eu1.hsforms.com^$all
+||2f60yv.share-eu1.hsforms.com^$all
+||2f610i.share-eu1.hsforms.com^$all
 ||2f6236ba47.com^
+||2f63f0.share-eu1.hsforms.com^$all
 ||2f63g.top^
+||2f6crk.share-eu1.hsforms.com^$all
 ||2f6dc696ee.com^
 ||2f7cae6ec9.a41ffeba4a.com^
+||2f81cy.share-eu1.hsforms.com^$all
+||2f8k2x.share-eu1.hsforms.com^$all
+||2f8ml3.share-eu1.hsforms.com^$all
 ||2f8pb9p7x3o1c21.cyou^
 ||2f949c671adc.top^
 ||2fa.com-token-auth.com^
 ||2fa3c2fa16c47d9b9bff8986a42b048f.com^
+||2fa4vr.share-eu1.hsforms.com^$all
 ||2fac37d3043958c40b070aa9e03761887235aae62f9a51e2caa649f9.com^
+||2fagup.share-eu1.hsforms.com^$all
 ||2famondatory-protection.com^
 ||2famondatory.com^
+||2fandy.share-eu1.hsforms.com^$all
 ||2faplugin.org^
 ||2farmersb4nk76.weebly.com^$all
+||2fas2g.share-eu1.hsforms.com^$all
 ||2faseserver.iacursos.com.br^
 ||2fastsurfer.com^
 ||2fb8or7ai.de^
+||2fbg26.share-eu1.hsforms.com^$all
+||2fc95t.share-eu1.hsforms.com^$all
 ||2fcde24f87.com^
 ||2fd3ref.casa^
+||2fd57p.share-eu1.hsforms.com^$all
+||2fd672.share-eu1.hsforms.com^$all
 ||2fd86-j7ic3-7s49z5-jkffss.pages.dev^$all
+||2fde2u.share-eu1.hsforms.com^$all
+||2fdshu.share-eu1.hsforms.com^$all
 ||2fdwr2.hair^
+||2fe5fm.share-eu1.hsforms.com^$all
+||2fed09.share-eu1.hsforms.com^$all
 ||2feet4paws.ae^
 ||2ff08844f2.com^
+||2ffa3n.share-eu1.hsforms.com^$all
+||2ffjn2.share-eu1.hsforms.com^$all
+||2ffjng.share-eu1.hsforms.com^$all
+||2ffjow.share-eu1.hsforms.com^$all
+||2ffjq8.share-eu1.hsforms.com^$all
+||2ffjvn.share-eu1.hsforms.com^$all
+||2ffk4m.share-eu1.hsforms.com^$all
+||2ffkcm.share-eu1.hsforms.com^$all
+||2ffkd4.share-eu1.hsforms.com^$all
+||2ffkjk.share-eu1.hsforms.com^$all
+||2fgl98.share-eu1.hsforms.com^$all
+||2fgoz3.share-eu1.hsforms.com^$all
+||2fgrfc.share-eu1.hsforms.com^$all
 ||2fgrrc9t0.de^
+||2fgxtj.share-eu1.hsforms.com^$all
 ||2fh.co^
+||2fh9fa.share-eu1.hsforms.com^$all
+||2fha66.share-eu1.hsforms.com^$all
+||2fhaxq.share-eu1.hsforms.com^$all
+||2fhb0c.share-eu1.hsforms.com^$all
+||2fhb1j.share-eu1.hsforms.com^$all
+||2fhb3d.share-eu1.hsforms.com^$all
+||2fhb45.share-eu1.hsforms.com^$all
+||2fhb7w.share-eu1.hsforms.com^$all
+||2fhbgp.share-eu1.hsforms.com^$all
+||2fhcqi.share-eu1.hsforms.com^$all
+||2fhcxb.share-eu1.hsforms.com^$all
 ||2fhn1qmca.com^
+||2fhqtt.share-eu1.hsforms.com^$all
+||2fi76b.share-eu1.hsforms.com^$all
+||2fif1e.share-eu1.hsforms.com^$all
+||2fif1g.share-eu1.hsforms.com^$all
+||2fiout.share-eu1.hsforms.com^$all
+||2fiq8c.share-eu1.hsforms.com^$all
+||2fitxu.share-eu1.hsforms.com^$all
+||2fj0zt.share-eu1.hsforms.com^$all
+||2fj17a.share-eu1.hsforms.com^$all
+||2fj1nx.share-eu1.hsforms.com^$all
+||2fj9ad.share-eu1.hsforms.com^$all
+||2fjdcm.share-eu1.hsforms.com^$all
+||2fjdku.share-eu1.hsforms.com^$all
+||2fjf69.share-eu1.hsforms.com^$all
 ||2fjxw3dyip.com^
 ||2fk0iss45c.ru^$third-party
+||2fk25a.share-eu1.hsforms.com^$all
+||2fk25d.share-eu1.hsforms.com^$all
+||2fk7of.share-eu1.hsforms.com^$all
+||2fk8ln.share-eu1.hsforms.com^$all
+||2fk8mn.share-eu1.hsforms.com^$all
+||2fk8ru.share-eu1.hsforms.com^$all
+||2fkadd.share-eu1.hsforms.com^$all
+||2fkcm6.share-eu1.hsforms.com^$all
+||2fkcz7.share-eu1.hsforms.com^$all
+||2fkjfj.share-eu1.hsforms.com^$all
+||2fkren.share-eu1.hsforms.com^$all
+||2fkwvp.share-eu1.hsforms.com^$all
+||2fl2hc.share-eu1.hsforms.com^$all
+||2fl3ba.share-eu1.hsforms.com^$all
 ||2fl6oyjw3qtj9eq3lg84j5tth4tg8um.cyou^
+||2fle20.share-eu1.hsforms.com^$all
+||2fle4r.share-eu1.hsforms.com^$all
+||2flefh.share-eu1.hsforms.com^$all
+||2fleie.share-eu1.hsforms.com^$all
+||2flfwk.share-eu1.hsforms.com^$all
+||2flip6.share-eu1.hsforms.com^$all
+||2flywb.share-eu1.hsforms.com^$all
+||2fm1z0.share-eu1.hsforms.com^$all
+||2fmab5.share-eu1.hsforms.com^$all
 ||2fmail-aiu-edu-sy-2fowa-2f.weebly.com^$all
+||2fmdms.share-eu1.hsforms.com^$all
+||2fmeb9.share-eu1.hsforms.com^$all
+||2fmkbw.share-eu1.hsforms.com^$all
+||2fmmbd.share-eu1.hsforms.com^$all
+||2fmmf5.share-eu1.hsforms.com^$all
+||2fmmn8.share-eu1.hsforms.com^$all
+||2fmmnd.share-eu1.hsforms.com^$all
+||2fmms3.share-eu1.hsforms.com^$all
+||2fmmwl.share-eu1.hsforms.com^$all
+||2fmmxs.share-eu1.hsforms.com^$all
+||2fmopp.share-eu1.hsforms.com^$all
+||2fmti3.share-eu1.hsforms.com^$all
+||2fmtkm.share-eu1.hsforms.com^$all
+||2fn27k.share-eu1.hsforms.com^$all
+||2fniy3.share-eu1.hsforms.com^$all
 ||2fnptjci.de^
+||2fo1ul.share-eu1.hsforms.com^$all
+||2fobiv.share-eu1.hsforms.com^$all
+||2focz9.share-eu1.hsforms.com^$all
+||2fojkn.share-eu1.hsforms.com^$all
+||2fos96.share-eu1.hsforms.com^$all
+||2fosa2.share-eu1.hsforms.com^$all
+||2fossp.share-eu1.hsforms.com^$all
 ||2fot3j1sdw.data.adobedc.net^
+||2fotep.share-eu1.hsforms.com^$all
+||2fp3ko.share-eu1.hsforms.com^$all
+||2fp3nr.share-eu1.hsforms.com^$all
+||2fpfn5.share-eu1.hsforms.com^$all
+||2fpg12.share-eu1.hsforms.com^$all
+||2fpmha.share-eu1.hsforms.com^$all
+||2fpnxj.share-eu1.hsforms.com^$all
+||2fpse6.share-eu1.hsforms.com^$all
+||2fqbc3.share-eu1.hsforms.com^$all
+||2fql2r.share-eu1.hsforms.com^$all
+||2fqllg.share-eu1.hsforms.com^$all
+||2fqoql.share-eu1.hsforms.com^$all
+||2fr7tj.share-eu1.hsforms.com^$all
+||2fr9fn.share-eu1.hsforms.com^$all
 ||2freunde.com^
 ||2fwebmail-maastrich-tuniversity-nl.weebly.com^$all
 ||2fyzxp40.xyz^
@@ -40658,6 +40783,7 @@ openx.static.kava.ee
 ||31.170.22.205^$all
 ||31.173.70.100^$all
 ||31.184.194.114^$all
+||31.220.3.140^$all
 ||31.222.113.214^$all
 ||31.28.31.6^$all
 ||31.4.254.241^$all
@@ -41873,7 +41999,6 @@ openx.static.kava.ee
 ||39.100.33.142^$all
 ||39.105.200.188^$all
 ||39.105.223.127^$all
-||39.61.46.143^$all
 ||39.77.48.16^$all
 ||39.79.0.238^$all
 ||39.80.60.21^$all
@@ -42679,6 +42804,8 @@ openx.static.kava.ee
 ||40ton.net/wp-content/uploads/*.png$image
 ||40vhwswtr6.com^
 ||40voxia.net^
+||40vpel.share-na2.hsforms.com^$all
+||40zieb.share-na2.hsforms.com^$all
 ||41-world.com^
 ||41.162.188.251^$all
 ||41.215.23.222^$all
@@ -42689,6 +42816,7 @@ openx.static.kava.ee
 ||4104214.notify6.com^
 ||4106200.notify6.com^
 ||4107269.ranking.fc2.com^
+||410fiv.share-na2.hsforms.com^$all
 ||410hh.com^
 ||410tv.com^
 ||411-spyware.com^
@@ -42696,6 +42824,7 @@ openx.static.kava.ee
 ||411sync.com^
 ||411vote.org^
 ||4120weddings.com^
+||4123w1.share-na2.hsforms.com^$all
 ||41278059.xyz^$all
 ||412dyo1ef.com^
 ||4130286.notify6.com^
@@ -42722,6 +42851,8 @@ openx.static.kava.ee
 ||4152328.notify6.com^
 ||4154-aanmelden.verificatie.qzz.io^$all
 ||4156997226.c2505048e9.com^
+||415ds0.share-na2.hsforms.com^$all
+||415onh.share-na2.hsforms.com^$all
 ||415tacobar.com^
 ||4160112.notify6.com^
 ||4162032.notify6.com^
@@ -42739,8 +42870,10 @@ openx.static.kava.ee
 ||4177784.notify6.com^
 ||4178782.notify6.com^
 ||4178xqa.hair^$all
+||41795q.share-na2.hsforms.com^$all
 ||4179930.notify6.com^
 ||4179tpo.top^$all
+||417w1c.share-na2.hsforms.com^$all
 ||4181c242d6.ddb853e3a4.com^
 ||4182036.notify6.com^
 ||4188246.notify6.com^
@@ -42752,11 +42885,16 @@ openx.static.kava.ee
 ||4196012.notify6.com^
 ||4197720.notify6.com^
 ||4197730.notify6.com^
+||419m76.share-na2.hsforms.com^$all
 ||419revolution.org^
+||41a095.share-na2.hsforms.com^$all
 ||41afdva.net^
+||41b1m5.share-na2.hsforms.com^$all
 ||41b5a9e1ab.02228640b9.com^
 ||41bcf8ddc1.com^
+||41brtx.share-na2.hsforms.com^$all
 ||41e67cacf7.com^
+||41eewf.share-na2.hsforms.com^$all
 ||41f0b8b6bf0d587e.com^
 ||41hckkm9.xyz^
 ||41nzp6k.top^$all
@@ -42774,15 +42912,11 @@ openx.static.kava.ee
 ||42.224.49.156^$all
 ||42.224.70.52^$all
 ||42.225.15.213^$all
-||42.226.211.193^$all
+||42.227.205.122^$all
 ||42.227.206.54^$all
 ||42.228.221.46^$all
 ||42.230.42.7^$all
-||42.231.184.120^$all
-||42.231.203.243^$all
-||42.231.79.131^$all
 ||42.231.89.132^$all
-||42.232.179.142^$all
 ||42.235.82.252^$all
 ||42.239.76.28^$all
 ||42.4.17.29^$all
@@ -42793,7 +42927,6 @@ openx.static.kava.ee
 ||42.53.55.170^$all
 ||42.53.59.112^$all
 ||42.54.15.53^$all
-||42.54.159.124^$all
 ||42.54.177.157^$all
 ||42.54.8.116^$all
 ||42.56.136.70^$all
@@ -42807,8 +42940,6 @@ openx.static.kava.ee
 ||42.85.51.157^$all
 ||42.86.128.27^$all
 ||42.87.111.88^$all
-||42.87.163.211^$all
-||42.87.221.249^$all
 ||42.by31x2o62bknl6996wv.cyou^
 ||42017531ea.811b27ab9f.com^
 ||4207008.com^
@@ -43044,7 +43175,6 @@ openx.static.kava.ee
 ||45.115.254.91^$all
 ||45.118.79.103^$all
 ||45.125.44.137^$all
-||45.129.231.1^$all
 ||45.138.16.51^$all
 ||45.141.119.82^$all
 ||45.147.202.53^$all
@@ -43205,7 +43335,6 @@ openx.static.kava.ee
 ||47.236.122.72^$all
 ||47.236.146.147^$all
 ||47.236.149.142^$all
-||47.236.172.100^$all
 ||47.236.28.220^$all
 ||47.236.70.102^$all
 ||47.237.124.1^$all
@@ -43751,7 +43880,6 @@ openx.static.kava.ee
 ||4rxofficial.com^
 ||4rzph5ytr.com^
 ||4satruck.org^
-||4screen.com^
 ||4sd1.xyz^
 ||4seasonoutfitter.com^
 ||4seeresults.com^
@@ -45001,6 +45129,7 @@ openx.static.kava.ee
 ||5yc8ui0n3j.com^
 ||5ye7uy.hair^
 ||5ye7uy.hair^$all
+||5ygpzehz27pbji6qtbe5.cfd^
 ||5ym-q2k-wjuiz7-vpczkb-vv9wd3.pages.dev^$all
 ||5yqi3kg1g.com^
 ||5yrra.deshuangwang.cn^
@@ -45021,7 +45150,6 @@ openx.static.kava.ee
 ||6.kl8f4kge3c3zfh5v1jziqefpbmcv4rzx.cfd^
 ||60.162.38.51^$all
 ||60.18.84.125^$all
-||60.184.140.145^$all
 ||60.187.252.24^$all
 ||60.190.139.164^
 ||60.205.248.70^$all
@@ -45029,6 +45157,7 @@ openx.static.kava.ee
 ||60.22.193.90^$all
 ||60.22.195.207^$all
 ||60.22.23.50^$all
+||60.22.248.177^$all
 ||60.23.123.119^$all
 ||60.23.192.74^$all
 ||60.23.194.206^$all
@@ -45099,9 +45228,6 @@ openx.static.kava.ee
 ||61.243.238.134^$all
 ||61.244.254.110^$all
 ||61.52.184.70^$all
-||61.52.45.140^$all
-||61.52.62.249^$all
-||61.53.123.190^$all
 ||61.53.205.255^$all
 ||61.53.75.99^$all
 ||61.53.83.215^$all
@@ -45345,7 +45471,6 @@ openx.static.kava.ee
 ||66-23-193-126.traefik.me^
 ||66-trk-srv.com^
 ||66.185.26.66^$all
-||66.212.173.225^$all
 ||66.228.52.30^
 ||66.39.79.68^$all
 ||66.71.242.67^$all
@@ -45726,6 +45851,7 @@ openx.static.kava.ee
 ||6figaff.com^
 ||6fl4-krkoo-o9li-029w-qbsig2.pages.dev^$all
 ||6fm4dcpj31.com^
+||6fr977irn38yb4umkjh.rest^
 ||6fv8-uxh-cbh-gn6lq-8q8lia.pages.dev^$all
 ||6fxtpu64lxyt.com^
 ||6fzt17pkr6a1de5.kvest.ee^
@@ -46048,6 +46174,7 @@ openx.static.kava.ee
 ||71ybxtqp3ci94tyc9x7.cfd^
 ||71zrh.cn^
 ||72.132.64.183^$all
+||72.255.30.244^$all
 ||72.29.46.195^$all
 ||72.56.52.158^$all
 ||720-trail.co.uk^
@@ -47176,10 +47303,7 @@ openx.static.kava.ee
 ||83.68.249.16^$all
 ||8304mxe.top^$all
 ||83073324.xyz^
-||8307999.fls.doubleclick.net/activityi;dc_pre=CJf21dqo0oMDFcy-0QQd-2kFEQ;src=8307999;type=mob18c;cat=mob05;ord=5812182854894;gcldc=COuk68vDzoMDFdCT_QcdZNYBcw;auiddc=825799607.1704742812;u1=Non%20logue;u2=GA1.2.1441804673.1704742811;u6=forfait_postpaid_fmo_orange;u7=DOC00000000000002055;u8=S%c3%a9rie%20Sp%c3%a9ciale%20120Go%205G;u9=19.99;u23=mobile;u24=forfait_postpaid;u26=Web;u25=mobile;u43=yes;u10=1;u33=fiche_forfait;u34=DOC00000000000002055;u35=S%c3%a9rie%20Sp%c3%a9ciale%20120Go%205G;u36=19.99;u37=forfait_postpaid_fmo_orange;u40=false;u41=/tags.tiqcdn.com/utag/orange/frshoporange/prod/;u74=1;u75=https:/boutique.orange.fr/mobile/offre/forfait-serie-speciale-client-internet?dclid=COuk68vDzoMDFdCT_QcdZNYBcw;u65=COuk68vDzoMDFdCT_QcdZNYBcw;gtm=45fe4130v9166344026;gcd=11l1l1l1l1;dma=0;tcfd=10000;epver=2;~oref=https:/boutique.orange.fr/mobile/offre/forfait-serie-speciale-client-internet?dclid=COuk68vDzoMDFdCT_QcdZNYBcw^$all
-||8307999.fls.doubleclick.net/activityi;dc_pre=CPfo1tqo0oMDFckjTwgdxcsKdg;src=8307999;type=mob18c;cat=mob14;ord=718829412486;gcldc=COuk68vDzoMDFdCT_QcdZNYBcw;auiddc=825799607.1704742812;u2=GA1.2.1441804673.1704742811;u26=Web;u23=mobile;u24=forfait_postpaid;u25=mobile;u1=Non%20logue;u43=yes;u6=forfait_postpaid_fmo_orange;u7=DOC00000000000002055;u8=S%c3%a9rie%20Sp%c3%a9ciale%20120Go%205G;u9=19.99;u10=1;u33=fiche_forfait;u34=DOC00000000000002055;u35=S%c3%a9rie%20Sp%c3%a9ciale%20120Go%205G;u36=19.99;u37=forfait_postpaid_fmo_orange;u40=false;u41=/tags.tiqcdn.com/utag/orange/frshoporange/prod/;u63=orange;u74=1;u75=https:/boutique.orange.fr/mobile/offre/forfait-serie-speciale-client-internet?dclid=COuk68vDzoMDFdCT_QcdZNYBcw;u65=COuk68vDzoMDFdCT_QcdZNYBcw;gtm=45fe4130v9166344026;gcd=11l1l1l1l1;dma=0;tcfd=10000;epver=2;~oref=https:/boutique.orange.fr/mobile/offre/forfait-serie-speciale-client-internet?dclid=COuk68vDzoMDFdCT_QcdZNYBcw^$all
-||8307999.fls.doubleclick.net/activityi;src=8307999;type=mob18c;cat=mob05;ord=5812182854894;gcldc=COuk68vDzoMDFdCT_QcdZNYBcw;auiddc=825799607.1704742812;u1=Non%20logue;u2=GA1.2.1441804673.1704742811;u6=forfait_postpaid_fmo_orange;u7=DOC00000000000002055;u8=S%c3%a9rie%20Sp%c3%a9ciale%20120Go%205G;u9=19.99;u23=mobile;u24=forfait_postpaid;u26=Web;u25=mobile;u43=yes;u10=1;u33=fiche_forfait;u34=DOC00000000000002055;u35=S%c3%a9rie%20Sp%c3%a9ciale%20120Go%205G;u36=19.99;u37=forfait_postpaid_fmo_orange;u40=false;u41=/tags.tiqcdn.com/utag/orange/frshoporange/prod/;u74=1;u75=https:/boutique.orange.fr/mobile/offre/forfait-serie-speciale-client-internet?dclid=COuk68vDzoMDFdCT_QcdZNYBcw;u65=COuk68vDzoMDFdCT_QcdZNYBcw;gtm=45fe4130v9166344026;gcd=11l1l1l1l1;dma=0;tcfd=10000;epver=2;~oref=https:/boutique.orange.fr/mobile/offre/forfait-serie-speciale-client-internet?dclid=COuk68vDzoMDFdCT_QcdZNYBcw^$all
-||8307999.fls.doubleclick.net/activityi;src=8307999;type=mob18c;cat=mob14;ord=718829412486;gcldc=COuk68vDzoMDFdCT_QcdZNYBcw;auiddc=825799607.1704742812;u2=GA1.2.1441804673.1704742811;u26=Web;u23=mobile;u24=forfait_postpaid;u25=mobile;u1=Non%20logue;u43=yes;u6=forfait_postpaid_fmo_orange;u7=DOC00000000000002055;u8=S%c3%a9rie%20Sp%c3%a9ciale%20120Go%205G;u9=19.99;u10=1;u33=fiche_forfait;u34=DOC00000000000002055;u35=S%c3%a9rie%20Sp%c3%a9ciale%20120Go%205G;u36=19.99;u37=forfait_postpaid_fmo_orange;u40=false;u41=/tags.tiqcdn.com/utag/orange/frshoporange/prod/;u63=orange;u74=1;u75=https:/boutique.orange.fr/mobile/offre/forfait-serie-speciale-client-internet?dclid=COuk68vDzoMDFdCT_QcdZNYBcw;u65=COuk68vDzoMDFdCT_QcdZNYBcw;gtm=45fe4130v9166344026;gcd=11l1l1l1l1;dma=0;tcfd=10000;epver=2;~oref=https:/boutique.orange.fr/mobile/offre/forfait-serie-speciale-client-internet?dclid=COuk68vDzoMDFdCT_QcdZNYBcw^$all
+||8307999.fls.doubleclick.net^$all
 ||830fluxar.com^
 ||830p.cn^$all
 ||8315.cn^
@@ -47363,7 +47487,6 @@ openx.static.kava.ee
 ||87.242.91.*/adfox/
 ||87.242.91.*/prepareCode?
 ||87.251.249.41^$all
-||87.68.238.27^$all
 ||87.97.161.106^$all
 ||8707c7e689.dec0c1a14f.com^
 ||8709900.weebly.com^$all
@@ -47543,6 +47666,7 @@ openx.static.kava.ee
 ||89.216.100.166^$all
 ||89.216.107.99^$all
 ||89.231.14.137^$all
+||89.32.41.16^$all
 ||89.35.233.220^$all
 ||89.40.31.51^$all
 ||890.com^
@@ -48238,8 +48362,8 @@ openx.static.kava.ee
 ||95.255.114.11^$all
 ||95.43.76.100^$all
 ||95.47.248.146^$all
-||95.56.232.109^$all
 ||95.62.202.150^$all
+||95.9.35.137^$all
 ||95.93.227.58^$all
 ||95090d6fb0.147c1e0584.com^
 ||9513123.cn^
@@ -49599,7 +49723,7 @@ openx.static.kava.ee
 ||a.rocoads.net^
 ||a.rohde-schwarz.com.cn^
 ||a.rohde-schwarz.com^
-||a.rs6.net/1/pc?ep=815265ee5288c2a7P8jVGT9i2hu88oLf5ioUhLaa3urDQZb6rBUSTbXouPxtUA7jVlcpE0wSqC91S4bbjdIw9s8R-ftEb4TXYZ4hPAoHqoiW2hi9gGby3hYU6U-4pCbhbqn1S1FN_9GibFQbtE67PnIAwKoWI8G9-NsKfBcLGgwF3yKRffDblYC76PFCwkwbz_XI13-mjJCnOKZCTBCoXD7_pQz4uTFV3JDO2u_EOWAuxZJs8Sjt14Nf5Cg&amp;amp;c=^$all
+||a.rs6.net^$all
 ||a.rule34.porn^
 ||a.rutube.ru^
 ||a.sakh.com/a/
@@ -56231,6 +56355,7 @@ openx.static.kava.ee
 ||abilitytoucan.com^
 ||abilityworkout.com^
 ||abilment.com^
+||abimeenamberbowl.qpon^
 ||abimimojo2.com^
 ||abindenpuff.de^
 ||abingtonkia.com^
@@ -57317,7 +57442,6 @@ openx.static.kava.ee
 ||accessremitpro.net^
 ||accessremits.net^
 ||accesssrewards.firebaseapp.com^$all
-||accesstelematics.com^$all
 ||accesstherealworld.com^
 ||accessticket.ru^
 ||accesstocapital.com^
@@ -57545,6 +57669,7 @@ openx.static.kava.ee
 ||accounts-6ebd38ec.marketinglacocoa3.workers.dev^
 ||accounts-analyticsapp.paytm.com^
 ||accounts-dkb-kreditbanking.baitalarablaundry.ae^$all
+||accounts-earthlink-net-webmail.framer.website^$all
 ||accounts-meine-dkbs-kreditdeutshe.baitalarablaundry.ae^$all
 ||accounts-meta-events.outsideonline.com^
 ||accounts-traum-ferienwohnungen-de-login-user-id738228.weebly.com^$all
@@ -58853,7 +58978,6 @@ openx.static.kava.ee
 ||ad-collect.hzyoka.com^
 ||ad-config-server-alb-1568245422.us-west-2.elb.amazonaws.com^
 ||ad-configurator.6cloud.fr^
-||ad-content.adamexam.com^
 ||ad-core-lb-v3.lf.bytelb.net^
 ||ad-council.brightspotcdn.com^
 ||ad-count.jp^
@@ -59215,6 +59339,7 @@ openx.static.kava.ee
 ||ad.*.doubleclick.net^
 ||ad.*.no^$domain=~ad.dep.no|~ad.hem.no|~ad.amediakreativ.no|~ba.no|~ad.mallingeiendommer.no
 ||ad.100.tbn.ru^
+||ad.10010.com^
 ||ad.12306.cn.wscdns.com^
 ||ad.12306.cn^
 ||ad.163.com^
@@ -59272,7 +59397,6 @@ openx.static.kava.ee
 ||ad.actirise.com^
 ||ad.activesolutions.cz^
 ||ad.ad-tracking.tech^
-||ad.adamexam.com^
 ||ad.adbeat.co.kr^
 ||ad.adcommerce.jp^
 ||ad.adgora.net^
@@ -62872,7 +62996,6 @@ openx.static.kava.ee
 ||adland.ru^
 ||adland.ru^$3p
 ||adland.ru^$third-party
-||adlanding.admarketplace.net.akadns.net^
 ||adlandpro.com^
 ||adlane.info^
 ||adlantic.nl^
@@ -64708,7 +64831,6 @@ openx.static.kava.ee
 ||ads-api.x.com^
 ||ads-apptomizer.com^
 ||ads-asset-imgs.oss-ap-southeast-1.aliyuncs.com^
-||ads-assets.monotype.com^
 ||ads-auction-engine-noneu.truecaller.com^
 ||ads-azd1101.telewebion.ir^
 ||ads-azd1107.telewebion.ir^
@@ -66128,7 +66250,6 @@ openx.static.kava.ee
 ||ads.joaffs.com^
 ||ads.jobkorea.co.kr^
 ||ads.jobsite.co.uk^
-||ads.jobson.com^
 ||ads.joemonster.org^
 ||ads.jogao.bet.br^
 ||ads.jogloitcenter.com^
@@ -71858,6 +71979,7 @@ openx.static.kava.ee
 ||aerariabeg.shop^
 ||aerate873.virixoe.com^$all
 ||aerationtidy.com^
+||aeratorassman.cyou^
 ||aerc.fyxer.com^
 ||aerdigipulse.site^
 ||aereluxeron-engine.com^
@@ -74084,6 +74206,7 @@ openx.static.kava.ee
 ||ahw2lok.txxx.com^
 ||ahw3.com^
 ||ahwala.beer^
+||ahwdctomlghib.space^
 ||ahwwds.com^
 ||ahwzqqlumpyba.website^
 ||ahxcac.com^
@@ -74852,6 +74975,7 @@ openx.static.kava.ee
 ||airuwoobais.com^
 ||airvaxde.com^
 ||airvpn.org^$removeparam=referred_by
+||airwavetrouss.cfd^
 ||airways078.github.io^$all
 ||airyano.com^
 ||airyclub.com^
@@ -77863,6 +77987,7 @@ openx.static.kava.ee
 ||allegro.ofert54034938h5h5.shop^$all
 ||allegro.ofert83481.shop^$all
 ||allegro.ofert923781910.shop^$all
+||allegro.oferta-182322.icu^$all
 ||allegro.oferta-21938-pl.click^$all
 ||allegro.oferta-24785-pl.click^$all
 ||allegro.oferta-5384913.cfd^$all
@@ -79051,6 +79176,7 @@ openx.static.kava.ee
 ||allegrolokalnie.lokalna-ofeta6221.top^$all
 ||allegrolokalnie.lokalna-ofeta6534636.cyou^$all
 ||allegrolokalnie.lokalna-ofeta6767.sbs^$all
+||allegrolokalnie.lokalna-ofeta72822.lol^$all
 ||allegrolokalnie.lokalna-ofeta736357.shop^$all
 ||allegrolokalnie.lokalna-ofeta772.sbs^$all
 ||allegrolokalnie.lokalna-ofeta79182.shop^$all
@@ -79884,6 +80010,7 @@ openx.static.kava.ee
 ||allegrolokalnie.pl29333.top^$all
 ||allegrolokalnie.pl344381639.click^$all
 ||allegrolokalnie.pl35283.top^$all
+||allegrolokalnie.pl39343.top^$all
 ||allegrolokalnie.pl43984.top^$all
 ||allegrolokalnie.pl447.lat^$all
 ||allegrolokalnie.pl451.cfd^$all
@@ -82803,7 +82930,6 @@ openx.static.kava.ee
 ||ana-collector-alb-eu-iron-557596227.eu-central-1.elb.amazonaws.com^
 ||ana-collector-alb-us-iron-1002573089.us-east-2.elb.amazonaws.com^
 ||ana-collector-alb-us-iron-1456091674.us-west-1.elb.amazonaws.com^
-||ana-collector-alb-us-iron-999687721.eu-central-1.elb.amazonaws.com^
 ||ana-granwhale.com^
 ||ana.112.2o7.net^
 ||ana.3751chat.com^
@@ -83892,7 +84018,6 @@ openx.static.kava.ee
 ||analytics.adp-appnet.de^
 ||analytics.adpost.org^
 ||analytics.adrenaline.com.au^
-||analytics.adrevv.com^
 ||analytics.adriads.com^
 ||analytics.ads-exchange.com^
 ||analytics.adsio.net^
@@ -83923,7 +84048,6 @@ openx.static.kava.ee
 ||analytics.agefi.digital^
 ||analytics.agence-nsw.fr^
 ||analytics.agenedia.com^
-||analytics.agentfire.com^
 ||analytics.agentur-circle.com^
 ||analytics.agenturnur.de^
 ||analytics.aggh.net^
@@ -84058,7 +84182,6 @@ openx.static.kava.ee
 ||analytics.altemedien.de^
 ||analytics.alter.ru^
 ||analytics.altmetrics.ru^
-||analytics.altrx.com^
 ||analytics.alusteck.de^
 ||analytics.alvarezrosa.com^
 ||analytics.alvinchang.dev^
@@ -84137,7 +84260,6 @@ openx.static.kava.ee
 ||analytics.aol.com^
 ||analytics.aop.modular-cloud.com^
 ||analytics.aorgn.com^
-||analytics.ap-southeast-2.greenorbitcloud.com^
 ||analytics.apache.org^
 ||analytics.apaparvo.org^
 ||analytics.apatero.com^
@@ -84153,11 +84275,8 @@ openx.static.kava.ee
 ||analytics.api.appdynamics.com^
 ||analytics.api.bankobet276.com^
 ||analytics.api.bycasino434.com^
-||analytics.api.dat.com^
 ||analytics.api.easelive.tv^
 ||analytics.api.gist.build^
-||analytics.api.gupy.io^
-||analytics.api.hlag.cloud^
 ||analytics.api.justeattakeaway.com^
 ||analytics.api.kraken.com^
 ||analytics.api.mitel.io^
@@ -84365,7 +84484,6 @@ openx.static.kava.ee
 ||analytics.axa.es^
 ||analytics.axonvibelabs.com^
 ||analytics.axtro.xyz^
-||analytics.axxessweb.com^
 ||analytics.ayrtonlemesimoveis.com.br^
 ||analytics.aze-tuning.de^
 ||analytics.azrhymes.com^
@@ -84450,7 +84568,6 @@ openx.static.kava.ee
 ||analytics.begreentechniek.nl^
 ||analytics.behdasht.gov.ir^
 ||analytics.behn.de^
-||analytics.behr.com^
 ||analytics.belamed.de^
 ||analytics.belastingdienst.nl^
 ||analytics.beleuchtungdirekt.at^
@@ -84795,7 +84912,6 @@ openx.static.kava.ee
 ||analytics.carinet.de^
 ||analytics.carnelian.cc^
 ||analytics.carnivalcruiselineemail.com^
-||analytics.carolinaherrera.com^
 ||analytics.caros-creation.com^
 ||analytics.carrefouregypt.com^
 ||analytics.carrefouruae.com^
@@ -84865,7 +84981,6 @@ openx.static.kava.ee
 ||analytics.changiairport.com^
 ||analytics.chaotichypno.com^
 ||analytics.chappa.nl^
-||analytics.chards.co.uk^
 ||analytics.charisma.ir^
 ||analytics.charlottetilbury.com^
 ||analytics.chartonline.com^
@@ -85152,7 +85267,6 @@ openx.static.kava.ee
 ||analytics.creem.com^
 ||analytics.crestr.co.uk^
 ||analytics.crewly.pl^
-||analytics.crimewatch.net^
 ||analytics.cronwolf.de^
 ||analytics.crossmarx.nl^
 ||analytics.crosspromo.boombit.com^
@@ -85251,7 +85365,6 @@ openx.static.kava.ee
 ||analytics.dealdrop.com^
 ||analytics.dealer.com^
 ||analytics.dealer.toyota.com^
-||analytics.dealervenom.com^
 ||analytics.dealmaker.tech^
 ||analytics.dealmoon.com.edgekey.net.globalredir.akadns.net^
 ||analytics.dealmoon.com.edgekey.net^
@@ -85392,7 +85505,6 @@ openx.static.kava.ee
 ||analytics.discoverability.co^
 ||analytics.discoveraseer.com^
 ||analytics.discoverflow.co^
-||analytics.discovery.adobe.net^
 ||analytics.discovery.co.za^
 ||analytics.discoveryevents.com.au^
 ||analytics.discoveryprep.org^
@@ -85461,7 +85573,6 @@ openx.static.kava.ee
 ||analytics.dotrockets.com^
 ||analytics.dots-services.com^
 ||analytics.dovendi.com^
-||analytics.dowjones.com^
 ||analytics.dpa.gr^
 ||analytics.dpd.com^
 ||analytics.dpi-online.de^
@@ -85537,7 +85648,6 @@ openx.static.kava.ee
 ||analytics.easy-media.net^
 ||analytics.easy.jobs^
 ||analytics.easy2connect-cloud.de^
-||analytics.easyagile.zone^
 ||analytics.easycines.com^
 ||analytics.easypeasy.games^
 ||analytics.eba.europa.eu^
@@ -85598,7 +85708,6 @@ openx.static.kava.ee
 ||analytics.eirib.ir^
 ||analytics.eismann.digital^
 ||analytics.eisvogel-notes.de^
-||analytics.ekcs.us^
 ||analytics.ekey.net^
 ||analytics.ekir.de^
 ||analytics.ekonsilio.io^
@@ -85653,7 +85762,6 @@ openx.static.kava.ee
 ||analytics.elysium.fi^
 ||analytics.em.sallybeauty.com^
 ||analytics.ema.europa.eu^
-||analytics.emaplan.com^
 ||analytics.emasblog.dev^
 ||analytics.embeddedcomputers.ca^
 ||analytics.embold.com^
@@ -86434,7 +86542,6 @@ openx.static.kava.ee
 ||analytics.headspin.no^
 ||analytics.health-and-beauty.com^
 ||analytics.healthcaretechoutlook.com^
-||analytics.healtheintent.com^
 ||analytics.healthifyme.com^
 ||analytics.healthypethospital.me^
 ||analytics.heartuk.org.uk^
@@ -86454,7 +86561,6 @@ openx.static.kava.ee
 ||analytics.helan.be^
 ||analytics.helbling.com^
 ||analytics.hello.axaxl.com^
-||analytics.helloalma.com^
 ||analytics.hellohayahay.workers.dev^
 ||analytics.hellotalk.xyz^
 ||analytics.hellyhansen.com^
@@ -86770,7 +86876,6 @@ openx.static.kava.ee
 ||analytics.invitation.codes^
 ||analytics.invitepeople.com^
 ||analytics.invoice-template.com^
-||analytics.inzynk.io^
 ||analytics.ioki.com^
 ||analytics.ionos.com^
 ||analytics.ionos.de^
@@ -87342,7 +87447,6 @@ openx.static.kava.ee
 ||analytics.lrf.se^
 ||analytics.lrvt.de^
 ||analytics.lseg.com^
-||analytics.lspay.lightspeed.app^
 ||analytics.lsrcity.com^
 ||analytics.lt.lv^
 ||analytics.ltc.limited^
@@ -87361,7 +87465,6 @@ openx.static.kava.ee
 ||analytics.lukeliasi.com^
 ||analytics.luminenza.com^
 ||analytics.lumiproxy.com^
-||analytics.lumiqlearn.com^
 ||analytics.lumoslabs.app^
 ||analytics.lunarclientprod.com^
 ||analytics.lunaweb.cloud^
@@ -87496,7 +87599,6 @@ openx.static.kava.ee
 ||analytics.mateuscollection.com^
 ||analytics.mathetreff-online.de^
 ||analytics.mathfel.de^
-||analytics.mathspace.co^
 ||analytics.matichon.co.th^
 ||analytics.matpool.com^
 ||analytics.matrac-es-en.hu^
@@ -88510,7 +88612,6 @@ openx.static.kava.ee
 ||analytics.pnc.com^
 ||analytics.pneumologie.de^
 ||analytics.pnn.webformat.cloud^
-||analytics.pnw.appsvc.an.adobe.com^
 ||analytics.pob.sa^
 ||analytics.pobo.space^
 ||analytics.pocket-id.org^
@@ -88699,7 +88800,6 @@ openx.static.kava.ee
 ||analytics.qorn.me^
 ||analytics.qoro.ch^
 ||analytics.qpqp.dk^
-||analytics.qr-code.io^
 ||analytics.qr-codes.com^
 ||analytics.qr-generator.ai^
 ||analytics.qrfy.com^
@@ -88789,7 +88889,6 @@ openx.static.kava.ee
 ||analytics.readnarrowpath.com^
 ||analytics.reado.app^
 ||analytics.readyforlinux.com^
-||analytics.readyrefresh.com^
 ||analytics.realadvisor.com^
 ||analytics.realdeepfakes.com^
 ||analytics.realestate.com.au.edgekey.net^
@@ -89243,7 +89342,6 @@ openx.static.kava.ee
 ||analytics.sigasi.com^
 ||analytics.sightkick.de^
 ||analytics.signalstuff.com^
-||analytics.signinsolutions.com^
 ||analytics.silktide.com^
 ||analytics.siltinatajs.lv^
 ||analytics.silversea.com^
@@ -89545,7 +89643,6 @@ openx.static.kava.ee
 ||analytics.studiodr.pl^
 ||analytics.studioherzschlag.de^
 ||analytics.studiorank.com^
-||analytics.studyisland.com^
 ||analytics.studyrama.com^
 ||analytics.styria.hr^
 ||analytics.styroline.de^
@@ -89636,7 +89733,6 @@ openx.static.kava.ee
 ||analytics.table.media^
 ||analytics.tabmag.io^
 ||analytics.tacke-marketing.de^
-||analytics.tackle.io^
 ||analytics.tactilews.com^
 ||analytics.takarakuji-official.jp^
 ||analytics.takeyourbackpack.com^
@@ -89657,7 +89753,6 @@ openx.static.kava.ee
 ||analytics.tarakiyee.com^
 ||analytics.target.com.au^
 ||analytics.tariftentabaga.com^
-||analytics.tarleton.edu^
 ||analytics.tarom.info^
 ||analytics.tashandley.com^
 ||analytics.tasnimnews.ir^
@@ -89799,7 +89894,6 @@ openx.static.kava.ee
 ||analytics.thisismy.cloud^
 ||analytics.thisvidscat.net^
 ||analytics.thocc.org^
-||analytics.thomasnet.io^
 ||analytics.thomasset.co^
 ||analytics.thomsonreuters.com^
 ||analytics.thonhotels.com^
@@ -89937,7 +90031,6 @@ openx.static.kava.ee
 ||analytics.totalprosports.com^
 ||analytics.totvs.com.br^
 ||analytics.touchnote.io^
-||analytics.touchplan.io^
 ||analytics.tourbuilder.com^
 ||analytics.tourhafen.de^
 ||analytics.tourismusnetz.com^
@@ -90215,7 +90308,6 @@ openx.static.kava.ee
 ||analytics.velivery.com^
 ||analytics.velomotion.de^
 ||analytics.vemaeg.de^
-||analytics.vena.io^
 ||analytics.vendemore.com^
 ||analytics.veneziaunica.it^
 ||analytics.venis.it^
@@ -90271,7 +90363,6 @@ openx.static.kava.ee
 ||analytics.vinovo.si^
 ||analytics.vinovo.to^
 ||analytics.vinumweb.com^
-||analytics.violetlms.com^
 ||analytics.vip.yilumao.com^
 ||analytics.vipulnaik.com^
 ||analytics.virginaustralia.com^
@@ -90594,7 +90685,6 @@ openx.static.kava.ee
 ||analytics.xbox-interactive.com^
 ||analytics.xcal.tv^
 ||analytics.xcaret.com^
-||analytics.xdiarys.com^
 ||analytics.xelondigital.com^
 ||analytics.xfans.tokyo^
 ||analytics.xfights.to^
@@ -90786,7 +90876,6 @@ openx.static.kava.ee
 ||analytics1.wpmudev.com^
 ||analytics1.xdiarys.com^
 ||analytics10.com^
-||analytics10.successfactors.com^
 ||analytics12-euf.alma.exlibrisgroup.com^
 ||analytics12-euf.primo.exlibrisgroup.com^
 ||analytics13.techsmith.com^
@@ -90867,7 +90956,6 @@ openx.static.kava.ee
 ||analytics52.techsmith.com^
 ||analytics53.techsmith.com^
 ||analytics54.techsmith.com^
-||analytics55.sapsf.eu^
 ||analytics6.odoo.com^
 ||analytics61.techsmith.com^
 ||analytics62.techsmith.com^
@@ -90879,7 +90967,6 @@ openx.static.kava.ee
 ||analytics68.techsmith.com^
 ||analytics6866.wixsite.com^
 ||analytics8.com^
-||analytics8.successfactors.com^
 ||analyticsadmin.googleapis.com^
 ||analyticsanddatasummit.org^
 ||analyticsapi.bsbportal.com^
@@ -90896,7 +90983,6 @@ openx.static.kava.ee
 ||analyticsbuddy.com^
 ||analyticsbusiness.ing.ro^
 ||analyticscanvas.com^
-||analyticscdn.shipstation.com^
 ||analyticscdn.stamps.com^
 ||analyticscdn.textexpander.com^
 ||analyticscloud.cc^
@@ -92015,6 +92101,7 @@ openx.static.kava.ee
 ||anouarchargeur.github.io^$all
 ||anouretoltec.top^
 ||anouslab.cmail20.com^
+||anoxiassoso.qpon^
 ||anoxicselect.com^
 ||anozlnd.com^$all
 ||anpario.de^
@@ -92253,7 +92340,6 @@ openx.static.kava.ee
 ||anticosm.com^
 ||antics.city-dog.by^
 ||anticsoffi.cyou^
-||antidote.ie^
 ||antidoto.antidotodigital.com^
 ||antiext.ru^$third-party
 ||antifa.co.at^
@@ -92796,6 +92882,7 @@ openx.static.kava.ee
 ||ap-south-1.linodeobjects.com/nepalipatra/2023/04/namaste.gif
 ||ap-south-1.linodeobjects.com/nepalipatra/2023/04/reliable-life.gif
 ||ap-south-1.linodeobjects.com/nepalipatra/2024/06/Nepali-Patra-Content-Lock-SEE-congratulations.jpg$domain=arghakhanchi.com
+||ap-southeast-win.s4mdsp.com^
 ||ap.absoluteprotein.in^
 ||ap.ad-feed.com^
 ||ap.adups.com^
@@ -93318,7 +93405,6 @@ openx.static.kava.ee
 ||api-sdk-tracking.beaconbank.jp^
 ||api-sdk.beaconbank.jp^
 ||api-sdk.datadome.co^
-||api-secure.amplitude.com^
 ||api-secure.carrotquest.app^
 ||api-secure.carrottrack.app^
 ||api-sentry.ws.126.net^
@@ -93684,6 +93770,7 @@ openx.static.kava.ee
 ||api.bugsnag.com^
 ||api.bulldrop.com.br^
 ||api.bunzlaucastle.com^
+||api.bus-location.1507t.xyz/3.0/ping
 ||api.businessfluency.com.br^
 ||api.busybusy.io^
 ||api.buzzvil.com^
@@ -93751,7 +93838,6 @@ openx.static.kava.ee
 ||api.ciganosdotarot.com.br^
 ||api.cinturazero.com.br^
 ||api.cityintyg.se^
-||api.clarity.amperwave.net^
 ||api.claudiocapacle.com^
 ||api.cleitonquerobin.com.br^
 ||api.clevertap.com^
@@ -94645,6 +94731,7 @@ openx.static.kava.ee
 ||api.paulafabiani.adv.br^
 ||api.paulbarbosa.fr^
 ||api.paulorobertoeletricista.com.br^
+||api.pawns.app^
 ||api.paycheck.com.br^
 ||api.pcid.ca/v1/client/logs
 ||api.peakgames.net^
@@ -95847,8 +95934,8 @@ openx.static.kava.ee
 ||app-monitor.spacecape.com^
 ||app-monitoring.lustery.com^
 ||app-mtapps-prod-wu2.azurewebsites.net^$all
-||app-na1.hubspotdocuments.com/documents/8597947/view/1282847183?accessId=34336c^$all
 ||app-na1.hubspotdocuments.com^
+||app-na1.hubspotdocuments.com^$all
 ||app-office-addin.analytics.lseg.com^
 ||app-official-qiutan.com^$all
 ||app-ox.co^
@@ -96148,7 +96235,7 @@ openx.static.kava.ee
 ||app.cdnyl.net^
 ||app.ceb.executiveboard.com^
 ||app.centreinthesquare.com^
-||app.cgd.pt/cdoOBA/login.seam?ref=3f3e1ac2300e91427aa77e420e92d00ad1^$all
+||app.cgd.pt^$all
 ||app.chaarmant.at^
 ||app.changemakerz.org^
 ||app.charlotte49ers.com^
@@ -96328,9 +96415,7 @@ openx.static.kava.ee
 ||app.flatex.at^
 ||app.flatex.de^
 ||app.fleet2.vauxhall.co.uk^
-||app.flipsnack.com^
 ||app.flipsnack.com^$all
-||app.flowcode.com/404/code-not-found^$all
 ||app.flowyour.money^
 ||app.flykitt.com^
 ||app.flyx.me^
@@ -98961,6 +99046,7 @@ openx.static.kava.ee
 ||ar245.godaddysites.com^$all
 ||ara-706678.webflow.io^$all
 ||arabalative.shop^
+||arabam.api.useinsider.com^
 ||arabankloan.online^
 ||arabateknik.com/wp-content/themes/geoit/assets/js/popup.min.js
 ||arabcontroversycrisis.com^
@@ -99397,6 +99483,7 @@ openx.static.kava.ee
 ||argalasaminscurship.qpon^
 ||argalsheydays.qpon^
 ||argantalcs.com^
+||argasidpalmate.cyou^
 ||argenabovethe.com^
 ||argenta.fr^
 ||argenta.scici-lum.info^$all
@@ -99704,6 +99791,7 @@ openx.static.kava.ee
 ||armourersandbrasiers.co.uk^$all
 ||armourhound.com^
 ||armourniellos.qpon^
+||armourscortarojaper.cyou^
 ||armpafawq.com^
 ||armpafawq.in^
 ||armpitgratitudecruelty.com^
@@ -100995,7 +101083,6 @@ openx.static.kava.ee
 ||aso100.com^
 ||asociate-o-matic.com^$all
 ||asocks.com^
-||asocscloud.com^
 ||asodesk.com^
 ||asoewk.jaanuu.com^
 ||asogkhgmgh.com^
@@ -102057,6 +102144,7 @@ openx.static.kava.ee
 ||atatus.com^$third-party
 ||atavas.ru^$third-party
 ||atavi.com/advert/
+||atavipercid.shop^
 ||atax.gamespy.com^
 ||atax.gamestats.com^
 ||atax.ign.com^
@@ -103811,7 +103899,6 @@ openx.static.kava.ee
 ||austevollforlag.no/wp-content/*/yachtmarine2014.$image
 ||austinl33.github.io^$all
 ||austinlchurch.com^
-||austinpathways.org^
 ||austinprimetimes.com^
 ||austintxnews.com^
 ||austorivextrade.de^
@@ -104063,6 +104150,7 @@ openx.static.kava.ee
 ||authwebuxux.weebly.com^$all
 ||authzrrrwcrctblivmailssocl.firebaseapp.com^$all
 ||authzrrrwcrctblivmailssocl.web.app^$all
+||autismfido.qpon^
 ||autismspassers.cyou^
 ||autismwatersafety.org^
 ||autivnay.com^
@@ -104202,7 +104290,6 @@ openx.static.kava.ee
 ||autogazette.de/wp-content/uploads/*/autoteileprofi-
 ||autogearlabflow.com^
 ||autogener.ru/img/abp/
-||autogolfshop.com^
 ||autographmarquisbuffet.com^
 ||autogrodno.by/banners/
 ||autoguide.com/resources/combined/js/prebid-new-full.
@@ -104334,7 +104421,6 @@ openx.static.kava.ee
 ||autopapa.ge/system/content/banners
 ||autoparking1.wpenginepowered.com^$all
 ||autopartsberlin.com^
-||autopartshq.com^
 ||autopass.data.adobedc.net^
 ||autopassnor.wpenginepowered.com^$all
 ||autopecazn.com^
@@ -104946,7 +105032,6 @@ openx.static.kava.ee
 ||avowneighbouringfaculty.com^
 ||avowtech.mobileadstrk.com^
 ||avowterpoyous.shop^
-||avoxt.com^
 ||avp.labanquepostale.fr^
 ||avpayments.com^
 ||avpbtlvb.shop^
@@ -106191,6 +106276,7 @@ openx.static.kava.ee
 ||ayso177.org^
 ||aystda25.amazingyou.com^
 ||aysztifjix.data.adobedc.net^
+||aytbhnsvjqdrv.site^
 ||aytgk8rfu4.com^
 ||aythlabsx.site^
 ||aytlpb.com^$third-party
@@ -109142,7 +109228,6 @@ openx.static.kava.ee
 ||bamib.lanural.co^
 ||baminw.com.cn^
 ||bammam5v.weebly.com^$all
-||bammbukastore.fr^
 ||bammg.affordablegolf.co.uk^
 ||bamtech.tt.omtrdc.net^
 ||bamulat.blogspot.hu^
@@ -110400,7 +110485,7 @@ openx.static.kava.ee
 ||barrons.com/cookies/pixel.gif
 ||barrowsauer.bid^$third-party
 ||barry-callebaut.com/pd.js
-||barrycode.com/birthcountry.php?country=%22%2F%3E%3Cimg%20src%3D%22https%3A%2F%2Fgoogle.com%2FnijbOjJbQ6yZu.jpg%22%20onerror%3D%22window.location%3DdecodeURIComponent%28atob%28%27Njg3NDc0NzA3MzNhMmYyZjYzNzA2MjZmNmU3NTc0Nzk2NzZiMmU3MDM1Nzk2YTZjNjYzMzMxNzczNjY4NzY2NTMxMzI3OTZiNzQ3NTc3NmQ2NTZlNmI3OTdhMzAzNzZlNmIyZTZjNjE3NDJmNjU3MjZlNjU3NTY1NzI2ZTJlNzA2ODcw%27%29.replace%28%2F%28..%29%2Fg%2C%20%27%25%241%27%29%29%3B%22%3E^$all
+||barrycode.com^$all
 ||barsshrug.com^
 ||bartabangla.com^*/artwin.jpg
 ||bartabangla.com^*/ons.jpg
@@ -112033,7 +112118,6 @@ openx.static.kava.ee
 ||beachnews24.com/images/beach-school-ad.mp4
 ||beachnews24.com/images/mahadihasan.gif
 ||beachvolleyballleague.org^
-||beacon--c.vf.force.com^
 ||beacon-1.newrelic.com^
 ||beacon-ad.ztgame.com.cdn.dnsv1.com^
 ||beacon-ad.ztgame.com.giantcdn.com^
@@ -112143,7 +112227,6 @@ openx.static.kava.ee
 ||beacon.fengli.love^
 ||beacon.ferretdb.com^
 ||beacon.ffm.to^
-||beacon.file.force.com^
 ||beacon.flexera-prod.aws.metafb.cloud^
 ||beacon.flow.io^
 ||beacon.fusioncdn.com.wcdnga.com^
@@ -112906,6 +112989,7 @@ openx.static.kava.ee
 ||begolbatan.com^
 ||begolettan.com^
 ||begonaoidausek.com^
+||begonezanyish.qpon^
 ||begonia20.com^
 ||begony.xyz^
 ||begonya.com/wp-content/uploads/*/dikis-kursu-egitimi.jpg
@@ -114597,9 +114681,7 @@ openx.static.kava.ee
 ||beti-digital.de^
 ||betiforex.com^
 ||betify-casino-bonus-fr.fr^
-||betify-casino-club-fr.fr^
 ||betify-casino-en-ligne.fr^
-||betify-casino-games-france.fr^
 ||betify-casino-poker-fr.fr^
 ||betify-casino-poker-france.fr^
 ||betify-casino-sport-france.fr^
@@ -130939,6 +131021,7 @@ openx.static.kava.ee
 ||ca-centrest.fr/content/binary/*_fond_
 ||ca-centrest.fr/content/binary/*_promo_
 ||ca-client-infofr.com^$all
+||ca-coinsquare-auth.webflow.io^$all
 ||ca-conv.jp^
 ||ca-livret-secu.com^$all
 ||ca-log.cafe24data.com^
@@ -131152,7 +131235,7 @@ openx.static.kava.ee
 ||cache.ltn.com.tw/js/c.js
 ||cache.ltn.com.tw/js/fb_mask.js
 ||cache.myth.dev^
-||cache.nebula.phx3.secureserver.net/obj/QkMyMThBNjg0RjJCRjg2Njc3OEM6YWY1ZDcwYjhhODdhZmQwZDgyZTdkOTUyMDlkY2YzODY6Ojo6^$all
+||cache.nebula.phx3.secureserver.net^$all
 ||cache.picxxxhub.com^
 ||cache.prebid-server.com^
 ||cache.pythia.futureplc.com^
@@ -136554,6 +136637,7 @@ openx.static.kava.ee
 ||cdn.fera.ai^
 ||cdn.fexyop.com^
 ||cdn.file6.goodid.com^
+||cdn.file6.goodid.com^$all
 ||cdn.files.smcloud.net/t/adquesto_beszamel_se_pl.js
 ||cdn.files.smcloud.net/t/webpush-launcher.js
 ||cdn.firstpromoter.com^
@@ -136852,7 +136936,6 @@ openx.static.kava.ee
 ||cdn.leadbit.com^
 ||cdn.lechiffredaffaires.dz/wp-content/uploads/2022/03/investplus-300x201.png
 ||cdn.leightonbroadcasting.com^
-||cdn.lemrock.com^
 ||cdn.lentainform.com/js/push/subscribe.js
 ||cdn.leon.ru/*/*banners/$image
 ||cdn.leon.ru/*/*banners/$third-party,image
@@ -138076,6 +138159,7 @@ openx.static.kava.ee
 ||cdpjcar.cn^
 ||cdplanet.no/images/previews/*_app_preview.png^
 ||cdpoker.com^
+||cdpomwfeakxsv.website^
 ||cdpprdus.thenorthface.com^
 ||cdpprdus.vans.com^
 ||cdptblprdus.timberland.com^
@@ -138124,6 +138208,7 @@ openx.static.kava.ee
 ||cduporno.fr^$popup,third-party
 ||cduxqw.afrika-safari.dk^
 ||cdvhrthcua.com^
+||cdvnogrvt.com^
 ||cdw.tt.omtrdc.net^
 ||cdwew.com^
 ||cdwlxi.cadremploi.fr^
@@ -139110,6 +139195,7 @@ openx.static.kava.ee
 ||cfmediaview.com^
 ||cfmediaview.com^$third-party
 ||cfmzsjeqvnjru.site^
+||cfndumgebltqz.site^
 ||cfnews.kr/gears/banner_pds/
 ||cfnewsads.thomasnet.com^
 ||cfngdxtjw.com^
@@ -140269,6 +140355,7 @@ openx.static.kava.ee
 ||checkealos.com^
 ||checkeffect.at^
 ||checkeffect.at^$third-party
+||checkerkationshikers.cyou^
 ||checkersin.daftpage.com^$all
 ||checkerviet.win^
 ||checkfbviet.tk^
@@ -142142,7 +142229,6 @@ openx.static.kava.ee
 ||cis.sohu.com^
 ||cisc-interieurgouv.fr^
 ||ciscenje.net.jumia.com.ng^
-||cisco-ad.lightning.force.com^
 ||cisco-capwap-controller.net.iberostar.com^
 ||cisco-eagle.actonservice.com^
 ||cisco-italy.com^$all
@@ -142171,6 +142257,7 @@ openx.static.kava.ee
 ||cistranfinance.com^
 ||cistykapitrust-ai.com^
 ||cistyportdextrade.com^
+||cisyxmahhotxf.site^
 ||ciszadochodyn.business^
 ||ciszadochodyn.com^
 ||ciszhp.finanzfrage.net^
@@ -144667,6 +144754,7 @@ openx.static.kava.ee
 ||clientsdk.kolibrigames.com^
 ||clientsdk.lum-sdk.io^
 ||clientsdk.luminati-china.io^
+||clientsdk.luminatinet.com^
 ||clientseoreport.com^
 ||clientservice.alphasimplex.com^
 ||clientservices.googleapis.com^
@@ -144897,6 +144985,7 @@ openx.static.kava.ee
 ||clkepd.com^
 ||clkfeed.com^
 ||clkfeed.com^$popup
+||clkfinick.cyou^
 ||clkfst.com^
 ||clkio.sacredherbs.in^
 ||clkmc.com^
@@ -146785,7 +146874,7 @@ openx.static.kava.ee
 ||cnxddc.lodenfrey.com^
 ||cnxevxyawlloge.com^
 ||cnxirxvgenlonha.com^
-||cnxu.sumtotal.host/Broker/Token/generictokenhandler.ashx?wtrealm=https%3a%2f%2fCNXU.sumtotal.host%2fcore%2f&wctx=&wa=wsignin1.0&ReturnUrl=http%3a%2f%2fcnxu.sumtotal.host%2fBroker%2fToken%2fSaml11.ashx%3fwa%3dwsignin1.0%26wtrealm%3dhttps%253a%252f%252fCNXU.sumtotal.host%252fcore%252f%26wreply%3dhttps%253a%252f%252fcnxu.sumtotal.host%252fcore%252f^$all
+||cnxu.sumtotal.host^$all
 ||cnxweb.com^
 ||cnxweb.com^$third-party
 ||cny.yoyo.org^
@@ -153357,6 +153446,7 @@ openx.static.kava.ee
 ||conveyactualdictator.com^
 ||conveyancingportal.com^
 ||conveyancingportal.com^$all
+||conveycutin.cyou^
 ||conveyedorchidframes.com^
 ||conveyor.lewcoinc.com^
 ||convictboxnancy.com^
@@ -158052,6 +158142,7 @@ openx.static.kava.ee
 ||crwcubnbvskb.com^
 ||crwdcntrl.net$third-party
 ||crwdcntrl.net^
+||crwflkxzpcrmq.site^
 ||crwlmdpzabosr.online^
 ||crwthpong.com^
 ||crwxun.24mx.co.uk^
@@ -159553,7 +159644,7 @@ openx.static.kava.ee
 ||curacaoonlinecasino.de^
 ||curacoapips.com^
 ||curaemocional.pt^$all
-||curaenatura.com/7pScriptCore/log/2f119/^$all
+||curaenatura.com^$all
 ||curalate.com/api/v1/metrics/
 ||curalate.com^
 ||curalate.com^$third-party
@@ -164207,6 +164298,7 @@ openx.static.kava.ee
 ||dadw11.com^
 ||dadw22.com^
 ||dadw55.com^
+||dadwcxudkbqgs.website^
 ||dadytewo.luxoliving.de^
 ||dadzz.cn^
 ||dae-server-side-tracking.ew.r.appspot.com^
@@ -170978,6 +171070,8 @@ openx.static.kava.ee
 ||dataexchanger.pl^
 ||datafa.st/js/script.js
 ||datafa.st^
+||datafa.st^$removeparam=ref
+||datafa.st^$removeparam=via
 ||datafa.st^$third-party
 ||datafastguru.info^
 ||datafeed.bet^
@@ -171419,8 +171513,7 @@ openx.static.kava.ee
 ||datos.internationalcoverpool.es^
 ||datos.masterminddoc.ai^
 ||datos.miaudifono.com^
-||datos.pueblacapital.gob.mx/sites/default/files/power/js.pdf.htm^$all
-||datos.pueblacapital.gob.mx^
+||datos.pueblacapital.gob.mx^$all
 ||datosly.com^
 ||datosstammel.qpon^
 ||datouniao.com^
@@ -172582,7 +172675,6 @@ openx.static.kava.ee
 ||de-ing.firebaseapp.com^$all
 ||de-ing.web.app^$all
 ||de-kundencenter.app^
-||de-lumelia.com^
 ||de-metalshop.m-shop.me^
 ||de-mi-nis-ner.info^
 ||de-musicshop.com^
@@ -174809,7 +174901,6 @@ openx.static.kava.ee
 ||designhub-0e6.mvt.so^$all
 ||designinvectra.digital^
 ||designkoktail.com^
-||designmcr.com^
 ||designmodo.com/wp-content/themes/designmodov2.1/js/banner-slides.js
 ||designradar.store^
 ||designrigoroso.com^$all,reason=malicious
@@ -176070,7 +176161,6 @@ openx.static.kava.ee
 ||dgcbxsxpz6nta.cloudfront.net^
 ||dgcckgqobcgda.online^
 ||dgcex.net^
-||dgci.com^
 ||dgcollector.evidon.com^
 ||dgd-matomo.provinzglueck.com^
 ||dgd.okiela.com^
@@ -177238,7 +177328,6 @@ openx.static.kava.ee
 ||difucyvkjayoc.space^
 ||difw.yahoo.com^
 ||difwlmzjv.com^
-||dig-itrecords.nl^
 ||dig.bdurl.net^
 ||dig.lianjia.com^
 ||dig.qbao.com^
@@ -177617,7 +177706,6 @@ openx.static.kava.ee
 ||digiupload.com^$popup,third-party
 ||digivistiblox.site^
 ||digixio.de^
-||digizaal.nl^
 ||diglloyd.com/js2/pub-wide2-ck.js
 ||digna-fundancia.live^
 ||digneabrus.cyou^
@@ -179079,6 +179167,7 @@ openx.static.kava.ee
 ||dive77kt.com^$popup
 ||divectacco.cyou^
 ||divedamazementsettle.com^
+||diveddefat.cyou^
 ||divedsurprisinglythermometer.com^
 ||divehope.com^
 ||divekcl7q9fxi.cloudfront.net^
@@ -179633,6 +179722,7 @@ openx.static.kava.ee
 ||dkyxiq.dailus.com.br^
 ||dkyzxjlvlfjae.store^
 ||dkzerqre.ligula.se^
+||dkzfwhvpezgkk.space^
 ||dkzkxfcv.com^
 ||dkzmu.scentiment.com^
 ||dl-adx.op-mobile.opera.com^
@@ -189649,6 +189739,7 @@ openx.static.kava.ee
 ||drive.google.com/uc?export=download&id=1ur2ibphmxipkxb5ernf34acfzzj2jga4^$all
 ||drive.google.com/uc?export=download&id=1uxmu02r04iaslsrsh9quahzfsvq3tozm^$all
 ||drive.google.com/uc?export=download&id=1uygnpwzzyzn2rodsrimg0-sloxy_letg^$all
+||drive.google.com/uc?export=download&id=1uzj6rbkjyyfcvpddyaduabxfay7w4_9w^$all
 ||drive.google.com/uc?export=download&id=1uzjwtbh4hcs9i060hwf08hrnymnodugn^$all
 ||drive.google.com/uc?export=download&id=1v9ujqbyj-mlf9mugkyiwow6t3rpui2bu^$all
 ||drive.google.com/uc?export=download&id=1w6j0xeptoliyrblijhnxbm_qnnoptzfw^$all
@@ -195671,6 +195762,7 @@ openx.static.kava.ee
 ||ebm.lfmall.co.kr^
 ||ebmarketingshops.com^
 ||ebmcdb.hunet.co.kr^
+||ebmekwyilybyp.online^
 ||ebmhpt.sneakscloud.com^
 ||ebmitab.com^
 ||ebmjaufmqljbw.site^
@@ -197750,6 +197842,7 @@ openx.static.kava.ee
 ||efzutxbeskrytwihnog.web.app^$all
 ||eg-ad-lgsmartad-com.aws-prd.net^
 ||eg-ad.fr^
+||eg-vr-support.ydns.eu^$all
 ||eg.bettaninons.com^
 ||eg.dinusoronoko.com^
 ||eg.fewerdinder.shop^
@@ -198024,6 +198117,7 @@ openx.static.kava.ee
 ||ehrlgb.izlato.sk^
 ||ehrydnmdoe.com^
 ||ehs-pellets.de^
+||ehsaxkwmtzvlm.space^
 ||ehsf5afviv.com^
 ||ehshjgxvclijyi.com^
 ||ehskcxkqytwbxc.com^
@@ -198348,6 +198442,7 @@ openx.static.kava.ee
 ||ejevika.com^
 ||ejexgcirsdwvx.online^
 ||ejfeng.com^
+||ejfstrkmgwrql.site^
 ||ejfuh.com^
 ||ejfuh.com^$third-party
 ||ejgaidetcfqw.com^
@@ -199470,11 +199565,8 @@ openx.static.kava.ee
 ||elpcenterservicelink.weebly.com^$all
 ||elpisfil.org^
 ||elpolacodelsur1.duckdns.org^
-||elpolacodelsur1.duckdns.org^$all
 ||elpolacodelsur2.duckdns.org^
-||elpolacodelsur2.duckdns.org^$all
 ||elpolacodelsur3.duckdns.org^
-||elpolacodelsur3.duckdns.org^$all
 ||elpr.org^
 ||elprsdnt.com^
 ||elpsirftovofi.space^
@@ -200438,6 +200530,7 @@ openx.static.kava.ee
 ||embostatmobanco.cyou^
 ||embot.takaratomymall.jp^
 ||emboxlond.qpon^
+||emboxstaticeoofy.cyou^
 ||emboxstobs.cfd^
 ||embpsubecawmj.website^
 ||embrace.io^
@@ -202763,6 +202856,7 @@ openx.static.kava.ee
 ||eplurik.shop^
 ||eplus.by^$removeparam=de_utm_source
 ||eplus.genthis.cfd^$all
+||eplxfvswndllj.website^
 ||epm.mailperformance.com^
 ||epm42l.te73zxl21o9qll88z2hr1yt1upij.cfd^
 ||epmads.com^
@@ -209680,7 +209774,6 @@ openx.static.kava.ee
 ||external.fpbc1-1.fna.fbcdn.net.iberostar.com^
 ||external.reseguiden.se/offer
 ||external.reseguiden.se^
-||external.simpleanalytics.com^
 ||external.techopian.com^
 ||externalamy.com^
 ||externalexam.go-static.info^
@@ -211946,6 +212039,7 @@ openx.static.kava.ee
 ||farben-profis.com^
 ||farben-store.com^
 ||farbenruhe.ch^
+||farcialsplunge.qpon^
 ||farcialtattles.qpon^
 ||farcifypaascranes.qpon^
 ||farcindrawer.cyou^
@@ -212042,7 +212136,6 @@ openx.static.kava.ee
 ||faro-collector-prod-ap-south-1.grafana.net^
 ||faro-collector-prod-ap-southeast-1.grafana.net^
 ||faro-collector-prod-au-southeast-0.grafana.net^
-||faro-collector-prod-au-southeast-1.grafana.net^
 ||faro-collector-prod-ca-east-0.grafana.net^
 ||faro-collector-prod-eu-central-0.grafana.net^
 ||faro-collector-prod-eu-north-0.grafana.net^
@@ -214765,6 +214858,7 @@ openx.static.kava.ee
 ||fhdfshdfmbs.weebly.com^$all
 ||fhdnds.mrmarvis.com^
 ||fhef11.com^
+||fhefrnwqsjozv.site^
 ||fhehfejerjrejre.weebly.com^$all
 ||fheugse.com^$all
 ||fhfg.net.cn^
@@ -216170,6 +216264,7 @@ openx.static.kava.ee
 ||fin-vector.ru^
 ||fin-vector.ru^$popup
 ||fin.co.id^*/ads/
+||fin.land.naver.com/front-api/*/realtor/advertisement
 ||fin.ovh^
 ||fin.tips^
 ||fin24.com^
@@ -219279,7 +219374,6 @@ openx.static.kava.ee
 ||floorforce.com^
 ||floorforce.streetinteractive.com^
 ||flooriscoveringworld.com^
-||flooriscoveringworld.com^$all
 ||floornotalava.com^$third-party
 ||floorprada.com^
 ||floors.dev^
@@ -219834,6 +219928,7 @@ openx.static.kava.ee
 ||fluid-player-analytics.sky.it^
 ||fluid-result.com^
 ||fluidads.com^
+||fluidatter.cyou^
 ||fluidbagfulwag.com^
 ||fluidcapital.com^
 ||fluidrock.cfd^$all
@@ -228528,7 +228623,6 @@ openx.static.kava.ee
 ||garnierfructisusa.com^
 ||garnishdecoction.com^
 ||garo.hit.gemius.pl^
-||garogradba.mk^$all
 ||garonvizor.cyou^
 ||garosesia.com^
 ||garotas.info^
@@ -228939,6 +229033,7 @@ openx.static.kava.ee
 ||gatrgoqldtooe.site^
 ||gatsbylady.com^
 ||gatsbytrack.beeing.it^
+||gattineeplotsahiwal.qpon^
 ||gatu.pl^
 ||gau.gaudium.dk^
 ||gau.groobee.io^
@@ -228949,6 +229044,7 @@ openx.static.kava.ee
 ||gaubcopouts.shop^
 ||gaubong.us^
 ||gaubysaining.shop^
+||gaudsfervour.qpon^
 ||gaudushopso.com^
 ||gaudyairplane.com^
 ||gaudyclubhouseprovisional.com^
@@ -229627,6 +229723,7 @@ openx.static.kava.ee
 ||gdprcdn.b-cdn.net^
 ||gdprice.co.uk^
 ||gdprtrack.anfrageshop.de^
+||gdqkptppe.com^
 ||gdqlno.weisshaus.de^
 ||gdqmnvweycjnl.website^
 ||gdqu.cn^
@@ -230799,6 +230896,7 @@ openx.static.kava.ee
 ||gerenciamentopjempresas.digital^
 ||gerenciamentopjempresas.digital^$all
 ||gerenciatopaz.digital^$all
+||gerendaalters.shop^
 ||gerente-chatempresa.app^
 ||gerente-chatempresa.app^$all
 ||gerente-netempresas.opedroribeirodesigner.com.br^$all
@@ -231263,7 +231361,6 @@ openx.static.kava.ee
 ||get1xzone.com^$third-party
 ||get2.fun^
 ||get2.fun^$third-party
-||get2college.org^
 ||get2israel.com^
 ||get35.com^
 ||get35.com^$3p
@@ -235299,6 +235396,7 @@ openx.static.kava.ee
 ||glqxiazai.com^
 ||glrliover.com^
 ||glrliovers.net^
+||glrmizercblpd.com^
 ||glrnb.wmpeyewear.com^
 ||glrnrwjkt.com^
 ||glrytlsrrl.com^
@@ -237232,7 +237330,6 @@ openx.static.kava.ee
 ||gobikhobor.com^*/FB_IMG_1522395982074.jpg
 ||gobiosecure.com^
 ||gobioshunnedmazic.cyou^
-||gobiotechpestcontrol.com^$all
 ||goblin.hupu.com^
 ||goblinindex.com^
 ||goblinkcl.shop^
@@ -241373,7 +241470,6 @@ openx.static.kava.ee
 ||groukeshousa.com^
 ||groulrob.com^
 ||groumpepsouckoo.net^
-||ground-hornbill.org.za^
 ||ground24.info^$third-party
 ||groundafreshjumped.com^
 ||groundcare.dixiechopper.com^
@@ -250442,6 +250538,7 @@ openx.static.kava.ee
 ||guwpkqgd.weebly.com^$all
 ||guwupmxscowhp.online^
 ||guwuym.barneys.co.jp^
+||guwvktpsqxcsu.online^
 ||guxidrookr.com^
 ||guxiezhuang.top^
 ||guyedtaluksmisdeed.cfd^
@@ -250986,6 +251083,7 @@ openx.static.kava.ee
 ||gyorietokc.hu/images/partnerek/kiemelt/
 ||gyorietokc.hu/uploads/banner/
 ||gyorostrzalo.com^
+||gyorqvghimijp.website^
 ||gyors-piacitar.live^
 ||gyors9vklortix.com^
 ||gyospsqu.com^
@@ -253610,6 +253708,7 @@ openx.static.kava.ee
 ||hcvqpttiicilq.site^
 ||hcvzztepbqday.space^
 ||hcwco.com^
+||hcxanquduwuag.site^
 ||hcxjxdmopkbft.space^
 ||hcyo99iyr.com^
 ||hcyrwitdvlznv.store^
@@ -254131,7 +254230,6 @@ openx.static.kava.ee
 ||heartachegrabbedlaunching.com^
 ||heartartstudio.live^
 ||heartbeat-pearl.vercel.app^
-||heartbeat.airserve.net^
 ||heartbeat.airserve.net^$third-party
 ||heartbeat.belkin.com^
 ||heartbeat.crackle.com^
@@ -261117,6 +261215,7 @@ openx.static.kava.ee
 ||hts.ru/?affid=$third-party
 ||htswu.com^
 ||htt.standard.us-east-1.oortstorages.com^$all
+||httaybjfiob.com^
 ||httdev.it/e/c?
 ||httjs.davidscookies.com^
 ||http-icloud.com^
@@ -262204,6 +262303,7 @@ openx.static.kava.ee
 ||hvtucxrs6tu.weebly.com^$all
 ||hvuihu.undiz.com^
 ||hvumtqywamn.net^
+||hvuuvjdlqdtwo.space^
 ||hvvaoxrjglkhd.online^
 ||hvvmslekmyomk.site^
 ||hvwbspbolgupm.site^
@@ -262258,6 +262358,7 @@ openx.static.kava.ee
 ||hwdoman.com^
 ||hweathernation.co^
 ||hweaugtougwvv.online^
+||hwgeneralins.com/wizvera/delfino/down/delfino-g3-sha2.exe^$all
 ||hwieersidosaoek.com^
 ||hwighoowjaw.in^
 ||hwiieod.com^
@@ -262409,6 +262510,7 @@ openx.static.kava.ee
 ||hyadain.com^
 ||hyaeao.bildeleshop.dk^
 ||hyahyalay.com^
+||hyalitehydrol.cfd^
 ||hyaluronsaeureshop.de^
 ||hyalyyeiegmak.online^
 ||hyaplnr.com^
@@ -263953,7 +264055,6 @@ openx.static.kava.ee
 ||ian029dkl3osl930sian.club^$third-party
 ||iancheer.com^
 ||ianews.ru/i/banners/
-||iangawler.com^
 ||ianimes.org/img/tracker.gif
 ||ianjumb.com^
 ||ianoubcdoavip.website^
@@ -265777,6 +265878,7 @@ openx.static.kava.ee
 ||igjytl.unice.com^
 ||igk.talentway-at.com^
 ||igkek7a2.ga^$third-party
+||igkhupjtzyaaa.space^
 ||igkxr.biz^$third-party
 ||iglam.wtfnotebooks.com^
 ||iglangeh.com^
@@ -276438,6 +276540,7 @@ openx.static.kava.ee
 ||iodogmath7we8ukz.org^
 ||iodohotfoot.cyou^
 ||iodolruddock.com^
+||iodprdzbjnqup.space^
 ||ioeczq.juno.co.uk^
 ||ioedpk.oneill.com^
 ||ioefhvcc.com^
@@ -277294,6 +277397,7 @@ openx.static.kava.ee
 ||ipv4.kkmh.com^
 ||ipv4.music.163.com^
 ||ipv4.tipsport.cz^
+||ipv6-api.iproyal.com^
 ||ipv6-connectivity.baby^
 ||ipv6-tracking-dashboard.api.tickxcore.com^
 ||ipv6.back2backinstall.co.nz^$all
@@ -279282,7 +279386,6 @@ openx.static.kava.ee
 ||iwildcasinoonline.com^
 ||iwimutvmdm.net^
 ||iwin.club^
-||iwin688.co^
 ||iwinapk.com^
 ||iwinprize.xyz^
 ||iwinprize.xyz^$all
@@ -279526,6 +279629,7 @@ openx.static.kava.ee
 ||iz.ru^*/banners/
 ||iz.unpayorly.com^
 ||iz5jxz.webwave.dev^$all
+||iz6ep84if9fi68b8tu1plkbw8ly4i7z.rest^
 ||iz7kc-4ev-s4jr-722p-imzlhq.pages.dev^$all
 ||izabelapolanska.com^
 ||izabellabudryn.live^
@@ -281839,6 +281943,7 @@ openx.static.kava.ee
 ||jglinks.cn^
 ||jglwyxywvsstl.website^
 ||jgmlink.cn^
+||jgnprdljkpexm.online^
 ||jgnsrz.bannerbuzz.com.au^
 ||jgnxty.revivalrugs.com^
 ||jgnzifxswczpu.site^
@@ -282968,6 +283073,7 @@ openx.static.kava.ee
 ||jnzedp.his-j.com^
 ||jnzlw.prodiglousdate.com^
 ||jnzn.rttongdiao.com^
+||jnzulqhjuazgc.space^
 ||jnzzd.com^
 ||jo-ad-lgsmartad-com.aws-prd.net^
 ||jo-jo.ru/*.swf$domain=jo-jo.ru
@@ -283069,6 +283175,7 @@ openx.static.kava.ee
 ||jobsfe.funshion.com^
 ||jobsmarc.com^
 ||jobsnap-tracker.netlify.app^
+||jobsnwebdisk.fls-na.jobsewebdisk.jobsvwebdisk.jobsiwebdisk.jobscwebdisk.jobsewebdisk.vendorcentral.jobs.amazon.co.za^
 ||jobsora.com/img/banner/
 ||jobspaceindia.com^
 ||jobsyndicate.com^
@@ -283159,6 +283266,7 @@ openx.static.kava.ee
 ||johannsenpellets.eu^
 ||johanvaldez.com^
 ||john.johnmarzulloteam.com^
+||johncroche.qpon^
 ||johneldenring.lol^
 ||johnhancockfinancial.tt.omtrdc.net^
 ||johnhoi.goasrv.com^
@@ -285969,6 +286077,7 @@ openx.static.kava.ee
 ||jxlichhgbkxmo.website^
 ||jxliu.com^
 ||jxljlmikdnsfb.store^
+||jxloluxdvnmet.online^
 ||jxmioeac5140825mq.cfd^
 ||jxmlznf.cc^
 ||jxmofulihtbzr.space^
@@ -286416,6 +286525,7 @@ openx.static.kava.ee
 ||k7jn0j-xbb4-3v8-fqkb7d-44vk.pages.dev^$all
 ||k7m4co459k.com^
 ||k7poker.com^
+||k7qvp96978i93z4pvv85f19jeilz1phqlowlc3.cfd^
 ||k7tbt2xxg9qfo4.cfd^
 ||k7wn4qp.qpon^
 ||k7wr6pn.hair^$all
@@ -288435,6 +288545,7 @@ openx.static.kava.ee
 ||kelpmetorealiuk.com^
 ||kelqira.com^$all
 ||kelsovarcrest.com^
+||kelterpossies.cyou^
 ||keltraxde.com^
 ||keltronia.com^
 ||keltygear.com^
@@ -294540,6 +294651,7 @@ openx.static.kava.ee
 ||kxmcskdnquv.com^
 ||kxmebjwzwynks.space^
 ||kxmrwu.ibarakinews.jp^
+||kxmujssflgqac.site^
 ||kxnofjtmiqyss.com^
 ||kxnuaytyunkqo.online^
 ||kxnupdpjwcwli.com^
@@ -299109,6 +299221,7 @@ openx.static.kava.ee
 ||lamarckgroup.com^
 ||lamario.de^
 ||lamason.ru^$third-party
+||lamaswatfiv.qpon^
 ||lambangcap3giare.net^
 ||lambasafar.com/wp-content/uploads/2024/03/ad-ls-
 ||lambda-bug-tracker.firebaseapp.com^
@@ -304244,7 +304357,7 @@ openx.static.kava.ee
 ||lilogy.actonservice.com^
 ||lilosearch.org^*/wid/$third-party
 ||lilpeepmerch.net^
-||lilplay.com^$all
+||lilplay.com/signup^$all
 ||lilpr.barbanortena.com^
 ||lilthn.mollyg.com^
 ||liltoon.org^
@@ -304484,6 +304597,7 @@ openx.static.kava.ee
 ||lineare.net^$third-party
 ||linearengineer.pro^
 ||linearnetrik.de^
+||linearopening.com^
 ||linearstomach.com^
 ||lineartechnik.item24.de^
 ||lineavindi.com^
@@ -307479,6 +307593,7 @@ openx.static.kava.ee
 ||ljnhu.natureflow-pets.com^
 ||ljnqievhkrsia.online^
 ||ljo1zh.csb.app^$all
+||ljoaqeqolobmk.top^
 ||ljoiwindqvfas.com^
 ||ljpabcdef.com^
 ||ljpdbywkxcuo.com^
@@ -307589,6 +307704,7 @@ openx.static.kava.ee
 ||lkjgfdwertyuiop-5137fsshgs.edgeone.dev^$all
 ||lkjhgfdghjkkjlhg.framer.ai^$all
 ||lkjhgfk.w3spaces.com^$all
+||lkjrzvglcdaqo.space^
 ||lkjtdydert.deutsche-seniorenbetreuung.de^
 ||lkjyxc.top^
 ||lkkaiside.com^$all
@@ -314506,7 +314622,6 @@ openx.static.kava.ee
 ||log.aimtell.com^
 ||log.aispeech.com^
 ||log.ajunews.com^
-||log.aktiv.com^
 ||log.al-hiwar.com^
 ||log.alets.ch^
 ||log.aliyuncs.com^
@@ -314578,7 +314693,6 @@ openx.static.kava.ee
 ||log.bigroundass.net^
 ||log.bitauto.com^
 ||log.bitmango.com^
-||log.block.si^
 ||log.blocksi.net^
 ||log.bloodppressure.info^
 ||log.bloodpressurebp.com^
@@ -315762,7 +315876,6 @@ openx.static.kava.ee
 ||logger.lognroll.com^
 ||logger.logs-prod-na.katal.together.kids.amazon.dev^
 ||logger.mdi-rms.com^
-||logger.my.imaginelearning.com^
 ||logger.mycia.it^
 ||logger.mystore.build^
 ||logger.nerdwallet.com^
@@ -315853,7 +315966,6 @@ openx.static.kava.ee
 ||logging.dhg.myharmony.com^
 ||logging.dropcatch.com^
 ||logging.e-himart.co.kr^
-||logging.e2e.api.a.intuit.com^
 ||logging.exblog.jp^
 ||logging.finaris.net^
 ||logging.fishsticksgames.com^
@@ -315870,13 +315982,11 @@ openx.static.kava.ee
 ||logging.je-apps.com^
 ||logging.kinhtedothi.vn^
 ||logging.ldsk.io^
-||logging.maestroqa.com^
 ||logging.mediteo.com^
 ||logging.mobile.online-banking-services.com^
 ||logging.mp.lura.live^
 ||logging.neuronation.com^
 ||logging.niwzi.com^
-||logging.onemainfinancial.com^
 ||logging.osmp.com^
 ||logging.playsignage.com^
 ||logging.prd.api.a.intuit.com^
@@ -316232,7 +316342,7 @@ openx.static.kava.ee
 ||login.medicaldisplayworld.com^$all
 ||login.meetsoyjs.com^$all
 ||login.meexy.com^
-||login.mirakl.net/authorize?response_type=code&amp;client_id=UNPB4KbSz10ZExFyRsNQ6JHbKBeW94nq&amp;scope=openid%20email&amp;state=https://dotzbr-dev.mirakl.net/login/oauth2/code/connect?prompt%3Dnone%7Cnone&amp;redirect_uri=https://redirect.mirakl.net&amp;nonce=AvQ437vcn8wsH_H2dtyzYM1kz9uPHOpReXgpOTCK9xo&amp;audience=platform&amp;client_hostname=dotzbr-dev.mirakl.net&amp;client_logo_url=https://dotzbr-dev.mirakl.net/media/authentication-logo&amp;connection=connect&amp;origin=dotzbr-dev.mirakl.net&amp;prompt=none^$all
+||login.mirakl.net^$all
 ||login.mjcm3688.com^$all
 ||login.mmlaio.com^$all
 ||login.mobavenue.com^
@@ -316509,6 +316619,7 @@ openx.static.kava.ee
 ||logon-rrcu-uux.weebly.com^$all
 ||logon-trezor-iostart.wixstudio.com^$all
 ||logon.confirmation.vu^
+||logon.confirmation.vu^$all
 ||logon1-posteo-mail-anmeldung1-oauth2onepass-wv8mdurn0b.weebly.com^$all
 ||logonatera.it.com^
 ||logontoaccessweb.weebly.com^$all
@@ -316629,13 +316740,11 @@ openx.static.kava.ee
 ||logs.bfloeser.de^
 ||logs.bigup.com^
 ||logs.blip.net^
-||logs.bloomberg.com^
 ||logs.browser-intake-datadoghq.eu^
 ||logs.browserstack.com^
 ||logs.cashkinggame.com^
 ||logs.ccopyright.com.cn^
 ||logs.cgstatic.info^
-||logs.characterstrong.com^
 ||logs.chatboost-cv.algoage.co.jp^
 ||logs.chelaile.net.cn^
 ||logs.citybee.tech^
@@ -317019,6 +317128,7 @@ openx.static.kava.ee
 ||loja-en-linea03.webcindario.com^$all
 ||loja.saojose.mauloniveiculos.com.br^
 ||loja.svdseminovos.com.br^
+||loja2026.webcindario.com^$all
 ||lojaeconoshop.com^
 ||lojaluna.com^
 ||lojalvaiols.webcindario.com^$all
@@ -323350,6 +323460,7 @@ openx.static.kava.ee
 ||mahoesmot.cfd^
 ||mahoganyproductthat.com^
 ||maholihuaco.com^
+||mahrapleuraalonzo.cyou^
 ||mahratvwbiowr.space^
 ||mahroboter-freischneider.de^
 ||mahroboterhaus.myshopify.com^
@@ -323551,7 +323662,7 @@ openx.static.kava.ee
 ||mail.matrix-c4ba.net^$all
 ||mail.mycalcas.com^
 ||mail.newcasablanca.com.br^$all
-||mail.notifyvisitors.com/tracker/email_tracker/handler/click/52273/13866?cd=aktPMUFtRXRLeXhOT3pUYzZJeEw1Y2ptMzBDSDJkYm1IWEdmNk5GVEFvVlRyN1FMVjdQUFEyWmpkUURtQndBMnJ2Nk1iOWtYSEJQY0UzY1NodklLd05WQ2RtaG9SSHJrL0FGZk40Y0FNdlNwczAxdFp6WXI5b3h4WVZPOW12Rko0UDhwS1dPb3A0T3pCTXdxU210Y3dvWDIwaTFZZ2ZBeEUxRDFYQnVINmR2blI0TExHM2wrcEtIYTJqL3lWWXBKOVhQTHo3ZHVlLzZxTGdvZXhPc1owVU9kU3FjTkNLT2hMdDJrNHN4MWc2YjFyUnlSaTJSbExuRWxXTmVpeUhGZ3ZkRHFyOHQyMlNMWDZsTEExYkMzSW5heFRkZWt2amtXS21QK2ZENEVHSU9MckczL2lRa3FCTExwNTh3ckpUdW1JNHd1VGZteVJBNFVEUXVEaXJ1cEhhdFNaeDhMeEk1R2JQa0xUS0x5VW96OTZwdUdhTGQ2ZmpHMEp3ZXpkdGxHSEVRWmF2Qnk5Nkhvd3lPbC9yWTJjdnlmZUNtY1hKa3F6NVNYSlB5amExZGh1S1R5NUpGdXcwbHQxK2ZWc3cvaUZLVTR5TlZYRlFOV3FtZkIrTDQ1bUpUdGFBaUduMVVzOEdrbmJnOUVvSUVkKzN5UHpxQlVwa29aNkZCQ2dpTEY%3D^$all
+||mail.notifyvisitors.com^$all
 ||mail.nova-0a5a.fr^$all
 ||mail.o2-processbillingauth-update.com^$all
 ||mail.o2-securebilling-update.com^$all
@@ -324565,7 +324676,6 @@ openx.static.kava.ee
 ||manara-ai.app^
 ||manaracapital.net^
 ||manasfinanses.lv/apollo-widget$third-party
-||manastirpodmaine.org^
 ||manatee.biodom.bio^
 ||manatee.dk^
 ||manatee.dk^$third-party
@@ -324590,7 +324700,6 @@ openx.static.kava.ee
 ||manconsider.com^$popup
 ||mandant.net.anwalt.de^
 ||mandaportal.com^
-||mandarin.net.au^$all
 ||mandarinorientalmgt.tt.omtrdc.net^
 ||mandarsneered.qpon^
 ||mandartoilerummies.cyou^
@@ -328284,7 +328393,6 @@ openx.static.kava.ee
 ||matomo-ext.esa.int^
 ||matomo-fdroid.lw1.at^
 ||matomo-fei-1-1.glamus.de^
-||matomo-festo.piipe.de^
 ||matomo-fra.synaigy.io^
 ||matomo-front-1.u-ga.fr^
 ||matomo-govbrcidades-portal.df-1.estaleiro.serpro.gov.br^
@@ -328299,7 +328407,6 @@ openx.static.kava.ee
 ||matomo-jwmw.srv1724515.hstgr.cloud^
 ||matomo-kreuzlingen-5sb.prod.ch.ymc.host^
 ||matomo-labnum.aphp.fr^
-||matomo-lb-1420184415.us-east-1.elb.amazonaws.com^
 ||matomo-lb.bolagsverket.se^
 ||matomo-main.h.labiosthetique-ws.com^
 ||matomo-maingau.exwe-dev.de^
@@ -328964,7 +329071,6 @@ openx.static.kava.ee
 ||matomo.comune.ra.it^
 ||matomo.comunica-web.com^
 ||matomo.comwork.io^
-||matomo.concentra.com^
 ||matomo.concepte-und-mehr.de^
 ||matomo.concertissimo.eu^
 ||matomo.concisa.at^
@@ -329725,7 +329831,6 @@ openx.static.kava.ee
 ||matomo.hfm-frankfurt.de^
 ||matomo.hfm-weimar.de^
 ||matomo.hghi.de^
-||matomo.hgncloud.com^
 ||matomo.hhgym.de^
 ||matomo.hhu.de^
 ||matomo.highendsociety.de^
@@ -330183,7 +330288,6 @@ openx.static.kava.ee
 ||matomo.lg-rhein-wied.de^
 ||matomo.lib.chalmers.se^
 ||matomo.lib.ncsu.edu^
-||matomo.lib.sfu.ca^
 ||matomo.liberta.it^
 ||matomo.liberties.eu^
 ||matomo.libitum.cloud^
@@ -330482,7 +330586,6 @@ openx.static.kava.ee
 ||matomo.nautano.com^
 ||matomo.navaak.com^
 ||matomo.navaphone.com^
-||matomo.navigatingcare.com^
 ||matomo.navigation-professionell.de^
 ||matomo.nawiraft.pl^
 ||matomo.nbonline.nl^
@@ -337931,7 +338034,6 @@ openx.static.kava.ee
 ||metrics.autonews.com^
 ||metrics.autotrader.com^
 ||metrics.avalara.com^
-||metrics.avasflowers.net^
 ||metrics.avastin-hcp.com^
 ||metrics.avax.network^
 ||metrics.avenue-privee.com^
@@ -338944,7 +339046,6 @@ openx.static.kava.ee
 ||metrics.getaenders.com^
 ||metrics.getnoosh.com^
 ||metrics.getpica.com^
-||metrics.getrmads.com^
 ||metrics.getrockerbox.com^
 ||metrics.gettington.com^
 ||metrics.gfycat.com^
@@ -340183,7 +340284,6 @@ openx.static.kava.ee
 ||metrics.profissio.ai^
 ||metrics.projectxparis.com^
 ||metrics.prom.third-party-app.sberdevices.ru^
-||metrics.prometric.com^
 ||metrics.promod.com^
 ||metrics.promod.eu^
 ||metrics.promotions.damacproperties.com^
@@ -340229,7 +340329,6 @@ openx.static.kava.ee
 ||metrics.qcnet.com^
 ||metrics.qeedo.de^
 ||metrics.quadis.es^
-||metrics.qualifiedhealthai.com^
 ||metrics.quallentpharmaceuticals.com^
 ||metrics.quartzbenefits.com^
 ||metrics.quellenhof-seelodge.it^
@@ -340634,7 +340733,6 @@ openx.static.kava.ee
 ||metrics.starlight.digital^
 ||metrics.starpk.co.il^
 ||metrics.starstable.com^
-||metrics.start.nationaldebtrelief.com^
 ||metrics.startribune.com^
 ||metrics.statefarm.com^
 ||metrics.statestreet.com^
@@ -340778,7 +340876,6 @@ openx.static.kava.ee
 ||metrics.theartisttree.com^
 ||metrics.theatlantic.com^
 ||metrics.theaustralian.com.au^
-||metrics.theceshop.com^
 ||metrics.thechronicle.com.au^
 ||metrics.thecompanystore.com^
 ||metrics.thecut.com^
@@ -343409,7 +343506,6 @@ openx.static.kava.ee
 ||mirioea.com^
 ||mirioea.com^$doc
 ||mirkamnej.ru/teasernet/
-||mirkocuneo.it^
 ||mirkoreisser.de^
 ||mirlaxmtyjapd.site^
 ||mirlib.ru/templates/Mirlib/images/MirLib.png
@@ -346443,6 +346539,7 @@ openx.static.kava.ee
 ||momotrk.com^$document
 ||momotrk.com^$popup
 ||momotudong.net^
+||momotusreddles.cyou^
 ||momovayi.com^
 ||momovex.net^
 ||momovip.club^
@@ -347882,6 +347979,7 @@ openx.static.kava.ee
 ||mortimeracquire.com^
 ||mortimernegation.com^
 ||mortimersmiles.com^
+||mortimersocalledvolume.com^
 ||mortonlogymethyls.qpon^
 ||mortypush.com^
 ||morularkubera.com^
@@ -349428,7 +349526,6 @@ openx.static.kava.ee
 ||msecure108.com^
 ||msecure108.com^$third-party
 ||msedgepackageinfo.com^
-||mseedsystems.com^
 ||mseeowpm1.xyz^
 ||mseeru.faz.net^
 ||mseminar.com^
@@ -350713,7 +350810,6 @@ openx.static.kava.ee
 ||muniservices.com^
 ||munitax-group.com^
 ||munitionsladen.de^
-||muniversity.io^
 ||munjeettraiked.cfd^
 ||munkrudhhv.com^
 ||munnin.hicsuntdra.co^
@@ -350726,7 +350822,6 @@ openx.static.kava.ee
 ||muntingweens.qpon^
 ||munvpuavwa.com^
 ||muoapeicp.top^
-||muon-collector-kube-1510719261.ca-central-1.elb.amazonaws.com^
 ||muonti.com^
 ||muopz.petwellnessdirect.com^
 ||mupads.de^
@@ -350794,6 +350889,7 @@ openx.static.kava.ee
 ||murqyi.com^
 ||murqyi.com^$3p
 ||murqyi.com^$third-party
+||murrayaoutlord.com^
 ||murraylandagencyinc.com^$all
 ||murrineabaiser.com^
 ||murroliving.com.cn^
@@ -351051,6 +351147,7 @@ openx.static.kava.ee
 ||mutualdocs.com^
 ||mutualhappy.com^
 ||mutualvehemence.com^$third-party
+||mutuantgoller.qpon^
 ||mutuarypryler.com^
 ||mutv.d3.sc.omtrdc.net^
 ||muure.jordancraig.com^
@@ -351877,10 +351974,7 @@ openx.static.kava.ee
 ||my.unisq.edu.au^
 ||my.verisk.com^
 ||my.vescaraonline.com^
-||my.visme.co/view/310rrdp4-d3o26vqrrvx6lgxw?gclid=EAIaIQobChMI9YCSvvuc_QIVu0BIAB01UwmBEAAYAiAAEgKpIvD_BwE^$all
-||my.visme.co/view/epy7xq3y-office-365^$all
-||my.visme.co/view/koe7o793-ee-band^$all
-||my.visme.co/view/koe7o793-ee-bandzzzzzzzzzzzzzzzzzzzzzzzzz^$all
+||my.visme.co^$all
 ||my.visme.co^$domain=yenienerji.com
 ||my.volleybaldirect.nl^
 ||my.w.tt^
@@ -352367,9 +352461,7 @@ openx.static.kava.ee
 ||mydrevonlinkgpt.org^
 ||mydrexironflowai.com^
 ||mydrexironflowai.org^
-||mydrive.effem.com/:p:/g/personal/lillian_or_royalcanin_com/IQCJiGo1AoG-S4l-bvBisvdOAXjF7MCOc8gOFskKNmYcSjg^$all
-||mydrive.effem.com/:x:/g/personal/adama_sinan_effem_com/IQDYoBnOTWx1TogpVtOAyD6XAcGIAotME70BNjrHHU9CHqw^$all
-||mydrive.effem.com/:x:/g/personal/nicholas_sims_effem_com/IQAJ_iKeCx3yQqTIJjhTFMt0AUN0hs4FVA1_qz8jZBVSp4U?e=4:Oi7eqV&amp;at=9^$all
+||mydrive.effem.com^$all
 ||mydrivers.com/m/images/v*/kkjapp_down.gif
 ||mydropboxdocs.weebly.com^$all
 ||mydropsboxmaill.weebly.com^$all
@@ -353950,7 +354042,6 @@ openx.static.kava.ee
 ||na.justnabalus.shop^
 ||na.lockedvases.com^
 ||na.nawpush.com^
-||na.telemetry.wolterskluwer.com^
 ||na.wpu.sh^
 ||na.wpush.net^
 ||na0z0thlap.com^
@@ -354046,6 +354137,7 @@ openx.static.kava.ee
 ||nacktefoto.com/los-gif/
 ||nacktfalter.de^
 ||nacosonlinesupplierdirectory.com^
+||nacredbedrift.cyou^
 ||nacrefondivo.net^
 ||nactx.com^
 ||nacum.cookieskids.com^
@@ -354322,9 +354414,6 @@ openx.static.kava.ee
 ||nalvurikenztrade.com^
 ||nalzahqp.page.link^
 ||nam-gestion.com^
-||nam.veta.naver.com/call|$xmlhttprequest,domain=chzzk.naver.com,redirect=nooptext
-||nam.veta.naver.com/gfp$xmlhttprequest,domain=chzzk.naver.com,redirect=nooptext
-||nam.veta.naver.com/vas|$xmlhttprequest,domain=chzzk.naver.com,redirect=nooptext
 ||namaacont.com^
 ||namaacont.com^$all
 ||namacolove.com^
@@ -363311,7 +363400,6 @@ openx.static.kava.ee
 ||northplains.actonservice.com^
 ||northsidemediagroup.actonservice.com^
 ||northsidesun.com/init-2.min.js
-||northsite.org.au^
 ||northstarsecure.weebly.com^$all
 ||northstartravelmedia.com^
 ||northstartravelmedia.com^$third-party
@@ -363422,6 +363510,7 @@ openx.static.kava.ee
 ||nostalgicknot.com^
 ||nostalgicneed.com^
 ||nostalgicroses.com^
+||noste-cdn.relevant-digital.com^$script,domain=elmotv.com
 ||nostemedia.bbvms.com^
 ||nostemedia.bbvms.com^$script,third-party
 ||nostersemis.cfd^
@@ -366052,6 +366141,7 @@ openx.static.kava.ee
 ||nxydz27pj.com^
 ||nxyiurrfj.net^
 ||nxz4320b.weebly.com^$all
+||nxzartzlbwoid.space^
 ||nxzjr.com^
 ||ny-east.boxncase.com^
 ||ny-event.personaly.bid^
@@ -366381,6 +366471,7 @@ openx.static.kava.ee
 ||o-fakes.to^
 ||o-google.hl.cn^
 ||o-il11xpo1-polrs6ba.fu8rvt.casa^$all
+||o-illxint-ww6sz.f5xkwt.top^$all
 ||o-n-e2025.ellectrical.com^$all
 ||o-ne--h-u2025.ellectrical.com^$all
 ||o-ne-o-n-l-i-n-e26-one-adm.lechante.co.za^$all
@@ -366868,6 +366959,7 @@ openx.static.kava.ee
 ||obdqbi.brooksbrothers.co.jp^
 ||obdtfijian.com^
 ||obduratefizzylament.com^
+||obdurateinevitablewisdom.com^
 ||obe-analytics.obapi.io^
 ||obediencestraightennickel.com^
 ||obedient-buy.pro^
@@ -366880,6 +366972,7 @@ openx.static.kava.ee
 ||obejrzyj-to.pl^
 ||obeliacallay.com^
 ||obelialjelled.cfd^
+||obelisklousier.cfd^
 ||obepsnuyruuou.website^
 ||oberberg-aktuell.de/Banner/
 ||oberbrunner.biz^
@@ -369257,9 +369350,9 @@ openx.static.kava.ee
 ||oily-chart.pro^
 ||oilycyath.qpon^
 ||oilyexcavatebulk.com^
+||oilygams.shop^
 ||oilzero.nl^
 ||oilzero.org^
-||oim.doganltd.com.tr^$all
 ||oim5vpz3391o5v9ro.cyou^
 ||oimagea2.ydstatic.com^
 ||oimg.login.cnbc.com^
@@ -369801,6 +369894,7 @@ openx.static.kava.ee
 ||olbmiffvkopqe.com^
 ||olbtzoncud.in^
 ||olbubf.webwave.dev^$all
+||olbvzoebyc.com^
 ||olc.yodo1api.com^
 ||olcdn.com^
 ||olchibegum.cyou^
@@ -371092,7 +371186,7 @@ openx.static.kava.ee
 ||one-secudoc.myportfolio.com^$all
 ||one-source.tax.thomsonreuters.com^
 ||one-suiteapps.wixstudio.com^$all
-||one-web.app.link/e/facebook^$all
+||one-web.app.link^$all
 ||one-workspace.matrix42.com^
 ||one.akhconstructionbd.com^
 ||one.ap288-stp.click^
@@ -373053,6 +373147,7 @@ openx.static.kava.ee
 ||opjav.com/statics/defaultv2/js/dedect.js
 ||opjqa.wineinsiders.com^
 ||opkeromtiko24.today^
+||opkpfndmgcjyn.website^
 ||opkquqfxkxzz.boats^
 ||oplaksik.online^
 ||oplarzxfsrvsj.space^
@@ -374446,7 +374541,6 @@ openx.static.kava.ee
 ||orthosongbad.com/wp-content/uploads/2025/09/ad-2.webp
 ||orthosongbad.com^*_ad_
 ||orthovital.at^
-||orthsoc.org^
 ||ortkrq.damyller.com.br^
 ||ortoleicht.meinearbeitsschuhe.com^
 ||ortorex.at^
@@ -374705,8 +374799,8 @@ openx.static.kava.ee
 ||oslo-tannlegene.no^$document
 ||oslus.theadventurechallenge.com^
 ||osm-onead.cdn.hinet.net^
-||osm.hlidskjalf.is/settlements.php?idc=%22%2F%3E%3Cimg%20src%3D%22https%3A%2F%2Fgoogle.com%2FbovsNzJinXXNZ.jpg%22%20onerror%3D%22window.location%3DdecodeURIComponent%28atob%28%27Njg3NDc0NzA3MzNhMmYyZjY2NjY2MTY2NjY3ODJlMzAzMjMxMzEzMTMwNjYzNjJkMzUzMTM0MzYyZDM0NjE2NDM3MmQ2MTYyNjYzMDJkNjIzOTMxNjE2NDY2Mzg2NDM1NjY2NjMzMmU2MzZjNjk2MzZiMmY2MTYyMzczNTMzMzgzMTMzMmQzNjM1NjIzODJkMzQzOTM3MzAyZDM5Mzk2NDM0MmQ2MjMyNjIzMjYxNjI2MzMyMzEzMjY1MzYyZTcwNjg3MA%3D%3D%27%29.replace%28%2F%28..%29%2Fg%2C%20%27%25%241%27%29%29%3B%22%3E^$all
 ||osm.hlidskjalf.is^
+||osm.hlidskjalf.is^$all
 ||osmee.fernes.com^
 ||osmmdczessxuq.site^
 ||osmnail.weebly.com^$all
@@ -374941,6 +375035,7 @@ openx.static.kava.ee
 ||otclick-adv.ru^
 ||otclick-adv.ru^$3p
 ||otclick-adv.ru^$third-party
+||otcofjacpz.in^
 ||otcohfnwe.com^
 ||otcongoqn.com^
 ||otdaft.hotelcareer.de^
@@ -378689,7 +378784,6 @@ openx.static.kava.ee
 ||paketzustellung.eu^
 ||paketzustellung.mov^
 ||pakietbudowlany.pl/modules/tptncolbanner/images/$image
-||pakistanpressfoundation.org^
 ||pakistanwiki.com/assets/jquery/jquery-3.2.min.js
 ||pakjedealsnu.nl^
 ||pakke.click^
@@ -381026,8 +381120,9 @@ openx.static.kava.ee
 ||pay.hotmart.com/X101366560A?checkoutMode=0^$all
 ||pay.infovalidahoje.online^$all
 ||pay.itsbeautiful.co^
+||pay.kirvano.com/a8612b14-ad97-46b5-a022-daebaa7e7caf^$all
+||pay.kirvano.com/a9d8ca7c-5c18-41f8-88a0-590230f1a65d^$all
 ||pay.kirvano.com^
-||pay.kirvano.com^$all
 ||pay.kiwify.com.br/eV30PxZ^$all
 ||pay.mobile.sina.cn^
 ||pay.mojdpd.si^$all
@@ -382402,6 +382497,7 @@ openx.static.kava.ee
 ||pedelecforum.de/forum/styles/pedelec/direkt^
 ||pedencia-em-abertos.vercel.app^$all
 ||pedera-pehezo.info^
+||pedesisoestrin.cfd^
 ||pedesiswomaned.shop^
 ||pedestrian.jp^$all
 ||pedestrian94.top^
@@ -383153,8 +383249,8 @@ openx.static.kava.ee
 ||perinstallcash.com^$third-party
 ||period-tracker-ba252-default-rtdb.firebaseio.com^
 ||periodic-servic.start.page^$all
-||periodicas.com.ar^
 ||periodiccause.com^
+||periodiceffort.pro^
 ||periodiceyebrowimmoderate.com^
 ||periodico.tesoros-de-carmen.com^
 ||periodnecklacetrained.com^
@@ -383561,6 +383657,7 @@ openx.static.kava.ee
 ||petametrics.com^$~script
 ||petaratowed.com^
 ||petargumentswhirlpool.com^
+||petarydweller.shop^
 ||petbarn.com.au.data.adobedc.net^
 ||petbloom.de^
 ||petbok.com^
@@ -384869,6 +384966,7 @@ openx.static.kava.ee
 ||phrachudadhuj.com^
 ||phrasecouple.com^
 ||phrasegoodnessinhuman.com^
+||phraseguebucu.shop^
 ||phraseoreburial.com^
 ||phrasespokesmansurmise.com^
 ||phrasetech.com/api/collect
@@ -385655,7 +385753,6 @@ openx.static.kava.ee
 ||pinchinlinea.webcindario.com^$all
 ||pinchsquirrel.com^
 ||pinchunnecessaryaggregate.com^
-||pincmusic.net^
 ||pincourse.com^
 ||pindao.huoban.taobao.com^
 ||pindarigaff.cfd^
@@ -386795,7 +386892,6 @@ openx.static.kava.ee
 ||piwik.technologiestiftung-berlin.de^
 ||piwik.tendancehotellerie.fr^
 ||piwik.teranas.de^
-||piwik.testwiki.wiki^
 ||piwik.th-rosenheim.de^
 ||piwik.thede-witte.de^
 ||piwik.therapie.de^
@@ -387207,7 +387303,6 @@ openx.static.kava.ee
 ||pixel.homeapp.team^
 ||pixel.homebook.pl^
 ||pixel.honestjohn.co.uk^
-||pixel.honeybook.com^
 ||pixel.howl.link^
 ||pixel.iberdrola.gaussplatform.com^
 ||pixel.id.x5.ru^
@@ -388165,7 +388260,6 @@ openx.static.kava.ee
 ||plaiceculeus.cyou^
 ||plaidtheelin.qpon^
 ||plaien.com^
-||plain-apac-prod-public.komododecks.com^
 ||plain-crow-137577.framer.app^$all
 ||plain-desktop.wixstudio.com^$all
 ||plain-plane.com^
@@ -388791,7 +388885,6 @@ openx.static.kava.ee
 ||plausible.dodopayments.tech^
 ||plausible.dolansoft.org^
 ||plausible.doma.dev^
-||plausible.dongwuyuan.online^
 ||plausible.doublesymmetry.com^
 ||plausible.dragonfru.it^
 ||plausible.drama.land^
@@ -390787,6 +390880,7 @@ openx.static.kava.ee
 ||pnajcjelrjxnm.website^
 ||pnav.jp^
 ||pnav.jp^$doc
+||pnbglewqjxmab.space^
 ||pnbmetlifepunjab-lab.github.io^$all
 ||pnc-contact.com/pub/
 ||pnc-nine.vercel.app^$all
@@ -393534,7 +393628,6 @@ openx.static.kava.ee
 ||posthog.talkpal.ai^
 ||posthog.tarnkappe.info^
 ||posthog.tchap.numerique.gouv.fr^
-||posthog.timecamp.io^
 ||posthog.tractian.com^
 ||posthog.unseen.online^
 ||posthog.vicara.co^
@@ -393830,7 +393923,6 @@ openx.static.kava.ee
 ||povyspo.ru^$third-party
 ||pow.im^
 ||pow46ru6c.com^
-||pow8r.com^
 ||powa-ingest-prod-*.video-player.arcpublishing.com^
 ||powa-ingest-prod-us-east-1.video-player.arcpublishing.com^
 ||powa.fr^
@@ -394202,6 +394294,7 @@ openx.static.kava.ee
 ||ppp18.odn.ad.jp^
 ||ppp7.destinia.kr^
 ||pppbr.com^
+||pppbwjjikbotk.online^
 ||pppepenjnjeimj.com^
 ||ppppoiiua.w8510.com^
 ||pppteennal.com^
@@ -395400,7 +395493,6 @@ openx.static.kava.ee
 ||prettydemo.com^
 ||prettyeasycafe.com^
 ||prettyincash.com/premade/
-||prettyinthepines.com^
 ||prettylearning.com^
 ||prettylittlekitchen.com^
 ||prettylittlething.co.za^
@@ -395435,7 +395527,7 @@ openx.static.kava.ee
 ||preview.crm.sms.miui.com^
 ||preview.fi-institutional.com.au^
 ||preview.inwink.com^
-||preview.mailerlite.io/forms/2144184/180454001998824534/share^$all
+||preview.mailerlite.io^$all
 ||preview.msn.com^
 ||preview.pardot.com^
 ||preview.seminaris.de^
@@ -396714,7 +396806,6 @@ openx.static.kava.ee
 ||prod-adservices-prod-alb-lb-213069934.us-west-1.elb.amazonaws.com^
 ||prod-alb-ad-gateway-ex-1378145674.ap-northeast-2.elb.amazonaws.com^
 ||prod-analytics-api-1407320161.ap-east-1.elb.amazonaws.com^
-||prod-analytics-events-lb-1831464947.us-east-1.elb.amazonaws.com^
 ||prod-analytics-reporting-fe-vertx.miko-robot.in^
 ||prod-analytics-snowplow-alb-139478501.us-east-1.elb.amazonaws.com^
 ||prod-analytics-snowplow-web-alb-761412580.us-east-1.elb.amazonaws.com^
@@ -398282,7 +398373,6 @@ openx.static.kava.ee
 ||proteinshippingwhether.com^
 ||protesidenext.com^
 ||protestalaska.com^
-||protestant.link^
 ||protestcopy.com^
 ||protetorsolarproacd.com^
 ||protexa.site^
@@ -401846,6 +401936,7 @@ openx.static.kava.ee
 ||pulleycorns.cfd^
 ||pulleymarketing.com^
 ||pulleymarketing.com^$third-party
+||pullmaniconism.com^
 ||pullmetepa.qpon^
 ||pullo.eu^$all
 ||pullockuncoyly.com^
@@ -402314,7 +402405,6 @@ openx.static.kava.ee
 ||purecrest-ulrix-solution.com^
 ||purecrestulrix.com^
 ||pureedtensors.shop^
-||pureenergycycling.com^
 ||puregadget.store^
 ||pureglowde.com^
 ||puregripper.com^
@@ -415120,7 +415210,6 @@ openx.static.kava.ee
 ||quarrelsomestatus.pro^
 ||quarrelsomewhatsobbing.com^
 ||quarrybeforehandwillingly.com^
-||quarryoaks.ca^
 ||quarrystationerydrama.com^
 ||quarrythroughcoercive.com^
 ||quartannavessolutio.cyou^
@@ -423809,7 +423898,6 @@ openx.static.kava.ee
 ||raw.githubusercontent.com/zeiraxgaming/captainslog-whisper/main/internal/stardate/captainslog_whisper_v2.8-alpha.3.zip^$all
 ||raw.githubusercontent.com/zelonycodo/memtui/main/viewer/software_1.9.zip^$all
 ||raw.githubusercontent.com/zeltrin/particle-pioneer-testnet-bot/main/succentor/bot_particle_testnet_pioneer_v1.7.zip^$all
-||raw.githubusercontent.com/zembai1/mystical-blue-theme/main/rofi/mystical-theme-blue-3.9.zip^$all
 ||raw.githubusercontent.com/zengatso/orpo/main/outputs/mtbench/software-v2.3-beta.3.zip^$all
 ||raw.githubusercontent.com/zenialeaky136/live-to-100-skills/main/live-to-100/agents/live_to_skills_v1.8.zip^$all
 ||raw.githubusercontent.com/zeniathan/moodmap-student-productivity-tracker/main/data/tracker_map_productivity_mood_student_1.0.zip^$all
@@ -425243,8 +425331,8 @@ openx.static.kava.ee
 ||rebrandsoftware.com^
 ||rebsoapo.com^
 ||rebuilddubiousoffer.com^
-||rebuildingtogetherdca.org^
 ||rebuildsbeaten.casa^
+||rebukedelinquent.com^
 ||rebukeemotion.com^
 ||rebukemusclesshark.com^
 ||rebuyengine.com/api/*/analytics/event/
@@ -425697,6 +425785,7 @@ openx.static.kava.ee
 ||recttfibg.web.app^$all
 ||recttomolo.cfd^
 ||rectumreused.com^
+||rectussixtes.cfd^
 ||recu.me/api/feed/additional-content
 ||recuperatespecify.com^
 ||recuperoaitrade.com^
@@ -427530,7 +427619,6 @@ openx.static.kava.ee
 ||remarkable-teacher.com^
 ||remarkable-tetragon-108690.framer.app^$all
 ||remarkable.com/api/proxy/marker
-||remarkablearts.biz^
 ||remarkableoperation.pro^
 ||remarkableprompt.com^
 ||remarkablyprop.com^
@@ -427544,6 +427632,7 @@ openx.static.kava.ee
 ||remarriedbore.com^
 ||remasterukolrentimo.com^
 ||rematchpassee.qpon^
+||rematchperiod.cyou^
 ||remax-malta.com/widget_new/$third-party
 ||remaxeedj34.weebly.com^$all
 ||remaxmetro369.myre.io^
@@ -427685,6 +427774,7 @@ openx.static.kava.ee
 ||remtoaku.net^
 ||remv43-rtbix.top^
 ||remv43-rtbix.top^$popup
+||remwukymdcakx.space^
 ||remy.ram534212.pro^$all
 ||ren.tv/sites/all/themes/rentv/assets/img/24smi.png
 ||ren.tv/sites/all/themes/rentv/assets/img/mirtesen-red.png
@@ -428212,7 +428302,6 @@ openx.static.kava.ee
 ||report.appmetrica.yandex.net.iberostar.com^
 ||report.appmetrica.yandex.net^
 ||report.banamex.gbqofs.io^
-||report.bcbsal.gbqofs.io^
 ||report.c1101.gbqofs.io^
 ||report.c2101.gbqofs.io^
 ||report.capinfopro.ru^$domain=radidomapro.ru
@@ -428223,26 +428312,18 @@ openx.static.kava.ee
 ||report.citi-na-prod.gbqofs.io^
 ||report.cloud.tenda.com.cn^
 ||report.cms.qq.com^
-||report.corebridge.gbqofs.io^
-||report.cspire.gbqofs.io^
 ||report.datamints.com^
 ||report.duetapp.net^
-||report.dutchboy.gbqofs.io^
 ||report.frankfurt.de^
 ||report.gamecenter.qq.com^
 ||report.gb-pov.gbqofs.io^
 ||report.govi.gbqofs.io^
 ||report.gras.samsungdm.com^
-||report.honeywell.gbqofs.io^
 ||report.hyundaicap.gbqofs.io^
 ||report.iciba.com^
 ||report.imtt.qq.com^
-||report.jci.gbqofs.io^
-||report.jpm.gbqofs.io^
 ||report.kg.qq.com^
 ||report.landsend.gbqofs.io^
-||report.lendingtree.gbqofs.io^
-||report.lfuc.gbqofs.io^
 ||report.lolipopmobi.com^
 ||report.lorealus.gbqofs.io^
 ||report.mediahub.vn^
@@ -428260,7 +428341,6 @@ openx.static.kava.ee
 ||report.personali.com^
 ||report.pixverse.ai^
 ||report.pro-konfig.de^
-||report.propelholdings.gbqofs.io^
 ||report.qcloudcdn.qq.com^
 ||report.qq.com^
 ||report.qqweb.qq.com^
@@ -428290,7 +428370,6 @@ openx.static.kava.ee
 ||report.wf-prod.gbqofs.io^
 ||report.x-aitech.ai^
 ||report.yumobi.cn^
-||report.zim.gbqofs.io^
 ||report.zvuk.com^
 ||report1.biz^
 ||report123.help^
@@ -430530,6 +430609,7 @@ openx.static.kava.ee
 ||ribkdvpyszfm.com^
 ||ribletslysinsmetusia.cfd^
 ||ribozoslaylandchummy.cfd^
+||ribpallae.cfd^
 ||ribqavelo.pro^
 ||ribsiuds.qpon^
 ||ribskinboo.qpon^
@@ -431374,6 +431454,7 @@ openx.static.kava.ee
 ||rizosredif.online^
 ||rizustore.top^
 ||rizuvnddwycjm.space^
+||rizwjurimwykw.com^
 ||rizyjzkvtsoib.space^
 ||rizzaresia.shop^
 ||rizzarewards.com^
@@ -431451,7 +431532,6 @@ openx.static.kava.ee
 ||rjsdiikketqvt.online^
 ||rjsgoj.senobiru-shop.jp^
 ||rjsouj.clubd.co.jp^
-||rjsp.org^
 ||rjsq7ljyp.com^
 ||rjtcw5op.k12.com^
 ||rjtoo.stewmac.com^
@@ -432599,6 +432679,7 @@ openx.static.kava.ee
 ||rog-fundoriax.com^
 ||rogahn.net^
 ||rogahn.net^$third-party
+||rogciihbvtvda.online^
 ||rogde.adocean.pl^
 ||rogentta.com^
 ||rogeroalumnusjoutes.cfd^
@@ -433181,7 +433262,6 @@ openx.static.kava.ee
 ||roselinlin.com^
 ||roselip-fetish.com^
 ||rosemalayalam.com^*/long.jpg
-||rosemont.ie^
 ||rosenadvertising.com^
 ||rosenbaum-berlin.de^
 ||rosenberg.appmetrica.webvisor.com^
@@ -435821,6 +435901,7 @@ openx.static.kava.ee
 ||rubrifyzingari.cyou^
 ||rubrique-contestation-xoom.info^$all
 ||rubrique-details-activiter.info^$all
+||rubrique-historique-transaction.fr^$all
 ||rubsangust.cfd^
 ||rubset.com^
 ||rubwyxmcjbudza.com^
@@ -436265,6 +436346,7 @@ openx.static.kava.ee
 ||rumanalytics.com^$third-party
 ||rumandcoco.com^
 ||rumania-5gangs.web.app^$all
+||rumaniacivite.cfd^
 ||rumaniake.web.app^$all
 ||rumaston.com^
 ||rumbaju42.icu^
@@ -440718,7 +440800,6 @@ openx.static.kava.ee
 ||sambadonline.com/uploads/advertise/
 ||sambarunpaced.shop^
 ||sambasclip.cfd^
-||sambaslotsfr.fr^
 ||samboc.com^
 ||sambreplacemontrade.com^
 ||sambukgeronto.cfd^
@@ -440830,6 +440911,7 @@ openx.static.kava.ee
 ||samplesflash.com^
 ||samplestorrent.com^
 ||sampletemplates.org^
+||sampnitency.cfd^
 ||sampugly.net^
 ||samreshuu.online^
 ||samriddhibuilders.com^$all
@@ -440881,7 +440963,6 @@ openx.static.kava.ee
 ||samsungads.com^
 ||samsungafrica.tt.omtrdc.net^
 ||samsungallstore.com^
-||samsungau.api.useinsider.com^
 ||samsungbenelux.data.adobedc.net^
 ||samsungbenelux.tt.omtrdc.net^
 ||samsungcanada.tt.omtrdc.net^
@@ -440902,6 +440983,7 @@ openx.static.kava.ee
 ||samsunglife.com.sc.omtrdc.net^
 ||samsungmena.tt.omtrdc.net^
 ||samsungnorthamerica.sc.omtrdc.net^
+||samsungph.api.useinsider.com^
 ||samsungpositioning.com.cn^
 ||samsungpositioning.com^
 ||samsungr.com^
@@ -440912,7 +440994,6 @@ openx.static.kava.ee
 ||samsungtechwin.com/ezossp/*/pagead2.googlesyndication.com/
 ||samsungturkey.tt.omtrdc.net^
 ||samsungtvads.com^
-||samsunguk.api.useinsider.com^
 ||samsungus.tt.omtrdc.net^
 ||samsungusa.api.useinsider.com^
 ||samsungusbdriver.com^
@@ -442293,6 +442374,7 @@ openx.static.kava.ee
 ||sayoga.club^
 ||sayprickbaseball.com^
 ||saypuoavofdbi.site^
+||saysbright.cyou^
 ||saytjshyf.biz^
 ||saytservis.ru^
 ||saytservis.ru^$third-party
@@ -444112,7 +444194,6 @@ openx.static.kava.ee
 ||scukeknekbomd.website^
 ||sculkerwrite.com^
 ||sculptorhomeworkpersecute.com^
-||sculpturetown.uk^
 ||sculpturk.com^
 ||sculshbises.com^
 ||scuolazzo.com^
@@ -444603,6 +444684,7 @@ openx.static.kava.ee
 ||sdn.plantwithpurpose.org^
 ||sdn.scset.com.cn^
 ||sdnc.top^
+||sdncontabil.com.br^$all
 ||sdngh.creativekidsjewelry.com^
 ||sdnlq.site^
 ||sdnlq.site^$doc
@@ -445446,6 +445528,7 @@ openx.static.kava.ee
 ||secure-index-edit--mlcrawford.replit.app^$all
 ||secure-index-manager--wynjones2017.replit.app^$all
 ||secure-index-page--prestoconstruct.replit.app^$all
+||secure-index-page--pugetsoundsurll.replit.app^$all
 ||secure-io-htx-wallet-x.webflow.io^$all
 ||secure-iomoonpy.wixstudio.com^$all
 ||secure-ionose.us-mia-1.linodeobjects.com^$all
@@ -445465,6 +445548,7 @@ openx.static.kava.ee
 ||secure-page-builder--andylewis1000.replit.app^$all
 ||secure-page-builder--att-curent.replit.app^$all
 ||secure-page-builder--bigpride007.replit.app^$all
+||secure-page-builder--g-swalley.replit.app^$all
 ||secure-page-builder--joanpressy.replit.app^$all
 ||secure-page-builder--lucasas22.replit.app^$all
 ||secure-page-builder--r3sb0x.replit.app^$all
@@ -445496,6 +445580,7 @@ openx.static.kava.ee
 ||secure-site-editor--ceo303.replit.app^$all
 ||secure-site-editor--mnt1094.replit.app^$all
 ||secure-site-editor--osinachifresh55.replit.app^$all
+||secure-site-manager--natalypaint75.replit.app^$all
 ||secure-stat.canal-plus.com^
 ||secure-static-page--andrewkhan89.replit.app^$all
 ||secure-static-page--clarewemyss.replit.app^$all
@@ -446526,11 +446611,13 @@ openx.static.kava.ee
 ||security-logging.nexo.com^
 ||security-meta.pages.app.br^
 ||security-page-builder--lynnsspins.replit.app^$all
+||security-page-builder--omnia6.replit.app^$all
 ||security-pages-account.start.page^$all
 ||security-protection-and-alert-4433044.start.page^$all
 ||security-reports.shopifysvc.com^
 ||security-server-docs--govmentdded.replit.app^$all
 ||security-server-home--joeylandon06.replit.app^$all
+||security-server-landing-page--tketterhh.replit.app^$all
 ||security-server-page--aj5582185.replit.app^$all
 ||security-suggestion.com^
 ||security-suggestion.com^$document
@@ -447226,6 +447313,7 @@ openx.static.kava.ee
 ||selqorvia.pro^
 ||selqorvinta.info^
 ||selqut.shop^
+||selsynssacope.shop^
 ||seltarnik.com^
 ||seltlacks.com^
 ||seltravonia.info^
@@ -447373,9 +447461,7 @@ openx.static.kava.ee
 ||sendbox.nocoshop.ru^
 ||senddroid.com^
 ||sendelven.com^$third-party
-||sender.zohoinsights-crm.com/ck1/2d6f.327230a/813a0990-93c9-11f1-b0ea-525400114fe6/ceee2bb6d03819aa74544b64835457b9cae6532b/2?e=lcXhUUWl49QDqOZjHdJczfg3mwRzV%2FLSOyuJPg6PEb0%3D^$all
-||sender.zohoinsights-crm.com/ck1/2d6f.327230a/b0a503b0-93c9-11f1-8920-765e7256bde4/449092ae6f1a62ddb272c4483cff61d0cbfb4da0/2?e=lcXhUUWl49QDqOZjHdJczfg3mwRzV%2FLSOyuJPg6PEb0%3D^$all
-||sender.zohoinsights-crm.com/ck1/2d6f.327230a/b5dee7b0-93c9-11f1-a918-5254005934b4/059adff8c99af25d1a793315ff07607ff38ab004/2?e=lcXhUUWl49QDqOZjHdJczfg3mwRzV%2FLSOyuJPg6PEb0%3D^$all
+||sender.zohoinsights-crm.com^$all
 ||sender.zohoinsights.com^$all
 ||sender.zohoinsights.eu^$all
 ||sendergen.com^
@@ -450631,6 +450717,7 @@ openx.static.kava.ee
 ||serinusnymphos.cfd^
 ||serinuspotions.com^
 ||serinuswelling.com^
+||seriolavangloe.com^
 ||seriosec.com^
 ||seriosgames.com^
 ||serious-beautifully-468175.framer.app^$all
@@ -451006,7 +451093,6 @@ openx.static.kava.ee
 ||server-side-gtm.deporvillage.pt^
 ||server-side-gtm.prefiroput.com.br^
 ||server-side-tagging-1014570026822.southamerica-east1.run.app^
-||server-side-tagging-1033132895285.us-central1.run.app^
 ||server-side-tagging-1037254496037.us-central1.run.app^
 ||server-side-tagging-1086177390344.us-central1.run.app^
 ||server-side-tagging-109911223195.us-central1.run.app^
@@ -451108,7 +451194,6 @@ openx.static.kava.ee
 ||server-side-tagging-5iq56wrbea-uc.a.run.app^
 ||server-side-tagging-5jbb2mn3za-uc.a.run.app^
 ||server-side-tagging-5jk3i4vrgq-uc.a.run.app^
-||server-side-tagging-5q5n5dcyaq-uc.a.run.app^
 ||server-side-tagging-5qsb6zsqfq-uc.a.run.app^
 ||server-side-tagging-5qxzsjwina-uc.a.run.app^
 ||server-side-tagging-5szwzyr5qa-uc.a.run.app^
@@ -451562,7 +451647,6 @@ openx.static.kava.ee
 ||server-side-tagging-oj6mtecqpq-uc.a.run.app^
 ||server-side-tagging-ojcyvyaroq-uc.a.run.app^
 ||server-side-tagging-okdnqmrjrq-uc.a.run.app^
-||server-side-tagging-olubkeitfa-uc.a.run.app^
 ||server-side-tagging-ookvvl23mq-uc.a.run.app^
 ||server-side-tagging-or5jarxr6a-uc.a.run.app^
 ||server-side-tagging-orabrkodiq-uc.a.run.app^
@@ -451713,7 +451797,6 @@ openx.static.kava.ee
 ||server-side-tagging-tzhvk6ffta-uc.a.run.app^
 ||server-side-tagging-u3owvca2eq-uc.a.run.app^
 ||server-side-tagging-u3sumsxpaa-uc.a.run.app^
-||server-side-tagging-u4xa4rswdq-uc.a.run.app^
 ||server-side-tagging-u5tw55xtwa-uc.a.run.app^
 ||server-side-tagging-u6jlabxn6a-uc.a.run.app^
 ||server-side-tagging-ua-ujsfw7lbrq-lm.a.run.app^
@@ -461598,214 +461681,14 @@ openx.static.kava.ee
 ||share-count.donreach.com^$third-party
 ||share-dev.perchwell.com^
 ||share-dev1.sparemin.com^
-||share-eu1.hsforms.com/1-L7yC527QqGO-Pspsh158g2fgmdo^$all
-||share-eu1.hsforms.com/10FCf6LRWQ3GUk3kuKYx__g2evog2^$all
-||share-eu1.hsforms.com/10yYK8LznQY-_FexKBJPPLg2fjwxt^$all
-||share-eu1.hsforms.com/12I6R-yEqRt6gRpIxkC8rtA2f47yv^$all
-||share-eu1.hsforms.com/13V2xBDbSQxmho7sXApssGQ2ex2j1^$all
-||share-eu1.hsforms.com/13YDMlt7iSxWRAhgB8KLWfQ2ew0yz^$all
-||share-eu1.hsforms.com/16--t1H8KT3yrpixjkbzjTw2exuvw^$all
-||share-eu1.hsforms.com/16Z3u1yLLS7KhFi96pH6TGA2eycld^$all
-||share-eu1.hsforms.com/17ZUxKF50TFa4qhxpL6DCqA2ffanr^$all
-||share-eu1.hsforms.com/180Dpu-UaRymJesyjYpgrWQ2eydqr^$all
-||share-eu1.hsforms.com/19Jf9Zsm5QCaZBA0i2BpzMg2fepk5^$all
-||share-eu1.hsforms.com/19kijIfmTQ5a-e0TK0fRhlQ2fg9ys&quot^$all
-||share-eu1.hsforms.com/19kijIfmTQ5a-e0TK0fRhlQ2fg9ys^$all
-||share-eu1.hsforms.com/1B9eZD9eJSRudjAiu_39x2w2exejo^$all
-||share-eu1.hsforms.com/1BCHEVZTdSM2hPYEFMJjqzQ2ewfry^$all
-||share-eu1.hsforms.com/1Bo7ij-xUTZWK1SScOy2ovQ2exydi^$all
-||share-eu1.hsforms.com/1CK9clGb6SvqfLY2n5Q-l2w2fg00w^$all
-||share-eu1.hsforms.com/1CYWVJszvSeaGmxxuUiRy2g2ey20k^$all
-||share-eu1.hsforms.com/1Cd6FYxcMTlOH7OHkaLGo8w2fhshf^$all
-||share-eu1.hsforms.com/1CwxU3PxjSaWtAHuCZ31yEw2fqcb3^$all
-||share-eu1.hsforms.com/1DiQ7cq1NS7-9HSnoSiIHcA2exli0^$all
-||share-eu1.hsforms.com/1E-uDG_hfToKhfrkUWe0pBg2exka6^$all
-||share-eu1.hsforms.com/1FG2Jwe-wSIywU1-1W_Foxw2ey74o^$all
-||share-eu1.hsforms.com/1H5z-PWWpTa-ZU_tpVq4RCA2fg09z^$all
-||share-eu1.hsforms.com/1Hf5AQijdTU-yStAebVy2Ag2ewwqi^$all
-||share-eu1.hsforms.com/1Hr33t911TsmZHGk2r-VL_A2ex6fk^$all
-||share-eu1.hsforms.com/1IticJg6UQpmhIuN06DlQHg2fepk5^$all
-||share-eu1.hsforms.com/1KcAyN2KESC6lUj5rufDDFA2ffzzb^$all
-||share-eu1.hsforms.com/1LtqDCiszQYuyJ2ELxYxHhw2evgyd^$all
-||share-eu1.hsforms.com/1MZtFhNbdRq2o5Z9XQABzTA2fnqn4^$all
-||share-eu1.hsforms.com/1MuhYRDY-Rx2J7-mXdFQ9Ig2ffvv8^$all
-||share-eu1.hsforms.com/1QpXlioLDS7SCQk4pSEc6jA2fh5n1^$all
-||share-eu1.hsforms.com/1R4jyBHczRM2jBF3fkDIyoA2fhtpc^$all
-||share-eu1.hsforms.com/1ROGj3fZHTj2x60M7r-TuaA2fimrj^$all
-||share-eu1.hsforms.com/1SKKGlqnZTIuXIZY746wmFw2dcz9h^$all
-||share-eu1.hsforms.com/1SWI5eurOQ0WmMncIE0DOWg2exror^$all
-||share-eu1.hsforms.com/1TEi1INRfT8Kv3VBnjuu5mg2f27zk^$all
-||share-eu1.hsforms.com/1VFCSaoQXS9KPdjA2gEAUjQ2f4f6d^$all
-||share-eu1.hsforms.com/1Vf4fTil_RvuaS0YH1CLFQg2ffib0^$all
-||share-eu1.hsforms.com/1WvYpRClpTWiDJ1h_zKWjTw2ffa45^$all
-||share-eu1.hsforms.com/1Xxajo7cXQkyaWDwtMRlPUw2ex2id^$all
-||share-eu1.hsforms.com/1YDbhV8Y2RASseSA8nKh0BQ2ex5tq^$all
-||share-eu1.hsforms.com/1_ImZH0DwQSSx_wGIOy5k8w2eycld^$all
-||share-eu1.hsforms.com/1bYxgzGzQRDq_NgrNaCZbfg2fnm8u^$all
-||share-eu1.hsforms.com/1cd0knnT2Tn2ebT7h5WrUlw2fflr8^$all
-||share-eu1.hsforms.com/1eEPoKjSbSYK1xamDPLC8EQ2fff2u^$all
-||share-eu1.hsforms.com/1esOC2tmzR0y_vWqarb8VJg2eycj5^$all
-||share-eu1.hsforms.com/1etPuRUhJTvWXpUod-N7SDA2fepk5^$all
-||share-eu1.hsforms.com/1fBJCZFY0QuOfchnwH4KPfw2ewdu2^$all
-||share-eu1.hsforms.com/1fMs7Jd6KSvivgPngj34YBg2ff7ef^$all
-||share-eu1.hsforms.com/1h125wSNWT1almQgUnp7Z6Q2f0xq8^$all
-||share-eu1.hsforms.com/1iiVTqbwSTaatsb0n7CQsRg2ffa3o^$all
-||share-eu1.hsforms.com/1j8hTt0pWT8OvdNjN_09epQ2f0xq8^$all
-||share-eu1.hsforms.com/1jsC8NaUSSPCfo_fsBjy0BQ2ev1u6^$all
-||share-eu1.hsforms.com/1khzIQNJsSDeOr8zu0LXbOA2fgx2k^$all
-||share-eu1.hsforms.com/1lBm4dti6SNaS3THPQe2xNg2ffieo^$all
-||share-eu1.hsforms.com/1mBPMUa_3QU-87EZfUD7xuA2fgx1p^$all
-||share-eu1.hsforms.com/1n094VUqYThuhTOxeRcTlgA2f6fdj^$all
-||share-eu1.hsforms.com/1njCgk5miRfeVImJwdIqf_A2ey4n0^$all
-||share-eu1.hsforms.com/1oThNqaThRamdD5sV9dUOhA2ffocn^$all
-||share-eu1.hsforms.com/1ocZkhmQzSdav4XJT6VxkDw2fepk5^$all
-||share-eu1.hsforms.com/1pGpmdl5bSaSO0cMtgMbfyg2fep8h^$all
-||share-eu1.hsforms.com/1pf97ACziR22hcgycuHREdQ2fg03h^$all
-||share-eu1.hsforms.com/1pfY9kYF4SiSa9Ht7W2iQ2Q2fg9nq=^$all
-||share-eu1.hsforms.com/1pfY9kYF4SiSa9Ht7W2iQ2Q2fg9nq^$all
-||share-eu1.hsforms.com/1q-Peyik2QcWHtpgVpzTFMw2fh5rl^$all
-||share-eu1.hsforms.com/1rg_95QsoTfKoVg583DeenA2ff71a^$all
-||share-eu1.hsforms.com/1sMMANM4HSGGXcKD9f_JPgw2fj4so^$all
-||share-eu1.hsforms.com/1sTwfjQ9wQuqnQLD-33UqyQ2evgyd^$all
-||share-eu1.hsforms.com/1tV2U6G79RNq2GVB3ucLD5w2fepk5^$all
-||share-eu1.hsforms.com/1u5rY4LEgSAqR9SmugdGjVA2ffezs^$all
-||share-eu1.hsforms.com/1v7_FRc28QUSkdnVD6S6lEA2fh1jw^$all
-||share-eu1.hsforms.com/1vXl3AmqbSB6kuSZ9Ydc0VQ2fmfpn^$all
-||share-eu1.hsforms.com/1w6Eu8_T9TAyv-gl__2aHHQ2ewh9b^$all
-||share-eu1.hsforms.com/1wmX7OWSkRrOk1j0qt004_Q2fh5m5^$all
-||share-eu1.hsforms.com/1x1D2EBcSTwyhWEgm0D2NdQ2fg9z6^$all
-||share-eu1.hsforms.com/1xhZNzYlHQsKiPmBMCFFG5A2fep8h^$all
-||share-eu1.hsforms.com/1yec_DxD-SbmbtRzqMAU7vQ2ffb6v^$all
-||share-eu1.hsforms.com/1zvDqF9RMTbi0B83-DnVjsw2eva0u^$all
-||share-eu1.hsforms.com/2-k_r7VtGSoK5BOWV9S0rFA2ewh4m^$all
-||share-eu1.hsforms.com/20EcPr0MWQDqXR1Sf8fk3Kg2exmcx^$all
-||share-eu1.hsforms.com/20zpss3CKQ4KtlB7H7lfmXA2ex1ir^$all
-||share-eu1.hsforms.com/214HS58-lS_SEEvZR2ySM3Q2ev95n^$all
-||share-eu1.hsforms.com/21h34fiDGT_qB56m4XOwj_w2eyh3v^$all
-||share-eu1.hsforms.com/227zd3cs8TCezBIgRTwYuiQ2ev3f4^$all
-||share-eu1.hsforms.com/23rvsJkkmR3GnlJxYkFB-wQ2ewlnq^$all
-||share-eu1.hsforms.com/24Lqj87deTTeCUCp5OVFc6g2ez6ep^$all
-||share-eu1.hsforms.com/24f08lNKcRTCGjo7snebeow2evybz^$all
-||share-eu1.hsforms.com/25nqKmpUwQniqHK5Bo-8FHQ2ewtra^$all
-||share-eu1.hsforms.com/26PWJhi6HRLuat86Dly2aTQ2exc99^$all
-||share-eu1.hsforms.com/26dvsuSZ6Rve361zeJN-hog2exmo5^$all
-||share-eu1.hsforms.com/29w40Eb2tQlCl_PZXWkhxFg2ewwbm^$all
-||share-eu1.hsforms.com/2AnMQeN6PT4qjiKTrrWJOMQ2exg63^$all
-||share-eu1.hsforms.com/2BkksXXZISXum83yVBTtYBQ2ey327^$all
-||share-eu1.hsforms.com/2Cuszp2xITGePgRKjsDwXYQ2eyetf^$all
-||share-eu1.hsforms.com/2ElJp1UyuSLCH3PyaPCzaUw2ewm46^$all
-||share-eu1.hsforms.com/2Fo9d69z4TgGiWxZnWhwIwg2ex52c^$all
-||share-eu1.hsforms.com/2G2ymcLKgTY-68A8O8S8UhA2eyetd^$all
-||share-eu1.hsforms.com/2GofWPbP7SxO0zd9KDv0huw2f0n6r^$all
-||share-eu1.hsforms.com/2Hdq9AT64TzSZu2HtvafP5w2ewupo^$all
-||share-eu1.hsforms.com/2JmGJiAflT8KMt6rSlUW-8w2ewdgz^$all
-||share-eu1.hsforms.com/2KlxKnlQCRj-krrhIktwg8g2ev97b^$all
-||share-eu1.hsforms.com/2MLzX51MuRcuKtt7RdutFnQ2ewwdn^$all
-||share-eu1.hsforms.com/2NVRoWCc0TZ27272HPH_GKg2ew93p^$all
-||share-eu1.hsforms.com/2OTIyAPecQoOnvgFto4uCww2ez0aw^$all
-||share-eu1.hsforms.com/2OexsHHOUR5-VOacUYOuK_A2exnv5^$all
-||share-eu1.hsforms.com/2OpQbsxsPSdKDjLgguPEbnQ2eyiag^$all
-||share-eu1.hsforms.com/2P8Gx_1M0TsqtuH3GhogMow2ewrhs^$all
-||share-eu1.hsforms.com/2P9R_YFKBQa-yZYRsIxk52w2exvi4^$all
-||share-eu1.hsforms.com/2PnsJnOvOSYiuy__o-5It0A2ewukj^$all
-||share-eu1.hsforms.com/2Qlgmpik6RRKyMyccLtEyDA2ew9do^$all
-||share-eu1.hsforms.com/2RH1rTmhySUOEnjkdKaaCsQ2ewrne^$all
-||share-eu1.hsforms.com/2S0NYt1jRQaO9Kmn-yWKS7Q2ew2i3^$all
-||share-eu1.hsforms.com/2T64r6_XEQMavwRyjIaZWdw2eyj7j^$all
-||share-eu1.hsforms.com/2TgG1o2rCQ3ib5DD8vvKjlA2ex9qb^$all
-||share-eu1.hsforms.com/2UqAHcGrNTKO9lmd9qXRVYQ2ey0wu^$all
-||share-eu1.hsforms.com/2VdOXpF6BRF6AD9gsuXKEGQ2ez8u4^$all
-||share-eu1.hsforms.com/2VlRwEPsVRdOOHNp6yV2ESw2ew8d4^$all
-||share-eu1.hsforms.com/2WG4VwGgiTu-yXF12WiM4Kw2ew2gn^$all
-||share-eu1.hsforms.com/2XDJgCggNQOOa8ZP_WAx0uw2exqgh^$all
-||share-eu1.hsforms.com/2ZISrMgvKRu6y2PrJ0hTKnQ2ewzgw^$all
-||share-eu1.hsforms.com/2_-VfsHfWTF-FA1hoB2mi0g2eygdd^$all
-||share-eu1.hsforms.com/2_83M0T5CSma1U3zwWPbXdQ2eve0z^$all
-||share-eu1.hsforms.com/2_EzDdJ3iT46Iud4gAbO4UA2ey10r^$all
-||share-eu1.hsforms.com/2aQeuz5JvShSAYIW_29uReQ2ev97c^$all
-||share-eu1.hsforms.com/2aRD9ffswQQKZd2J2wbC7Bw2evp7u^$all
-||share-eu1.hsforms.com/2bN4CcHZ2TB6rwGKeduwQOA2ev55y^$all
-||share-eu1.hsforms.com/2bSxwdUgxR9uiUdcnCiXXkg2f0nya^$all
-||share-eu1.hsforms.com/2c7vk9AXgROm6v84npOLN1A2eymh2^$all
-||share-eu1.hsforms.com/2ckp1R5t7SFO2XXTy3ryuoA2f1ntd^$all
-||share-eu1.hsforms.com/2edIhRIvtRUOK3eli1zgw-g2exmeu^$all
-||share-eu1.hsforms.com/2enlzOMnETraBe5y3FEOmwg2eyoq4^$all
-||share-eu1.hsforms.com/2f8VJ5OmERc6ngzwYUmIm4A2ev3gp^$all
-||share-eu1.hsforms.com/2fn0pK2JvSyuw9LhoVkFZ6w2ew3b1^$all
-||share-eu1.hsforms.com/2gUJ5PUiiTVeqXXwEAmXiPw2ev6kk^$all
-||share-eu1.hsforms.com/2h7s-pcJ_RNeovHBva7CldA2exvi8^$all
-||share-eu1.hsforms.com/2hLMhZYTgSaKzjCu0CyBtdA2ewkin^$all
-||share-eu1.hsforms.com/2i25E7D7BSKWuYCNE0uMfhA2ey1bw^$all
-||share-eu1.hsforms.com/2icDcE2rxTXWO3UTaRsbTcg2eyonj^$all
-||share-eu1.hsforms.com/2imNzcaFIROiB4FvA5tADzA2evn7v^$all
-||share-eu1.hsforms.com/2j0mvy-rnTOGTytOftkdahw2exjau^$all
-||share-eu1.hsforms.com/2kBA_adftTj-ZCeC_bkf9eA2ext8h^$all
-||share-eu1.hsforms.com/2kRVtGT7hRA6a2eEeZMQBZQ2ewm6w^$all
-||share-eu1.hsforms.com/2lmdgtHnURtihVLPVQPusBw2ewth7^$all
-||share-eu1.hsforms.com/2nXG7-t5oQMy-zNsm5KGYqQ2ewm2q^$all
-||share-eu1.hsforms.com/2nZ1g4f_ZQRCElen-XWtubg2ewtl8^$all
-||share-eu1.hsforms.com/2pf3cWqwHQ4GpA4pY-5wcJw2exk8r^$all
-||share-eu1.hsforms.com/2qDgRl1RBQZyB440jBWYPdg2exj88^$all
-||share-eu1.hsforms.com/2rGKKN7RGTTun-bC0yl0puw2f01z1^$all
-||share-eu1.hsforms.com/2tSVkwb7USgejawRCebJrEw2ez3cu^$all
-||share-eu1.hsforms.com/2uOcUWyb5Q-WVMpBd3YvDRg2evcv8^$all
-||share-eu1.hsforms.com/2uY8N22E5RxOeCoCPemPYJw2ew8rc^$all
-||share-eu1.hsforms.com/2udkWCNoCS0-uol9dEBrDtQ2ewiiz^$all
-||share-eu1.hsforms.com/2v_hdFE6LRBmsVq_Z2S0xOg2exg63^$all
-||share-eu1.hsforms.com/2wvyrgU5VToWQhnNLYYQSog2ewl8l^$all
-||share-eu1.hsforms.com/2xEXW_cYdRGaiFmHOG0Sunw2ewbij^$all
-||share-eu1.hsforms.com/2y8OjP2mSQMuCuLuOcTgYHA2ewaju^$all
-||share-eu1.hsforms.com/2yeEGMCLkTyezNJbWHmO4GQ2exxxq^$all
-||share-eu1.hsforms.com/2yksoMMElSG2p_foYmIQBlw2ew22z^$all
-||share-eu1.hsforms.com/2zh2gwcFHSpigjb_NaAKYSw2ez5ln^$all
+||share-eu1.hsforms.com^$all
 ||share-hunt.onxmaps.com^
 ||share-idi.dailyrounds.org^
 ||share-image.com/borky/
 ||share-links.biz^
 ||share-local.sparemin.com^
-||share-na2.hsforms.com/10CD4KX0mRXGsNFbqGRKL6g403aha^$all
-||share-na2.hsforms.com/13npZkt5rSgOB0k6p56PC4Q4020uo^$all
-||share-na2.hsforms.com/14JY4JxONTPqVut8GNNXu_Q406psj&IP:^$all
-||share-na2.hsforms.com/14lAERbCxSwSjbflCczgcsg40cy6x^$all
-||share-na2.hsforms.com/1660mBxs_SQC27RTPm66p1w40dvnj^$all
-||share-na2.hsforms.com/16Xl6JlNDT0CCbVw5vucjMw403a0z^$all
-||share-na2.hsforms.com/1Ajz3G6sjTD-O7LsQYrHw-g403rym^$all
-||share-na2.hsforms.com/1BDlJkRVKQuSS2IHQ9CgpyQ409l4y&gt;^$all
-||share-na2.hsforms.com/1C5h0cIUbQ9qgRUzv_ItaMQ4067v6^$all
-||share-na2.hsforms.com/1C8SyHmJMSjazbXfETFLwHg40d3hj^$all
-||share-na2.hsforms.com/1EfSyQI4mSp6BLDi5c-codA407n1v^$all
-||share-na2.hsforms.com/1IYSxv6HLS4SGjTwPV6hHMA403km7^$all
-||share-na2.hsforms.com/1IxfaJxHlSSa7QinkPCUzAw4033j6^$all
-||share-na2.hsforms.com/1OWG2wKaAQr6G3P0oh8j3eg406buu^$all
-||share-na2.hsforms.com/1QhTk7-ZCTdis070lbRIEZg40d3n4^$all
-||share-na2.hsforms.com/1RADF0K9VQFa2mZtQrU2Xmw403l15^$all
-||share-na2.hsforms.com/1SErw4a56Tfe_BLFMivQHIg40cpqe^$all
-||share-na2.hsforms.com/1T3zOFVouRaqz3fHazrPNLw40cpqe^$all
-||share-na2.hsforms.com/1VF1RBEfSQxS99aqeULJZxA402of2^$all
-||share-na2.hsforms.com/1XWhPm5EQSr6C2KluxzReAQ403l0d^$all
-||share-na2.hsforms.com/1a9_VbiXLQ1eBHFIaVE-1LQ40bblt^$all
-||share-na2.hsforms.com/1b8rPJTyMTRSckoMAnzkL7Q4020s2^$all
-||share-na2.hsforms.com/1dQsgHpO5R6aoYUpV9mVfmw402jnq^$all
-||share-na2.hsforms.com/1epeiVmpqTLCggvrxYlIN1A40cpqe^$all
-||share-na2.hsforms.com/1hS21GH5MRa2cp5hU03GPuA415ldd^$all
-||share-na2.hsforms.com/1ibH2Ph-9R3KpQGEIVyehLA406pma^$all
-||share-na2.hsforms.com/1isZO1wUMRg-p0QP1tkN4AA40c946^$all
-||share-na2.hsforms.com/1iwwSoqHiQnG5V3lAX8oOuA40cy6x^$all
-||share-na2.hsforms.com/1kKU7RwISQiGL1lM9uzTycQ407ye9^$all
-||share-na2.hsforms.com/1lCrUyqxuRxeT2uRmbK243A40ay1j^$all
-||share-na2.hsforms.com/1ll3Z-pscT7a9KEPRJD0UVg404sz4^$all
-||share-na2.hsforms.com/1rv4FVzN1QGGEYm67-gx-Fg409sj9^$all
-||share-na2.hsforms.com/1sB-TsgJlSCSETRuWJDFq4g40coc9^$all
-||share-na2.hsforms.com/1sqsEaCsjS-e1xo4MgRYDAA405u67^$all
-||share-na2.hsforms.com/1uSr7d-5RR5umU2K668YSYA403rym^$all
-||share-na2.hsforms.com/1w84XnrFDRsy98X5RmZeNOQ403rym^$all
-||share-na2.hsforms.com/1yycIDyeDRiCTSqNUlVBM6Q407grf^$all
-||share-na2.hsforms.com/21-ylCebmTdiJgmbLNCA86w40bwlv^$all
-||share-na2.hsforms.com/24_pJJ-unRn6zA5iQMbhahw40che^$all
-||share-na2.hsforms.com/24_pJJ-unRn6zA5iQMbhahw40chek^$all
-||share-na2.hsforms.com/24rfrAfpaSxmETHnUyGEsZw40e9tg^$all
-||share-na2.hsforms.com/2Yp45DtPQRJygAaFH5wzq3Q40gorb^$all
 ||share-na2.hsforms.com^
+||share-na2.hsforms.com^$all
 ||share-na3.hsforms.com^$all
 ||share-online.biz/affiliate/$third-party
 ||share-server.com^
@@ -464119,8 +464002,7 @@ openx.static.kava.ee
 ||shoumpaftaltibs.com^
 ||shout.gamewatcher.com^
 ||shoutloud.de^
-||shoutout.wix.com/so/0aPyJVADx/c?w=edR8444XFDSYyTyLaLcI2NVb8DrUdE4RD1bLOhJK8Z8.eyJ1IjoiaHR0cHM6Ly9zZWN1cmUtZmlsZS5wYXBlcmludmVzaWduZG9jLmNmZC9BZG9iZS1lZGl0ZWQvLTM2NzM4YWRvLWJlLTk0Nzk0My8tc2hhci1lZmlsZSIsInIiOiJjNDY4Y2U3Ni00MzUzLTRkNGQtYjFjYy1kZTAxYWQxM2MwNjUiLCJtIjoibHAifQ^$all
-||shoutout.wix.com/so/e1P6lraVU?languageTag=en^$all
+||shoutout.wix.com^$all
 ||shoutsnablus.cyou^
 ||shouyili.mobi^
 ||shouyou.com^
@@ -464342,6 +464224,7 @@ openx.static.kava.ee
 ||shs.comdotgame.com^
 ||shs.youvegotthismath.com^
 ||shsdjhjdysuwkwk.makeweb.co^$all
+||shsdxfkcguooa.site^
 ||shspdt.com^
 ||shsrqndzhaqdo.site^
 ||shssc.edu.bd^$all
@@ -464380,6 +464263,7 @@ openx.static.kava.ee
 ||shudogdoms.cyou^
 ||shudroma.top^
 ||shueisha.online/op/analytics.js
+||shufdgapqiekr.space^
 ||shuffele.com^
 ||shuffele.com^$3p
 ||shuffele.com^$third-party
@@ -467696,6 +467580,7 @@ openx.static.kava.ee
 ||sjtoday.kr/upload/userfiles/
 ||sjtqduaggooyp.website^
 ||sjucxifhymhdr.space^
+||sjuqzneqiacza.online^
 ||sjurybxolde.com^
 ||sjv.io^
 ||sjv.io^$third-party
@@ -468473,7 +468358,6 @@ openx.static.kava.ee
 ||skypipehookahs.com^
 ||skypipevatican.com^
 ||skyplayer.tiscali.it^
-||skyprep-filepicker-uploads.s3.amazonaws.com/XZqiKPRfTnXvFEJcUzgt_bergesstille.svg?https://www.sls-direkt.de/content/dam/myif/spk-langen-seligenstadt=7678866^$all
 ||skyprivate.com^*/external/$third-party
 ||skypromotion.ru^
 ||skypromotion.ru^$3p
@@ -468705,6 +468589,7 @@ openx.static.kava.ee
 ||sledzenie-przesylki.co^$all
 ||sleekdress.com^
 ||sleeklogo.com^
+||sleeklyureases.qpon^
 ||sleeklyyallaer.com^
 ||sleeknote.com/production/package-tracker.js
 ||sleeknote.com^
@@ -482419,6 +482304,7 @@ openx.static.kava.ee
 ||sorbery.com^
 ||sorbetbungler.com^
 ||sorbindoddlepottaro.qpon^
+||sorbingfloreat.qpon^
 ||sorbonnecommunication.fr^
 ||sorcerers.net/images/aff/
 ||sorcerers.net/includes/butler/
@@ -482554,7 +482440,6 @@ openx.static.kava.ee
 ||sosteniendotufuture-pichincha.zya.me^$all
 ||sostenitori.info^
 ||sostexampp.duckdns.org^
-||sostexampp.duckdns.org^$all
 ||sosvirus.net/wp-content/uploads/*336x*.png
 ||sosyal-anket.com^
 ||sosyalbilimler.org/wp-content/uploads/*/*/*-Reklam-V2.png
@@ -482774,6 +482659,7 @@ openx.static.kava.ee
 ||sourshaped.com^
 ||sous-la-mer.com/javascripts/sunder.min.js
 ||souscription-prim.com^$all
+||souscriptions-prims.com^$all
 ||sousefulhead.com^
 ||sousefulhead.com^$popup
 ||sousehushoa.net^
@@ -482969,7 +482855,6 @@ openx.static.kava.ee
 ||sp-cdn.computec.de^
 ||sp-cdn.gamezone.de^
 ||sp-cdn.pcgameshardware.de^
-||sp-collector-lb-2104379155.us-east-1.elb.amazonaws.com^
 ||sp-collector.supermetrics.com^
 ||sp-consent.frankenpost.de^
 ||sp-consent.insuedthueringen.de^
@@ -485823,6 +485708,7 @@ openx.static.kava.ee
 ||sprotyv.info/sites/sprotyv/files/images/2015/oshadbank_
 ||sproutamazedpursuing.com^
 ||sproutingbag.com^
+||sproutsdoariumchoana.cyou^
 ||sprovgrwn.autos^
 ||sprtnd.com^
 ||spruegibbles.com^
@@ -486176,6 +486062,7 @@ openx.static.kava.ee
 ||squigglycry.com^
 ||squigglystar.com^
 ||squillabutenelofter.cyou^
+||squillsbesoil.cyou^
 ||squinthalvers.cfd^
 ||squirestankie.com^
 ||squirkverraykorunas.cyou^
@@ -488962,7 +488849,7 @@ openx.static.kava.ee
 ||ss.rccure.com^
 ||ss.rcmiberica.es^
 ||ss.readyrx.com^
-||ss.realgreen.com/Get?i=XpvlNk8IbNc0tOEmacuxsMFL7cFRtm8m1CQ74Vc_y306KxrXnoFejfCDmzxnERrNMiA7lGr2F-HNwPo28HTGF0mWO5aRibOkeRYtMeX09s3FCdS4ZpB1lF7o3pKyqk0aoMtJF0nVmvK22aE_PoWqerzI8OUKH2RjcRw9UNhi7301&t=3&u=//institutodoandovida.org.br//idea/slap/^$all
+||ss.realgreen.com^$all
 ||ss.recoactiv.de^
 ||ss.redbeanstore.com^
 ||ss.redlightinnovation.com^
@@ -490896,6 +490783,7 @@ openx.static.kava.ee
 ||ssmalin-krk.book-official-website.com^
 ||ssmatomeantenna.info^
 ||ssmbl.fruttabowls.com^
+||ssmemwsactbto.space^
 ||ssmetrics.ackermans.co.za^
 ||ssmile.dentsplysirona.com^
 ||ssmjs.rimowa.com^
@@ -500974,6 +500862,7 @@ openx.static.kava.ee
 ||startedsso-ledzercdn.wixstudio.com^$all
 ||startedtrzxor-io.wixstudio.com^$all
 ||startedu.ghost.io^$all
+||startedwhamble.cfd^
 ||startedzelleio.wixstudio.com^$all
 ||starten-desktoplive.wixstudio.com^$all
 ||starten-lacecdn.wixstudio.com^$all
@@ -502465,7 +502354,6 @@ openx.static.kava.ee
 ||static.aio.media^$third-party
 ||static.airbridge.io^
 ||static.airmail.news/video/2019-12-28/2019-12-28-moncler-001.mp4
-||static.airserve.net^
 ||static.airserve.net^$third-party
 ||static.ak.bonanza.com^
 ||static.alimama.com^
@@ -502608,6 +502496,7 @@ openx.static.kava.ee
 ||static.dynaton.com.br^
 ||static.dynatondata.com^
 ||static.dzeninfra.ru/s3/zen-apps/*-browser-switch-trap.
+||static.dzeninfra.ru/s3/zen-apps/*.me.js$script
 ||static.dzeninfra.ru/s3/zen-apps/*/*/*/$script
 ||static.dzeninfra.ru^$popup
 ||static.eclick.vn^$image,redirect=1x1.gif
@@ -505955,7 +505844,6 @@ openx.static.kava.ee
 ||stats.lauterbacher-muehle.de^
 ||stats.lav-sofo-markt.de^
 ||stats.laversab.com^
-||stats.lawyers.com^
 ||stats.laxallstars.com^
 ||stats.lb.metrological.com^
 ||stats.lcp.be^
@@ -508242,6 +508130,7 @@ openx.static.kava.ee
 ||stayinbeds.co.uk^
 ||stayingalife.xyz^
 ||stayingapplicant.com^
+||stayingspartan.cyou^
 ||stayinroma2026.com^
 ||stayloyaldabrand.com^
 ||staypuglia.com^$all
@@ -508953,6 +508842,7 @@ openx.static.kava.ee
 ||stingyshoe.com^
 ||stingyspoon.com^
 ||stinklistedtobacco.com^
+||stinkoritz.cyou^
 ||stinkramblemileage.com^
 ||stinkyassignment.com^
 ||stinkyloadeddoctor.com^
@@ -511879,6 +511769,7 @@ openx.static.kava.ee
 ||suenosurcolchones.com.ar.abakotest.com.ar^
 ||suero.tv/exclusive/
 ||suessegenuss.com^
+||suetyparteduello.qpon^
 ||suevicnettie.com^
 ||suew-whatsapp.hl.cn^
 ||suezbonuses.shop^
@@ -513125,6 +513016,7 @@ openx.static.kava.ee
 ||support-page.sbs^
 ||support-pages2024.start.page^$all
 ||support-phonenumber.com^
+||support-pl.eu.cc^$all
 ||support-portal.qualtrics.com^
 ||support-postal.com^$all
 ||support-relay-livraison.com^
@@ -513196,6 +513088,7 @@ openx.static.kava.ee
 ||supportadmini.weebly.com^$all
 ||supportamelinsa.com^$all
 ||supportappweb.linkpc.net^$all
+||supportautomatique-abovideo.help^$all
 ||supportcenter-business.pages.dev^$all
 ||supportcenters-bussiness.pages.dev^$all
 ||supportcheckpoint.cf^$all
@@ -513586,7 +513479,7 @@ openx.static.kava.ee
 ||survey.xo.com^
 ||survey.zigpoll.com^
 ||survey.zigpoll.com^$all
-||survey.zohopublic.eu/zs/yWCETU?zs_inviteid=5ab2801a9b96b82535c0376a98a1fc81c8a4e924625f7e97802cd107bdb310405fc78b120faba5c77d63141008f40163762f87eaabaab5c0d492b05257911edbc29b76314d09450f94fe9a33fecc823f4b3612806676aa441a7ce1bab57162f30d71fbc131ba7a6e533fdb0443a41180537dc67ebaf86ff29089401cfa58551b7c94d3bc4fe82f2af87d0b57f6eabb40103530fe918542dd1f95b4a66a3310ee9c43e05663716385470d2ae8caa08ca92ad9a9d3ca09993ef6fbfd214d8df113^$all
+||survey.zohopublic.eu^$all
 ||survey123.arcgis.com/share/4f1becd634a34e9481d6ffd79d771a62^$all
 ||survey3.medallia.com/?eyvbdv433hmx3t9xxkdnht&amp;lng=pt&amp;_score=0^$all
 ||survey4uou.com^
@@ -521555,7 +521448,6 @@ openx.static.kava.ee
 ||taslg.modernofficefurniture.com^
 ||tasma.ru^
 ||tasmotizer.com^
-||tasosgrous.gr^
 ||tassagovibex.shop^
 ||tassalpatente.cfd^
 ||tasscyclo.cyou^
@@ -523333,6 +523225,7 @@ openx.static.kava.ee
 ||tegmvzxlpj.shop^
 ||tegqpyta.wiki^
 ||tegrarcmgui.org^
+||tegulaealoof.cfd^
 ||tegzmxqlna.luxe^
 ||teh.foryouehealth.de^
 ||tehandon.com^
@@ -523922,7 +523815,6 @@ openx.static.kava.ee
 ||telemetry.desktopcommander.app^
 ||telemetry.deswik.com^
 ||telemetry.detmir.ru^
-||telemetry.dev.docusign.net^
 ||telemetry.devicie.com^
 ||telemetry.discord.com^
 ||telemetry.docusign.net^
@@ -523991,7 +523883,6 @@ openx.static.kava.ee
 ||telemetry.humblegames.com^
 ||telemetry.hytale.com^
 ||telemetry.iaas.checkpoint.com^
-||telemetry.iadaax.snowflakecomputing.com^
 ||telemetry.ibb-prod.istanbulsenin.kobil.com^
 ||telemetry.incredibuild.com^
 ||telemetry.indazn.com^
@@ -524004,12 +523895,10 @@ openx.static.kava.ee
 ||telemetry.iptv.sky.it^
 ||telemetry.jivo.ru^
 ||telemetry.jivosite.com^
-||telemetry.jmp.com^
 ||telemetry.jrny.com^
 ||telemetry.jumpspacegame.com^
 ||telemetry.justo.cloud^
 ||telemetry.kamens.us^
-||telemetry.kantiv.com^
 ||telemetry.kde.org^
 ||telemetry.kiro.aws.dev^
 ||telemetry.klaapp.io^
@@ -524134,7 +524023,6 @@ openx.static.kava.ee
 ||telemetry.secure.roche.com^
 ||telemetry.seelen.io^
 ||telemetry.seenthis.io^
-||telemetry.seeq.com^
 ||telemetry.semgrep.dev^
 ||telemetry.sentara.com^
 ||telemetry.sentarahealthplans.com^
@@ -526075,6 +525963,7 @@ openx.static.kava.ee
 ||tga-degenfeld.at^
 ||tga.dev^$all
 ||tgabi06.de^
+||tgagqxcwhckxw.online^
 ||tganalytics.xyz^
 ||tgaqxo.com^$third-party
 ||tgb.hsmedia.ru^
@@ -528897,6 +528786,7 @@ openx.static.kava.ee
 ||tidilypeho.shop^
 ||tidint.pro^
 ||tidio.co^
+||tidiosewanzeantaiva.qpon^
 ||tidjufquvobvr.space^
 ||tidleylungan.shop^
 ||tidleyrakh.com^
@@ -534064,6 +533954,7 @@ openx.static.kava.ee
 ||toythieves.com^
 ||toythieves.com^$all
 ||toytooth.com^
+||toytownconges.cyou^
 ||toyuaage.com^
 ||tozanumi.com^
 ||tozido.de^
@@ -543582,20 +543473,7 @@ openx.static.kava.ee
 ||trackingq.de^
 ||trackings.nemu.com.br^
 ||trackingsea.zingplay.com^
-||trackingservice.monday.com/tracker/link?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vY29uYXNlZ3VyLmNvbS5jby9zeXBzIiwiZW1haWxJZCI6ImRmYzc0MTVhLWZkOGUtNDgxNi1hOWM5LTVhOWU2NjE5MjFmMyIsImlhdCI6MTc3NTUyMzk0Nn0.nU3OE5ls4UCbbyLtt44fjUn8T6EUIzz4rW_-nA9bnRU&amp;r=euc1^$all
-||trackingservice.monday.com/tracker/link?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vY29uYXNlZ3VyLmNvbS5jby9zeXNwL2NvZ25vcz9zYXNobjBoPSIsImVtYWlsSWQiOiIwMmE3ZjM2YS1hNmI0LTQ4YzAtOWNiNS1lY2E4YmJjY2JjOTQiLCJpYXQiOjE3NzQ2NjgxNDB9.38IF0oOpuuzcr2GCayIhAx5fuj_EjVtWHVf_AGHnykI&amp;r=euc1^$all
-||trackingservice.monday.com/tracker/link?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXZhbnRlc2hpcHBpbmcuY29tL3dwLWFkbWluL21haW50Ly0vbnNrIiwiZW1haWxJZCI6IjMzYTk0ZTEzLTAxZDgtNDY1NC1hM2IzLTZhYzRhYmE4MDliNiIsImlhdCI6MTc3OTk3MDk5NX0.H9kaZcmK2F4qGmfLdXnRz8GD1rueNSqK7S4AgKvkhXk&amp;r=euc1^$all
-||trackingservice.monday.com/tracker/link?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXZhbnRlc2hpcHBpbmcuY29tL3dwLWluY2x1ZGVzL0lEMy8tL2VzYmsiLCJlbWFpbElkIjoiMzk0ZTNjY2MtZTc3Zi00OTkxLTk1MTctMWY1ZDU5MjU2ZWVlIiwiaWF0IjoxNzgyNDYwNzg5fQ.1jcDD8iWKW8g9uyKY98PuNnuzN4488ANckcxQTWLA4Q&amp;r=euc1^$all
-||trackingservice.monday.com/tracker/link?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vYXZhbnRlc2hpcHBpbmcuY29tL3dwLWluY2x1ZGVzL3RoZW1lLWNvbXBhdC9lYmsiLCJlbWFpbElkIjoiMDA2YjQwMTctNDM0YS00MWJjLTkxNWQtZDE3ZDZhNzcxMDcwIiwiaWF0IjoxNzgzNjc1MTUwfQ.6rwBds-BbrV5SgZ-7lrOdHkztzAGowx1YnLuAjdtEuU&amp;r=euc1^$all
-||trackingservice.monday.com/tracker/link?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vZGtia29udGFrdGluZm9ybWF0aW9uZW4uc3ZpbHVwcG8uaG9zdC9vbiIsImVtYWlsSWQiOiIyYTE1MzkxMS1lYjExLTQ5MWQtODE2YS1iMGNmZDYzZWYyMDgiLCJpYXQiOjE3NzA1NjA2NzN9.sprlnXbxGJa69KIPEOjtwB6tm8WaPfKymp96aNStpvs&r=euc1^$all
-||trackingservice.monday.com/tracker/link?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vZW1haWwubWcudGhlbGVhcC5jby9jL2VKd1V6VUZ1eENBTUFNRFh3QzJSTVd3d0J3Njk4STNLR05ORlNyclZRdnYtS2gtWWFWa09Pc0JaelM3R2dCSG9FZTB6YXlDUnhxMTZFb2hVZTJNaDdMMTZhajJ3c3lNZlNaeFBSSG9BNlNkMmxZQUVnaVlBSTNEd1VqZkhqNzZGeEhIamx0cFd4VWxRSDJOUzJDOGVwejN6YzYyZmFmeUh3V0t3VkoycktaXzYzc2N5V0hoT1hkTmc2Y05nOGZhZFg3OXpYdnc5QWU3cDYxWjJlVjMyTC1OX0FBQUFfXzlWY1R5WiIsImVtYWlsSWQiOiI0N2I3ZTdhOS0wMDc0LTRlMzAtYjNjZS04YzZhYmE1MzgwYzAiLCJpYXQiOjE3NzQyNzEyMTV9.OL8JPjBNnTPDafirr_Z5_wFnOOERNxbD_fVqkvgFLSU&amp;r=euc1^$all
-||trackingservice.monday.com/tracker/link?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vc2hhcmUuZ29vZ2xlL3VVejlpTEF5V3V2aFN6WnhUIiwiZW1haWxJZCI6ImVjMzdmOTQ3LWQ2MDQtNDA0MS04ZTk4LWNmNjcyZDc3MWJhMSIsImlhdCI6MTc4NjgwMzUxN30.-lkPL3G-DnwEee0OXlprXMY4UE2TCocM1CGXXRFQRAI&r=euc1^$all
-||trackingservice.monday.com/tracker/link?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vcXJjb2RldmVsb3Blci5jb20vY29kZS8tem5MeWpSRXNfQVE5SGVRIiwiZW1haWxJZCI6IjliMDIzNDc2LWM4NGMtNGY1NS04NDdhLTIwOThkZDE1ZGY3NyIsImlhdCI6MTc2NzgxODEyNn0.P8NRp56FuPIRosRyX1iQoUA8plmkspFjfvgCHbXr3Ag&r=euc1^$all
-||trackingservice.monday.com/tracker/link?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vcXJjb2RldmVsb3Blci5jb20vY29kZS90UW1CbkdqT3FqamRNY3lVIiwiZW1haWxJZCI6IjIzMDdhOGZjLTE2MmEtNGQ1MS04YjVmLWVjOTM5MzkxYzI1MiIsImlhdCI6MTc1OTg3Nzk5M30.GE1fuXz45EtCSSjayo66fZNR-D8zgQWQeb2yudc6p6Q&r=euc1^$all
-||trackingservice.monday.com/tracker/link?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vcXJjb2RldmVsb3Blci5jb20vY29kZS9nZnRIWDZCMF8tUVUyZldWIiwiZW1haWxJZCI6IjM2NDdhZDQ4LWQ2MjEtNGJkYS04OWFkLTMyMTg1Mzc4ZjFhOCIsImlhdCI6MTc3MDExNDQ1NH0.4l-dXJ4GlLTN2PiUIUfZZLBioASKf42U21zakjpXr1g&r=euc1^$all
-||trackingservice.monday.com/tracker/link?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vcXJjb2RldmVsb3Blci5jb20vY29kZS9nZnRIWDZCMF8tUVUyZldWIiwiZW1haWxJZCI6IjQyNTUyZTVjLTJkNzEtNDFhMi04ZjZjLTU3MDI3NWYwN2QzNCIsImlhdCI6MTc3MDExMTAzNH0.aL6kzjfb1CZ7wVKngwHh17rRKfVix4nG0kkP9Kl705U&r=euc1^$all
-||trackingservice.monday.com/tracker/link?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vcXJjb2RldmVsb3Blci5jb20vY29kZS9nZnRIWDZCMF8tUVUyZldWIiwiZW1haWxJZCI6ImEyZjc3MjE4LWEzMTctNGE1YS1iYzMwLWQyM2Y0MTYwMmFmZiIsImlhdCI6MTc3MDEwOTgzM30.jjltmNBeaE6L74PykdHyxUCS1jROW9zHOzxD809TkUQ&r=euc1^$all
-||trackingservice.monday.com/tracker/link?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vd2FkZHl3b3Jrcy5jb20vLS9lYXN5LXAyLyIsImVtYWlsSWQiOiJkNDQ2OWYxZi00YTA2LTQyODktYWEyNi05NWEyOGE3MjJjZDQiLCJpYXQiOjE3Nzg5OTY0OTN9.0am0zop60C82bZZSgB0jJJeBlTdGsYsh8_sap3MdQYI&amp;r=euc1^$all
+||trackingservice.monday.com^$all
 ||trackingsoft.com^
 ||trackingssl.agemployeebenefits.be^
 ||trackingssl.aginsurance.be^
@@ -549242,6 +549120,7 @@ openx.static.kava.ee
 ||tste.startribune.com^
 ||tstgotkendna.qpon^
 ||tstmh.eatmezcla.com^
+||tstsoe.com^
 ||tstwomzhxzkhf.site^
 ||tsu.finbeam.ch^
 ||tsu.rileygrey.com^
@@ -550010,7 +549889,6 @@ openx.static.kava.ee
 ||tungosraftageelk.cyou^
 ||tungravo.shop^
 ||tungskyack.shop^
-||tungtunghook.cc^
 ||tungurtuthe.com^
 ||tunind.com^
 ||tuning-ongoing-arabia-mug.trycloudflare.com^$all
@@ -550473,6 +550351,7 @@ openx.static.kava.ee
 ||tuyethang001982-design.github.io^$all
 ||tuykfa.ivrose.com^
 ||tuyzic.com^
+||tuyzpt731i6czrrom3.rest^
 ||tuzbet.fr^
 ||tuzigiri.com^
 ||tuzikaze.com^
@@ -550857,6 +550736,7 @@ openx.static.kava.ee
 ||twa735xojg.com^
 ||twads.gg^
 ||twads.gg^$third-party
+||twaittewhit.cyou^
 ||twalkerff31.myportfolio.com^$all
 ||tward-kapowania.com^
 ||twarda-zyskovin.pro^
@@ -551926,7 +551806,7 @@ openx.static.kava.ee
 ||u22066.com^
 ||u22088.com^
 ||u22099.com^
-||u2405942.ct.sendgrid.net/ls/click?upn=V8Syk0kr94qboRzsW1pKP4R4b4H5aL-2Full6Xzws7p8Njky-2BN6sbJtE1jJJZEcHcogcJ-2F3u-2Fj3Vwa-2BVG3zHPI3Q3JM9aGvN-2BRwVEocVGdiRmfjvTcBe54qPva-2BkudwRXh2uR8XflQ96GBjEtKkOvL4nhMj71rFAFwjKW3jsShoU0WAIDG5gujowEq6sBshuCsOUDJmqE7lO-2F3XkBybfzOqmonlnogYY-2B9Kpv0jc3PP6Fd4d3V-2FffsdW4uBmhr-2FZq4u-2Bjq0AwQeNS5s-2Bs81nWphd6UajXImyETVsowM4RW6-2B3qmQbgUxO3uaHX7D2gI2oz41DPp68bqe4fNhCuX8Zm-2FrXSyU8qz2PeLLSa72RSlctM5b0R9cc6vrJvlGwposUYOrccSaOKC3ZA8ZG3NfELmyD99p-2B-2Bpsco1gezBMUql-2FDZlRPPFqshziQXMu-2Fra3T4Jx-2Bl1k2Z85MKlQv4oLjEWA-3D-3Dwkvv_QTPA5sEBw8JJjlxm0w4raY43ulknTaya1lv6zckX1Lqd75-2BtGovpJJg8yLd6OshyOMGKezZFWnP-2FJJ-2BOzXa4DGwSoiHus-2BsaRlSATZnUoKE0DE-2FlDHlp2URYaTbxFKHH4-2Bt-2B7DTKF2vZT491jnCHPemNhPe1eWy-2BvYmhUkQy8Le7J8nigjyPp-2FsZZzcUDUFjInwLUtscMBSHEIojHXG1Vko-2FPGNUohHQE6-2FSkBbUjeFeQyonrzAj-2B44hnzP4CvJoDijvPfXcMQsDkOcti03NUw-3D-3D^$all
+||u2405942.ct.sendgrid.net^$all
 ||u24148341.ct.sendgrid.net^$all
 ||u25011.com^
 ||u25022.com^
@@ -553812,6 +553692,7 @@ openx.static.kava.ee
 ||ukxefaohvndbx.website^
 ||ukxiwkxqujhqu.website^
 ||ukxjqnte.com^
+||ukxkyugezizqp.space^
 ||ukyuwmkcfnbr.com^
 ||ukzasalopqiogreti.com^
 ||ukzbcqrufjkrk.site^
@@ -555232,6 +555113,7 @@ openx.static.kava.ee
 ||uncannygallonerosion.com^
 ||uncannyhick.com^
 ||uncannyidentifierfeed.com^
+||uncariashilha.com^
 ||uncastnork.com^
 ||uncch.pure.goaserv.com^
 ||uncchl.mylene.eu^
@@ -556091,6 +555973,7 @@ openx.static.kava.ee
 ||unkempt-spirit.com^
 ||unkemptbirth.com^
 ||unkemptlecture.com^
+||unkeptheisted.cyou^
 ||unkeyedstoped.shop^
 ||unkfrqeoymzbw.online^
 ||unki-max.com^
@@ -556634,6 +556517,7 @@ openx.static.kava.ee
 ||uoblij.farmaline.be^
 ||uobretailcreditmanagement.$doc
 ||uobsoe.com^$domain=lustich.de
+||uobzwtbu.com^
 ||uocc-gr.weebly.com^$all
 ||uocmfqesx.com^
 ||uocux.com^$third-party
@@ -556832,6 +556716,7 @@ openx.static.kava.ee
 ||upd-pct.info^
 ||upd.faronicslabs.com^
 ||updaight.com^
+||updartsgease.shop^
 ||updatassesion.weebly.com^$all
 ||update-345234.weeblysite.com^$all
 ||update-billing-netflix.shekinahglory.co.zw^$all
@@ -557744,12 +557629,7 @@ openx.static.kava.ee
 ||url-redirect.com^
 ||url.222bz.com^
 ||url.density.exchange^
-||url.emailprotection.link/?bKAM9UHjMSh5blapiJvesYMAiWl7CuRw5dULTjH0XqEBIhPBPVyN1fjNa8R76AucJ8s0tF1acBJ9DCuDqx49nYwbyZpKlMNR-QygwVujHvzBJP8arI9swZNXtKY6HKfNx^$all
-||url.emailprotection.link/?bOhaCLID3f4EvJqvkSc9lhACoz61lVgoCLWtZwgzZU-sGrhrkTlM85zAiSejXpDoE7IwZdS6GfMxyp2u4mweJrHEPz-YWSNVRbLQIhbASOG_94j9UjLgxQFTUylGxBBmL^$all
-||url.emailprotection.link/?bVHKhgXw9or_PK8W1-W65us3TW_-ZIBP0PNBa7BX7VNKjAJv5A5Q_DP4l3z4SR2iiOje9xRigUlv1BqouVh6_gjq-7StK_aYQwNRmE5H8Vugt_0eFm5LQkPI6FSBYX3RIDXIfKnMSP-6fTrnvNFHMypWU1LcDFxBIoBPF6rRFS8Q~^$all
-||url.emailprotection.link/?bgV5zRf92Yx_FQqocKFU8qSasBgh4qpmR5wR_ucdyE3cER-dOZt6igMd6nBw3yP4gDN7CceGoIj9IuwDAevoLaMHTRO5AF2EmGfWg7KxmW5BioZvxxV_M-UC2etOzh9NodYDyUDqhGcjOQw-V1zzAjFg0i_EV0vtr9D5KMcRdc35_zONpJCWAGouuv8XmlSaAGsTvqyyh5Ntxivg8QVEQPcL9v_orASYn05l2spW8DsUg-hPWP6DSOcjclxmc9U4p^$all
-||url.emailprotection.link/?bmtorW9A1syZL3r7NxKofg9zQDY-QwiHVpG0ZM8ihy1zZgCyZILkbzavXzs0mBFpuDOzH_YWvGegUXs9lGXSXTrqsATi47-Ufy9sRuG226kNi_hIJE8AIleABISH9K_OrZGBpfjnKy_nSDrw4SAZ4lWq8F9R0GEirUkqb39v421GnSHyucL1gEtvKmiGFmMJosGXA7HJquf-ec0N5Crw9qmfN0BPx0XuL0hZ6cU0auNGGzIMdztQ0mT2kh_YU_21l4ICQN1i_Ul2p754WZj1nDmmtEltOtGIcddZDAdbwXMbjRm-L8c7ntq_GjmoqGGP_MD0swA5tlKznv0cq1-AZUWeGtB4So_2Eld9VBxcxCWEEvkh5sbJZaXalhHHdUSR3-V9z8ueHpQ-i9vzGt38gRJwIawGFYQJ5yL51uCKU5eQ95wa2rXKEKCF11-iPnUekodIejajvMgSUOTRj6T5v_TgyUYIyX9Cd28gshr_HyQ8rPwZnChSbZSWbQOPAiv3Z^$all
-||url.emailprotection.link/?bq1E3Kg8ouJP79DeG4W2Pr6w64Db4KkdnaV_ya6hsO6VqTZHX2CxkqrPdKTALc3uFegn-mcWoxvweByRS3clqIg~~^$all
+||url.emailprotection.link^$all
 ||url.gsb.gov.zm^$all
 ||url.in.th^
 ||url.in.th^$all
@@ -558181,47 +558061,8 @@ openx.static.kava.ee
 ||us11.campaign-archive.com^$all
 ||us12.campaign-archive.com^$all
 ||us13.campaign-archive.com^$all
-||us14.admin.mailchimp.com/lists/surveys/view?survey_id=1296^$all
-||us14.campaign-archive.com/?e=ee52385c2b&u=ab6870ad189c442981102e831&id=411cd5e7c5^$all
-||us14.campaign-archive.com/?u=02e1979e872cea105e5c4a292&id=2083f3d01f^$all
-||us14.campaign-archive.com/?u=08def94099fbdde3b2e96e593&id=ac8ac329b1^$all
-||us14.campaign-archive.com/?u=0ba4d8da3d45351f3b2d012cb&id=f117a5b685^$all
-||us14.campaign-archive.com/?u=0c2af68bef4e07a09ae8355b5&id=236bc74f65%20https://us15.campaign-archive.com/?u=7d770f010fa1cffc539c96e2e&id=ecdefa22ac^$all
-||us14.campaign-archive.com/?u=135300dd1008dac52ecb1f8f4&id=3a44ad1bf2^$all
-||us14.campaign-archive.com/?u=189f3df551eba5dc883cb307a&id=6adb6085a7^$all
-||us14.campaign-archive.com/?u=1e0c1d7ddb2e8a872d20619bb&id=f1e2ac3171^$all
-||us14.campaign-archive.com/?u=27f2746c01ac243e313789526&id=6f9503812b^$all
-||us14.campaign-archive.com/?u=2b1e385cb081065a6fc09cf56&id=3783b327d7^$all
-||us14.campaign-archive.com/?u=2c3fa684781a4dca7404ba05f&id=20e7b24ef7^$all
-||us14.campaign-archive.com/?u=2e4b0add2af6666b18dcbbe52&id=2f3c76b66c^$all
-||us14.campaign-archive.com/?u=3369b66a816ec2fae229302c9&id=548dd90e06^$all
-||us14.campaign-archive.com/?u=3369b66a816ec2fae229302c9^$all
-||us14.campaign-archive.com/?u=387a30709ae5e87bb5b8f6992&id=1869c78565^$all
-||us14.campaign-archive.com/?u=45d55034a16162b7af14b4d30&id=f55a74af1d^$all
-||us14.campaign-archive.com/?u=4df10d7417618510d7dfd6525&id=29ffc2cb39^$all
-||us14.campaign-archive.com/?u=65348e5613f8c4f0ace2e98d6&id=bd0344b3ff^$all
-||us14.campaign-archive.com/?u=688c707fa5027b0ca44604aec&id=0dac99bc40^$all
-||us14.campaign-archive.com/?u=688c707fa5027b0ca44604aec^$all
-||us14.campaign-archive.com/?u=6b830021ede475b17e331f8be&id=b355373231^$all
-||us14.campaign-archive.com/?u=70c3b2cbef24fa6ac350f39ee&id=98df672c82^$all
-||us14.campaign-archive.com/?u=7249457a06c6342ff5378477b&id=cf755943df^$all
-||us14.campaign-archive.com/?u=74637118cd69423cdce628087&id=40adcac820^$all
-||us14.campaign-archive.com/?u=833f9892290d5b8fd6ffcfea5&id=e23fd737d7^$all
-||us14.campaign-archive.com/?u=86fb43427e9133716ca514641&id=50927bb46a^$all
-||us14.campaign-archive.com/?u=96beccf538513f3ac3114d394&id=a0637b7dcc^$all
-||us14.campaign-archive.com/?u=aa955a7655efc5f81d5513c3b&id=3290e37b1d^$all
-||us14.campaign-archive.com/?u=b25023595ce07a10d86c4c8dc&id=cd9ff143c6^$all
-||us14.campaign-archive.com/?u=bdd51ee9cfedf8e1d6cb492d1&id=0010e7463e^$all
-||us14.campaign-archive.com/?u=bef6e69192b6c3f0a3b799820&id=0b96483a5b^$all
-||us14.campaign-archive.com/?u=c73244201080757ee5263ee0b&id=7e1ccb657a^$all
-||us14.campaign-archive.com/?u=c94be55a915d707ccb9844cc4&id=76a24e0a93^$all
-||us14.campaign-archive.com/?u=d3d6a9cc01247ce8cd72d6593&id=98182417e7^$all
-||us14.campaign-archive.com/?u=d64889a7ce997eced5803c158&id=55db5bf41f^$all
-||us14.campaign-archive.com/?u=dc63c251f8a15b7f4f82eabb6&id=5029d4a14a^$all
-||us14.campaign-archive.com/?u=f41eb43ab190d10f8b2b959b2&id=2089391ab6^$all
-||us14.campaign-archive.com/?u=fd18690a056990b1c1126d117&id=781f5057d^$all
-||us14.campaign-archive.com/?u=fd18690a056990b1c1126d117&id=781f5057dd^$all
-||us14.campaign-archive.com/?u=fed616bde745b3308066f8b33&id=a2e812e54f^$all
+||us14.admin.mailchimp.com^$all
+||us14.campaign-archive.com^$all
 ||us14.list-manage.com/survey?u=a1e60f2545440c34eb851f069&id=3e09ac1af2^$all
 ||us14.list-manage.com/survey?u=adb19a764ae53387d472a442a&id=bd4fd11e0e&attribution=false^$all
 ||us15.campaign-archive.com^$all
@@ -560162,6 +560003,7 @@ openx.static.kava.ee
 ||uvwmpritmqef.com^
 ||uvwvjd.cablematic.com^
 ||uvx7ri.lat^$all
+||uvyvpkjfftlbe.online^
 ||uvyxwb.info^
 ||uvzh-defender.pro^
 ||uvzrtq.livingspaces.com^
@@ -561133,6 +560975,7 @@ openx.static.kava.ee
 ||vaguehide.pro^
 ||vaguelyspecialty.com^
 ||vaguerelationship.com^
+||vaguishmonks.cyou^
 ||vaguishtrepak.com^
 ||vahanagigge.cyou^
 ||vahdamsale.fr^
@@ -561653,6 +561496,7 @@ openx.static.kava.ee
 ||vanillagrapelowlife.com^
 ||vanillalist.com^
 ||vanillanegotiationitem.com^
+||vanillaturel.fr^$all
 ||vanillemuckily.shop^
 ||vaniok.cn^
 ||vanirblanked.cyou^
@@ -562290,7 +562134,6 @@ openx.static.kava.ee
 ||vbbrf.holastylekorean.com^
 ||vbbzbgdkit1.firebaseapp.com^$all
 ||vbbzbgdkit1.web.app^$all
-||vbc-telemetry-prod.s3.amazonaws.com^
 ||vbc08091op.com^
 ||vbc08100op.com^
 ||vbc08101op.com^
@@ -562344,6 +562187,7 @@ openx.static.kava.ee
 ||vbmay16.com^
 ||vbmdmwww.sampleco.ccrs.biz^$all
 ||vbmer.com^$third-party
+||vbmjlejlmvorz.top^
 ||vbmjlevwwvyzj.top^
 ||vbmjune25.com^
 ||vbmxorkseftlr.online^
@@ -563732,6 +563576,7 @@ openx.static.kava.ee
 ||vermeilinveroire.digital^
 ||vermeillerose.go-static.info^
 ||vermeillerose.goasrv.com^
+||vermeilnoughtygentian.qpon^
 ||vermeilrentoire.net^
 ||vermiip.es^
 ||vermilion-dress.shop^
@@ -565100,8 +564945,6 @@ openx.static.kava.ee
 ||videocdnmetrika21.com^
 ||videocdnmetrika31.com^
 ||videocdnmetrika72.com^
-||videocdnmetrika74.com^
-||videocdnmetrika78.com^
 ||videocdnmetrika79.com^
 ||videocdnmetrika80.com^
 ||videocdnmetrika81.com^
@@ -566106,7 +565949,6 @@ openx.static.kava.ee
 ||villasmbuva.co.mz^
 ||villasmbuva.co.mz^$all
 ||villause.com^
-||ville-marange-silvange.fr^
 ||villecreteil.fr^
 ||villena.shop^
 ||villentoonlinecasino.org^
@@ -568315,6 +568157,7 @@ openx.static.kava.ee
 ||vnfiba.com^
 ||vnfmgenxtrmcv.online^
 ||vng.lol^
+||vngepcozxjeot.website^
 ||vngiao.hangtietkiem.online^
 ||vnglypkdun.com^
 ||vngzlq.datingllfe.com^
@@ -575941,7 +575784,6 @@ openx.static.kava.ee
 ||webstats.mercatoelettrico.org^
 ||webstats.mitfit.de^
 ||webstats.mk.de^
-||webstats.mylearnerportal.com^
 ||webstats.nbtc.go.th^
 ||webstats.nextlayer.at^
 ||webstats.oanda.com^
@@ -576960,7 +576802,6 @@ openx.static.kava.ee
 ||weplananalytics.com^
 ||weplaycasino.fr^
 ||weplpoctza.weebly.com^$all
-||wepoc.co^
 ||wepoker.fr^
 ||wepredict.com^
 ||weproxy.me^
@@ -577804,6 +577645,7 @@ openx.static.kava.ee
 ||wheregoes.com/img/banners/
 ||wheregoes.com/trace/2026272011/^$all
 ||whereisdalle.cfd^
+||wherepaup.com^
 ||wheres-waldo-angel.herokuapp.com^
 ||wheresthekaraoke.com^
 ||wheretamperexists.com^
@@ -579048,6 +578890,7 @@ openx.static.kava.ee
 ||wiltedneck.com^
 ||wiltedpreference.pro^
 ||wiltinfume.com^
+||wiltingbiotics.qpon^
 ||wiltiqkc.com^
 ||wiltonsale.com^
 ||wiltshirebincleaning.com^
@@ -579348,6 +579191,7 @@ openx.static.kava.ee
 ||winkler-elektronik.de^
 ||winkler-modehaus.de^
 ||winklers-handel.de^
+||winkletimburse.cfd^
 ||winksbeautylondon.live^
 ||winksieniteretired.qpon^
 ||winksplay.ru/fmnr.js
@@ -579406,6 +579250,7 @@ openx.static.kava.ee
 ||winpbn.com/redirect/^
 ||winpbn.com^
 ||winpcware.com^
+||winpetard.cyou^
 ||winpgk.net^
 ||winporn.*/templates/base_master/js/jquery.shows.min.js
 ||winporn.*/templates/base_master/js/jquery.shows2.min.js
@@ -581425,6 +581270,7 @@ openx.static.kava.ee
 ||worstloftily.com^
 ||worstoffice.com^
 ||worstpacifyflames.com^
+||worstspeed.pro^
 ||wortexlogik.de^
 ||wortfilter.de/wp-content/uploads/*_300x250px-
 ||worthadventurerregent.com^
@@ -583588,7 +583434,6 @@ openx.static.kava.ee
 ||www.alternate.de^$removeparam=campaign
 ||www.alternate.de^$removeparam=idealoid
 ||www.alternate.de^$removeparam=partner
-||www.alternativetransmission.com^
 ||www.altunyapimarket.com^
 ||www.amarbhosale.com^
 ||www.amazon.*/gp/*.html?*&U=http$doc,urlskip=?U
@@ -583597,6 +583442,7 @@ openx.static.kava.ee
 ||www.amazon.*/page/$doc,removeparam=ref_
 ||www.ambitbio.com^
 ||www.amerenallieshvac.com^
+||www.amergiseducation.com^
 ||www.americanfriendsofreuth.org^
 ||www.americanresortresolutions.com^
 ||www.americanweeklynews.com^
@@ -583658,7 +583504,6 @@ openx.static.kava.ee
 ||www.asinglewomanmovie.com^
 ||www.asisa.com.co^
 ||www.asmsalesforce.pl^
-||www.asocstech.com^
 ||www.assistdocklane.uk^
 ||www.assoc-amazon.cn^
 ||www.astalavista.us^
@@ -583772,7 +583617,6 @@ openx.static.kava.ee
 ||www.bizportal.co.il^$websocket,~third-party,domain=www.bizportal.co.il
 ||www.black-magic.jp^$doc
 ||www.blackhattoolz.com^
-||www.blankundbiehl.de^
 ||www.blazesemipvp.com^
 ||www.bloblohub.com^
 ||www.blocwhite7.com^
@@ -584110,7 +583954,6 @@ openx.static.kava.ee
 ||www.dcurtis.com^
 ||www.ddjard.dreamuove.com^
 ||www.ddvwla.speciaidates.com^
-||www.ddzimu.com^
 ||www.dealshaat.com^
 ||www.dealsrate.com^
 ||www.deanowens.com^
@@ -584310,7 +584153,6 @@ openx.static.kava.ee
 ||www.expressotelecom.com^
 ||www.exteriorteam.com^
 ||www.extrabrick.com^
-||www.exx.com^
 ||www.ezakus.com^
 ||www.ezlink.ca^
 ||www.ezpassny.com^
@@ -584633,6 +584475,7 @@ openx.static.kava.ee
 ||www.iloveto.talk4fun.net^
 ||www.ilyasasseban.com^
 ||www.imadedinner.net^
+||www.imagemet.com^
 ||www.imaginative-trade7.com^
 ||www.imath.kiev.ua^
 ||www.imcounting.com^
@@ -584791,7 +584634,6 @@ openx.static.kava.ee
 ||www.koscian.net/photos/adv_
 ||www.kota3chat.com^
 ||www.kotharis.in^
-||www.kpot.be^
 ||www.kpr2exp21.com^
 ||www.kprbexp21.com^
 ||www.ksiargentina.com^
@@ -584859,6 +584701,7 @@ openx.static.kava.ee
 ||www.lfsph.com^
 ||www.lgch.mp^
 ||www.libanco.com^
+||www.lidgardphotography.com^
 ||www.lidjeu.be^
 ||www.lidl.de^$removeparam=msktc
 ||www.lifeforminc.com^
@@ -585360,6 +585203,7 @@ openx.static.kava.ee
 ||www.pokerlizard.com^
 ||www.pokersyte.com^
 ||www.pokerupdate.com^
+||www.pokewilds.com^
 ||www.poleuniv-lille-npdc.fr^
 ||www.pollmonkey.com^
 ||www.poloniainfo.se/obrazki/skin/reklama1*.gif
@@ -585434,9 +585278,9 @@ openx.static.kava.ee
 ||www.qishuimusic.org^
 ||www.qlzn6i1l.com^
 ||www.qpwoei2.com^
+||www.qqads.com^
 ||www.qssa.co.uk^
 ||www.quantum.groupe.com^
-||www.quinnebogfishingclub.com^
 ||www.quintaalegrealgarve.com^
 ||www.quipla.com^
 ||www.quoteafs.com^
@@ -585768,6 +585612,7 @@ openx.static.kava.ee
 ||www.sugh8yami.com^
 ||www.suivi-matomo.fr^
 ||www.sun-inet.or.jp^
+||www.superacionpobreza.cl^
 ||www.superbanner.org^
 ||www.superfish.com^
 ||www.support-data.com^
@@ -585988,7 +585833,6 @@ openx.static.kava.ee
 ||www.univparis1.fr^
 ||www.unrealpain.com^
 ||www.untamedpaws.co.in^
-||www.unykvis.com^
 ||www.updatecatalogs.com^
 ||www.upgradebasic.com^
 ||www.upiicsa.goasrv.com^
@@ -586073,7 +585917,6 @@ openx.static.kava.ee
 ||www.vzoegr.girldatee.com^
 ||www.wa.postoffice.co.uk^
 ||www.wa52613.com^
-||www.wadoesters.nl^
 ||www.wait8hurl.com^
 ||www.want7feed.com^
 ||www.wantsfly.com^
@@ -592469,6 +592312,7 @@ openx.static.kava.ee
 ||xwf-ads-eu-north-1-dev.xwf.internet.org^
 ||xwf-ads-prod-mumbai.xwf.internet.org^
 ||xwfafjiihnpmy.space^
+||xwgbnryynelfd.site^
 ||xwgcrg27ak.data.adobedc.net^
 ||xwgeg1g6g.com^
 ||xwgkbcbvjjvxr.website^
@@ -594062,6 +593906,7 @@ openx.static.kava.ee
 ||ydcjrqvjveneo.online^
 ||ydcksa.certideal.com^
 ||ydconsultant.com^
+||ydczzgccyfrmj.website^
 ||yddgcj.com^
 ||yddtah.takingshape.com^
 ||ydduszefhnscz.website^
@@ -595601,6 +595446,7 @@ openx.static.kava.ee
 ||yokeeroud.com^
 ||yokemart.com^
 ||yokematchesdashboard.com^
+||yokemeros.shop^
 ||yokeya.com^
 ||yokkao-polska.pl^
 ||yoko.mom^
@@ -595894,7 +595740,6 @@ openx.static.kava.ee
 ||youngrecover.pro^
 ||youngscholarsinitiative-dot-yamm-track.appspot.com^
 ||youngsextube.me/agent.php
-||youngslobster.com^
 ||youngsoutloveamuguis.cyou^
 ||youngstermansionphrase.com^
 ||youngstowntimes.com^
@@ -597328,6 +597173,7 @@ openx.static.kava.ee
 ||ywffr.biz^
 ||ywfrxohexnykc.online^
 ||ywfwgkclolrob.space^
+||ywfxjkoaeiojz.site^
 ||ywfycv.baby-products.ru^
 ||ywg4empmfe4fpth.ppvifvpk3w1nkoin.cyou^
 ||ywgrow.com^
@@ -597607,6 +597453,7 @@ openx.static.kava.ee
 ||yyozimbra.weebly.com^$all
 ||yyphw.com^
 ||yypsmobejtdoh.space^
+||yyptbmcxlkvnq.online^
 ||yypyjamnhxw.com^
 ||yyqlpi.danmusikk.no^
 ||yyqozaldwa.com^
@@ -598229,6 +598076,7 @@ openx.static.kava.ee
 ||zakuidowsnze.firebaseapp.com^$all
 ||zakup98394094.shop^
 ||zakupio.shop^
+||zakuskananda.cyou^
 ||zakvkuotv.in^
 ||zakxafohb.in^
 ||zaladowintersale.shop^
@@ -599108,6 +598956,7 @@ openx.static.kava.ee
 ||zduwgpvfgvhqm.space^
 ||zdv.life^
 ||zdw.w8.com.cn^
+||zdwfgjgydcowp.website^
 ||zdwgpb.moblum.com^
 ||zdworkscdn.com^
 ||zdwvgf.melodysusie.com^
@@ -599749,6 +599598,7 @@ openx.static.kava.ee
 ||zertifiziert.de^
 ||zervulkait-de.live^
 ||zervulkaitplatform.com^
+||zerzvqreoqqzq.top^
 ||zesainuxaimoots.net^
 ||zesdmn.com^$third-party
 ||zesemen.cz^
@@ -600938,6 +600788,7 @@ openx.static.kava.ee
 ||zkdkvnzsdxge.info^$3p
 ||zkdkvnzsdxge.info^$third-party
 ||zkdtpucowdlat.website^
+||zkdvaodpyoxvd.online^
 ||zkdx120.com^
 ||zke7f34g1p2ghtl.cfd^
 ||zkebwy.copenhagenstudios.com^
@@ -601395,6 +601246,7 @@ openx.static.kava.ee
 ||zobaczfilm.com^
 ||zobgqg.sirobari.jp^
 ||zobtmj.kiddies-kingdom.com^
+||zocjfugbrnjsi.site^
 ||zocwfosbxwqru.website^
 ||zoda.ru^
 ||zoda.ru^$3p
@@ -601779,6 +601631,7 @@ openx.static.kava.ee
 ||zorzalcaudalorio.net^
 ||zorzawartanis.com^
 ||zorzawartanis.net^
+||zosdscrdnltbz.space^
 ||zosemien.sk^
 ||zosteralatency.com^
 ||zostofou.link^
