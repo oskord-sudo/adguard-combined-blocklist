@@ -1,6 +1,6 @@
 ! Объединённый DNS-список для AdGuard Home (только сетевые правила)
-! Сгенерировано: 2026-09-26 16:04:00
-! Количество записей: 623560
+! Сгенерировано: 2026-09-27 04:29:57
+! Количество записей: 623736
 /&*^$popup,domain=piracyproxy.app|piraproxy.info|unblocked.club|unblockedstreaming.net
 /(946|01|378X96-1|370-1|%D0%91%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-%D0%BB%D0%B0%D0%BD%D1%87-1200-%D0%BD%D0%B0-500-%D0%BF%D0%BA%D1%81\.-2|WhatsApp-Image-2020-08-12-at-12\.59\.32|WhatsApp-Image-2020-01-20-at-11\.51\.19|1200%D1%85100_%D0%90%D0%BD%D0%B3%D0%B0%D1%80%D1%81%D0%BA)\.(gif|jpg|jpeg)/$domain=angarsk38.ru
 /(?:buzz|com|icu|net|site|xyz)\/(?!shrinker).*/$script,~third-party,domain=imgblaze.net|pixsera.net|imgfrost.net
@@ -3014,7 +3014,7 @@
 /banners/*$domain=bajroshakti.com|digiana.com|karobardaily.com|tamil.srilankamirror.com|tcvonline.co.in|thaiveedu.com
 /banners/*$domain=biertijd.com|biertijd.xxx|waskucity.com
 /banners/*$domain=nadmorski24.pl
-/banners/*$image,domain=2ip.io|2ip.ru
+/banners/*$image,domain=2ip.io
 /banners/*$image,domain=warta-pendidikan.com
 /banners/*/*/0/index.$subdocument
 /banners/*_*x*?$domain=~asus.com|~challonge.com|~etsy.com|~moto-store.com.ua
@@ -4317,7 +4317,7 @@
 /evt.gif?
 /exactag.js
 /exchange$domain=koob.ru
-/exitblock/*$domain=nnm-club-me.ru|rutracker.org.ru
+/exitblock/*$domain=nnm-club-me.ru|rutor.org.ru|rutracker.org.ru
 /exitpop.js$script
 /exitpopup.js$script
 /exitsplash.php$script
@@ -7529,8 +7529,8 @@
 /rbknews/*
 /rbs_scripts/rbs_banner_
 /rbt_banner/*
-/rbtvplus\d+\.(com|autos|baby|blog|bond|cfd|click|cyou|hair|help|homes|info|lat|lol|makeup|mom|one|pics|quest|rest|skin|top|vip|xyz|yachts)/##.czlll-rlselse
-/rbtvplus\d+\.(com|autos|baby|blog|bond|cfd|click|cyou|hair|help|homes|info|lat|lol|makeup|mom|one|pics|quest|rest|skin|top|vip|xyz|yachts)/#$#* { scrollbar-width: thin!important; }
+/rbtvplus\d+\.(com|autos|baby|blog|bond|buzz|cfd|click|cyou|hair|help|homes|info|lat|lol|makeup|mom|one|pics|quest|rest|skin|top|vip|xyz|yachts)/##.czlll-rlselse
+/rbtvplus\d+\.(com|autos|baby|blog|bond|buzz|cfd|click|cyou|hair|help|homes|info|lat|lol|makeup|mom|one|pics|quest|rest|skin|top|vip|xyz|yachts)/#$#* { scrollbar-width: thin!important; }
 /rcAnalyticsLib.js
 /rcl/all/*
 /rcl/ban/*
@@ -24777,6 +24777,7 @@
 @@||kino.de/imag
 @@||kino.de/mages/
 @@||kino.mail.ru^$generichide
+@@||kinofilm.io/watch/$generichide
 @@||kinogo.*/*.flv$stealth=ip
 @@||kinokrad.co/templates/all/ads.js^
 @@||kinomassa.net/js/advert.js
@@ -33607,6 +33608,7 @@ voethrusts.cfd
 ||0b8c767b16.com^
 ||0backend.com^
 ||0bb8jytek.com^
+||0bc457ce1f.com^
 ||0bcf8b1b9f7ddda7.com^
 ||0bd18cc899.com^
 ||0bd1bfb05da46a1b.com^
@@ -34163,6 +34165,7 @@ voethrusts.cfd
 ||1.51dongshi.com^
 ||1.51sxue.cn^
 ||1.5646.cn^
+||1.61.219.148^$all
 ||1.66law.cn^
 ||1.70.76.87^$all
 ||1.78500.cn^
@@ -34554,12 +34557,12 @@ voethrusts.cfd
 ||100zen-yume.com^
 ||101-glass.com^
 ||101-sex-positions.com^
+||101.108.105.139^$all
 ||101.108.11.84^$all
 ||101.109.81.209^$all
 ||101.126.11.168^$all
 ||101.200.220.118^$all
 ||101.205.70.39^$all
-||101.29.42.96^$all
 ||101.35.56.7^$all
 ||101.43.49.183^$all
 ||101.58.112.120^$all
@@ -34648,6 +34651,7 @@ voethrusts.cfd
 ||102.112.2o7.net^
 ||102.112.2o7.net^$document
 ||102.212.61.41^$all
+||102.214.109.147^$all
 ||102.216.105.81^$all
 ||102.220.160.142^$all
 ||102.220.160.223^$all
@@ -34715,18 +34719,19 @@ voethrusts.cfd
 ||102radio.net^
 ||103-219-58-100_s-23-215-0-13_ts-1718634508-clienttons-s.akamaihd.net^$all
 ||103-parco.com^
+||103.101.81.142^$all
 ||103.101.85.165^$all
 ||103.101.85.173^$all
 ||103.106.250.161^$all
 ||103.116.190.93^$all
-||103.151.42.13^$all
+||103.126.201.130^$all
 ||103.154.90.21^$all
 ||103.160.130.109^$all
 ||103.163.119.220^$all
+||103.167.175.121^$all
 ||103.168.67.55^$all
 ||103.179.189.35^
-||103.18.13.203^$all
-||103.184.95.162^$all
+||103.179.240.227^$all
 ||103.193.179.78^$all
 ||103.20.213.34^$all
 ||103.206.139.61^$all
@@ -34743,7 +34748,9 @@ voethrusts.cfd
 ||103.245.10.51^$all
 ||103.247.164.242^$all
 ||103.249.199.5^$all
+||103.252.219.217^$all
 ||103.36.80.114^$all
+||103.44.137.13^$all
 ||103.45.66.107^$all
 ||103.50.4.212^$all
 ||103.59.134.98^$all
@@ -34806,10 +34813,11 @@ voethrusts.cfd
 ||104price.com^
 ||104processors.net^
 ||104seo.com^
-||105.184.236.68^$all
+||105.155.23.96^$all
+||105.184.253.31^$all
+||105.184.58.187^$all
 ||105.184.78.209^$all
-||105.224.10.162^$all
-||105.224.38.185^$all
+||105.186.74.236^$all
 ||1050.us^
 ||1050p.com^
 ||1051thebone.com^
@@ -35126,8 +35134,9 @@ voethrusts.cfd
 ||11.yiqig.cn^
 ||11.yiqig.com^
 ||110.136.42.161^$all
+||110.136.57.230^$all
 ||110.138.112.212^$all
-||110.138.8.75^$all
+||110.138.15.199^$all
 ||110.227.197.204^$all
 ||110.81.120.188^$all
 ||110.93.143.144^
@@ -35162,6 +35171,7 @@ voethrusts.cfd
 ||110words.com^
 ||111-design.com^
 ||111.178.127.215^$all
+||111.179.172.133^$all
 ||111.235.143.155^$all
 ||111.59.254.165^$all
 ||111.74.21.155^$all
@@ -35220,7 +35230,6 @@ voethrusts.cfd
 ||112.109.210.146^$all
 ||112.119.111.82^$all
 ||112.198.128.164^$all
-||112.198.130.112^$all
 ||112.198.130.140^$all
 ||112.198.193.5^$all
 ||112.198.194.175^$all
@@ -35228,9 +35237,9 @@ voethrusts.cfd
 ||112.198.238.18^$all
 ||112.225.176.130^$all
 ||112.239.103.215^$all
-||112.239.97.213^$all
 ||112.247.5.140^$all
 ||112.248.102.140^$all
+||112.248.143.0^$all
 ||112.248.186.181^$all
 ||112.255.78.191^$all
 ||112.4.110.22^$all
@@ -35239,6 +35248,7 @@ voethrusts.cfd
 ||112.85.183.82^$all
 ||112.93.136.28^$all
 ||112.93.137.192^$all
+||112.93.137.31^$all
 ||112.events^
 ||112.international^
 ||1120-log.cloud.v-key.com^
@@ -35268,27 +35278,27 @@ voethrusts.cfd
 ||113-bca.online^
 ||113.105.248.169^
 ||113.160.251.236^$all
-||113.17.176.70^$all
 ||113.221.11.64^$all
 ||113.224.226.173^$all
+||113.228.113.161^$all
+||113.228.156.219^$all
+||113.228.159.111^$all
 ||113.229.54.12^$all
 ||113.230.103.110^$all
 ||113.230.20.235^$all
 ||113.230.82.33^$all
 ||113.231.116.128^$all
 ||113.231.202.211^$all
-||113.231.205.57^$all
 ||113.231.208.144^$all
 ||113.236.157.218^$all
+||113.236.234.179^$all
 ||113.236.4.237^$all
 ||113.236.71.177^$all
 ||113.237.53.238^$all
 ||113.238.102.82^$all
-||113.238.105.104^$all
 ||113.238.123.51^$all
 ||113.238.173.237^$all
 ||113.238.228.9^$all
-||113.255.193.216^$all
 ||113.45.17.8^$all
 ||113.45.253.80^$all
 ||1133.cc^
@@ -35315,11 +35325,8 @@ voethrusts.cfd
 ||114.226.118.134^$all
 ||114.226.171.180^$all
 ||114.226.171.203^$all
-||114.227.56.221^$all
 ||114.228.236.217^$all
 ||114.242.100.72^$all
-||114.31.8.22^$all
-||114.31.8.25^$all
 ||114.55.101.133^$all
 ||114.55.106.136^$all
 ||114.at^
@@ -35342,31 +35349,36 @@ voethrusts.cfd
 ||115.159.149.113^$all
 ||115.178.100.190^$all
 ||115.190.250.28^$all
+||115.197.91.35^$all
 ||115.235.20.5^$all
 ||115.240.70.185^$all
 ||115.48.162.115^$all
 ||115.48.20.227^$all
+||115.49.70.160^$all
 ||115.49.79.111^$all
+||115.50.89.9^$all
+||115.52.18.55^$all
 ||115.52.237.67^$all
 ||115.52.33.146^$all
 ||115.53.216.207^$all
-||115.53.36.29^$all
+||115.53.218.76^$all
+||115.53.244.253^$all
 ||115.54.168.115^$all
-||115.55.239.220^$all
-||115.55.38.107^$all
-||115.55.46.233^$all
-||115.56.115.62^$all
+||115.55.243.62^$all
+||115.55.50.49^$all
 ||115.56.67.123^$all
 ||115.57.14.28^$all
 ||115.57.246.10^$all
 ||115.57.255.95^$all
 ||115.57.87.53^$all
+||115.58.142.150^$all
 ||115.58.181.174^$all
-||115.59.236.127^$all
-||115.61.188.79^$all
+||115.61.112.26^$all
+||115.61.240.131^$all
+||115.62.145.57^$all
 ||115.63.150.61^$all
 ||115.63.242.90^$all
-||115.63.50.225^$all
+||115.97.191.65^$all
 ||115.at^
 ||115123.com^
 ||1154036d79.com^
@@ -35392,8 +35404,9 @@ voethrusts.cfd
 ||116.202.190.126^$all
 ||116.205.168.247^$all
 ||116.209.169.251^$all
-||116.58.51.90^$all
+||116.248.81.126^$all
 ||116.58.62.74^$all
+||116.90.236.250^$all
 ||11661.net^
 ||116666.com^
 ||1167av.com^
@@ -35415,7 +35428,6 @@ voethrusts.cfd
 ||117.247.101.185^$all
 ||117.247.101.63^$all
 ||117.254.84.212:3000^
-||117.26.113.132^$all
 ||117.63.244.227^$all
 ||117.72.181.104^$all
 ||11701.org^
@@ -35434,18 +35446,21 @@ voethrusts.cfd
 ||117f.net^
 ||117hm.com^
 ||118.139.167.36^$all
+||118.173.198.115^$all
+||118.174.152.119^$all
 ||118.178.133.241^$all
 ||118.179.121.235^$all
+||118.179.144.202^$all
 ||118.179.203.50^$all
 ||118.189.172.141^$all
 ||118.212.35.175^$all
 ||118.219.11.202^$all
 ||118.25.68.152^$all
-||118.250.3.143^$all
 ||118.253.80.19^$all
 ||118.69.157.212^$all
 ||118.70.244.17^$all
 ||118.71.250.6^$all
+||118.97.222.219^$all
 ||1180.info^
 ||11815gilmoreapartments.com^
 ||118252.com^
@@ -35468,7 +35483,7 @@ voethrusts.cfd
 ||118vd.com^
 ||118winston.com^
 ||119.114.152.239^$all
-||119.116.156.207^$all
+||119.114.57.107^$all
 ||119.117.115.248^$all
 ||119.117.157.180^$all
 ||119.117.170.146^$all
@@ -35602,31 +35617,38 @@ voethrusts.cfd
 ||120.193.219.210^$all
 ||120.26.164.252^$all
 ||120.26.166.249^$all
+||120.28.135.254^$all
 ||120.28.135.4^$all
-||120.28.137.87^$all
 ||120.28.153.108^$all
 ||120.28.161.11^$all
 ||120.28.163.1^$all
 ||120.28.166.185^$all
 ||120.28.189.218^$all
-||120.28.192.123^$all
 ||120.28.193.113^$all
 ||120.28.194.204^$all
 ||120.28.196.250^$all
 ||120.28.196.74^$all
 ||120.28.212.172^$all
 ||120.28.213.150^$all
+||120.28.219.218^$all
 ||120.28.222.102^$all
+||120.28.68.44^$all
+||120.28.76.69^$all
 ||120.33.156.74^$all
 ||120.46.12.14^$all
 ||120.46.15.254^$all
+||120.76.143.184^$all
 ||120.77.237.174^$all
 ||120.77.79.42^$all
 ||120.79.64.164^$all
+||120.84.212.143^$all
+||120.84.212.232^$all
+||120.84.213.191^$all
 ||120.84.214.214^$all
 ||120.84.214.47^$all
 ||120.84.214.95^$all
 ||120.84.215.78^$all
+||120.84.216.44^$all
 ||120.net^
 ||120030.xyz^
 ||1200555.com^
@@ -35666,7 +35688,9 @@ voethrusts.cfd
 ||121.202.211.217^$all
 ||121.204.246.*.gif
 ||121.205.208.25^$all
+||121.226.176.156^$all
 ||121.43.104.75^$all
+||121.6.210.123^$all
 ||121.team^
 ||12112336.pix-cdn.org^
 ||12114200.pix-cdn.org^
@@ -35700,7 +35724,6 @@ voethrusts.cfd
 ||122.170.8.40^$all
 ||122.179.136.112^$all
 ||122.201.25.95^$all
-||122.234.106.200^$all
 ||1223lacrosse.com^
 ||1224.zg-babyroo.com^
 ||1227.com^
@@ -35727,32 +35750,41 @@ voethrusts.cfd
 ||123-vay.com^
 ||123.10.239.207^$all
 ||123.10.70.134^$all
-||123.11.127.124^$all
+||123.11.10.172^$all
 ||123.11.14.81^$all
 ||123.11.240.82^$all
 ||123.11.72.205^$all
 ||123.117.136.97^$all
+||123.129.155.183^$all
 ||123.13.144.255^$all
 ||123.132.166.255^$all
+||123.133.246.35^$all
 ||123.135.74.52^$all
+||123.14.182.107^$all
+||123.14.216.133^$all
+||123.14.235.19^$all
+||123.14.245.252^$all
 ||123.143.141.75^$all
 ||123.185.244.205^$all
 ||123.188.104.11^$all
+||123.188.205.119^$all
 ||123.188.73.67^$all
 ||123.189.141.170^$all
+||123.189.8.59^$all
 ||123.190.163.251^$all
+||123.190.17.125^$all
 ||123.190.225.90^$all
 ||123.190.231.75^$all
 ||123.232.43.185^$all
+||123.235.220.170^$all
 ||123.245.96.138^$all
 ||123.249.20.250^$all
 ||123.254.108.116^$all
-||123.4.3.189^$all
-||123.5.152.210^$all
 ||123.57.250.154^$all
 ||123.57.51.183^$all
-||123.7.220.108^$all
 ||123.7.221.129^$all
+||123.8.0.85^$all
+||123.9.68.65^$all
 ||123.camp^
 ||123.rudestbrand.com^
 ||123.singles^
@@ -36126,9 +36158,10 @@ voethrusts.cfd
 ||124.44.3.74^$all
 ||124.6.185.132^$all
 ||124.67.254.109^$all
+||124.92.78.169^$all
 ||124.94.168.211^$all
 ||124.94.208.194^$all
-||124.94.244.203^$all
+||124.95.10.220^$all
 ||12428461842-gskantmbsuknbnus.start.page^$all
 ||12454f109f.69b22afb80.com^
 ||124986.com^
@@ -36137,20 +36170,21 @@ voethrusts.cfd
 ||124technologies.net^
 ||124to81tc.com^
 ||125.104.55.17^$all
-||125.161.143.9^$all
-||125.161.250.253^$all
 ||125.253.125.72^$all
 ||125.27.11.64^$all
+||125.41.171.28^$all
 ||125.41.6.81^$all
-||125.41.72.172^$all
+||125.41.8.66^$all
 ||125.42.123.197^$all
 ||125.43.106.108^$all
 ||125.43.4.58^$all
 ||125.44.189.230^$all
+||125.44.28.19^$all
 ||125.44.56.29^$all
 ||125.45.67.98^$all
+||125.45.9.182^$all
 ||125.46.145.9^$all
-||125.47.34.226^$all
+||125.47.57.139^$all
 ||125.net.jumia.co.ke^
 ||125151.com^
 ||12530.info^
@@ -36298,6 +36332,7 @@ voethrusts.cfd
 ||130.12.181.99^$all
 ||130.12.182.128^$all
 ||130.12.182.175^$all
+||130.12.209.132^$all
 ||130.12.209.147^$all
 ||130.12.209.153^$all
 ||130.162.240.8^$all
@@ -36392,7 +36427,6 @@ voethrusts.cfd
 ||135.it^
 ||1351060.com^
 ||1352014.xyz^
-||135461223.site^$all
 ||1355768492.com^
 ||13564.com^
 ||135786637466873.wt-eu02.net^
@@ -36456,6 +36490,7 @@ voethrusts.cfd
 ||138jt.com^
 ||138lm.com^
 ||139.159.233.200^$all
+||139.162.53.175^$all
 ||139.198.15.223^$all
 ||139.255.97.116^$all
 ||139.95.24.51^$all
@@ -36537,16 +36572,13 @@ voethrusts.cfd
 ||13xp.com^
 ||13yg.cn^
 ||14-0-204-188.static.pccw-hkt.com^
-||14-0-204-188.static.pccw-hkt.com^$all
 ||14-18enlorraine.com^
 ||14-8000.ru^
 ||14-pi.net^
 ||14-tage-wettervorhersage.de^*/anzeige_
-||14.0.204.188^$all
 ||14.142.209.198^$all
 ||14.161.6.225^$all
 ||14.189.8.185^$all
-||14.224.205.246^$all
 ||14.net.easyjet.com^
 ||140.237.44.158^$all
 ||140.238.229.80^$all
@@ -36632,7 +36664,6 @@ voethrusts.cfd
 ||146.19.198.131^$all
 ||146.255.245.170^$all
 ||146.59.223.83^$popup
-||146.66.163.195^$all
 ||146.com^
 ||1460.us^
 ||1461ff57a0.3f38ffbdb5.com^
@@ -36739,7 +36770,7 @@ voethrusts.cfd
 ||1505exchangeapts.com^
 ||1508wilshire.com^
 ||150main.net^
-||151.233.167.24^$all
+||151-242-2-177.cprapid.com^$all
 ||151.236.247.230^$all
 ||151.237.4.20^$all
 ||151.240.151.7^$all
@@ -36824,6 +36855,7 @@ voethrusts.cfd
 ||158.247.208.
 ||158.247.208.$popup
 ||158.247.208.115^$popup
+||158.255.83.206^$all
 ||158.69.120.31/assets/77-LUCKS.gif
 ||158.69.120.31/assets/STARS77-*.gif
 ||158.69.120.31/assets/planet88_nov21.mp4
@@ -36925,6 +36957,7 @@ voethrusts.cfd
 ||160ys.com^
 ||161-35-72-148.cprapid.com^$all
 ||161-google.com^
+||161.81.121.227^$all
 ||161.97.106.129/info.mp4$media,~third-party,redirect=noopmp3-0.1s
 ||161286.com^
 ||16134024.artcollection.io^
@@ -36995,7 +37028,7 @@ voethrusts.cfd
 ||166f.com^
 ||166qp.com^
 ||167.206.10.148^
-||167.250.193.253^$all
+||167.250.158.32^$all
 ||167.71.252.38^
 ||167.71.252.38^$popup
 ||167.99.31.227^
@@ -37011,6 +37044,7 @@ voethrusts.cfd
 ||167vxewyb4mbe7.rest^
 ||168.121.168.84^$all
 ||168.138.162.78^$all
+||168.195.81.51^$all
 ||168.com^
 ||168.it168.com^
 ||168.ru/files/banners/
@@ -37086,7 +37120,11 @@ voethrusts.cfd
 ||17.org^
 ||170.210.81.101^$all
 ||170.210.81.104^$all
+||170.238.123.134^$all
+||170.238.123.135^$all
+||170.238.123.2^$all
 ||170.84.133.234^$all
+||170.84.134.171^$all
 ||1701g.com^
 ||171.36.9.93^$all
 ||171.81.100.92^$all
@@ -37167,32 +37205,34 @@ voethrusts.cfd
 ||17430968.xyz^$all
 ||1745n.com^
 ||1748dejateseducir.com^
-||175.10.24.57^$all
 ||175.11.132.107^$all
 ||175.11.53.167^$all
-||175.146.223.234^$all
 ||175.146.224.113^$all
 ||175.146.227.204^$all
 ||175.146.243.119^$all
 ||175.147.221.254^$all
+||175.147.93.218^$all
 ||175.148.132.101^$all
+||175.148.166.198^$all
+||175.148.244.147^$all
+||175.148.56.128^$all
 ||175.149.147.241^$all
 ||175.149.148.220^$all
 ||175.149.196.145^$all
 ||175.149.91.171^$all
 ||175.150.71.167^$all
+||175.150.93.234^$all
 ||175.151.177.210^$all
-||175.160.126.38^$all
 ||175.165.149.167^$all
-||175.165.197.206^$all
-||175.165.242.85^$all
-||175.165.83.136^$all
+||175.165.82.32^$all
 ||175.167.167.51^$all
 ||175.167.46.88^$all
 ||175.173.212.106^$all
+||175.173.82.159^$all
 ||175.174.100.13^$all
 ||175.174.101.44^$all
-||175.251.254.221^$all
+||175.175.25.40^$all
+||175.23.90.116^$all
 ||175.31.228.93^$all
 ||1755607985.newone-shop.com^
 ||1755y.com^
@@ -37228,14 +37268,11 @@ voethrusts.cfd
 ||176.65.139.220^$all
 ||176.65.139.226^$all
 ||176.65.139.227^$all
-||176.65.139.229^$all
 ||176.65.139.234^$all
 ||176.65.139.251^$all
 ||176.65.139.253^$all
 ||176.65.148.10^$all
 ||176.65.148.112^$all
-||176.65.149.45^$all
-||176.90.114.114^$all
 ||176.net.jumia.ma^
 ||176060.com^
 ||1760880568519-windy-hammer.surge.sh^$all
@@ -37250,6 +37287,7 @@ voethrusts.cfd
 ||177.247.2.226^$all
 ||177.70.102.232^$all
 ||177.71.55.138^$all
+||177.73.251.204^$all
 ||1771restaurant.com^
 ||1773x.to^
 ||1777.ru/*/pages_scroll_fix.
@@ -37265,6 +37303,7 @@ voethrusts.cfd
 ||178.176.204.240^$all
 ||178.176.204.250^$all
 ||178.183.208.134^$all
+||178.183.70.63^$all
 ||178.198.246.24^$all
 ||178.210.83.9^$all
 ||178.211.135.170^$all
@@ -37283,7 +37322,9 @@ voethrusts.cfd
 ||178d4a7678.11b5e84fb9.com^
 ||178gg.com^
 ||178st.com^
+||179.108.89.220^$all
 ||179.214.0.18^$all
+||179.49.213.85^$all
 ||179.51.168.26^$all
 ||179.60.216.19^$all
 ||179.63.168.2^$all
@@ -37347,8 +37388,10 @@ voethrusts.cfd
 ||180.117.143.21^$all
 ||180.148.33.24^$all
 ||180.149.198.22^$all
+||180.191.16.46^$all
 ||180.191.228.88^$all
 ||180.191.42.15^$all
+||180.245.62.133^$all
 ||180.76.137.37^$all
 ||180.76.153.78^$all
 ||180.76.2.18^
@@ -37384,7 +37427,6 @@ voethrusts.cfd
 ||180solutions.com^
 ||180xpjdc.net^
 ||181.129.100.123^$all
-||181.129.177.162^$all
 ||181.129.182.138^$all
 ||181.143.114.106^$all
 ||181.174.231.21^$all
@@ -37403,7 +37445,10 @@ voethrusts.cfd
 ||182.112.29.108^$all
 ||182.112.47.242^$all
 ||182.113.27.175^$all
+||182.114.251.47^$all
+||182.116.13.118^$all
 ||182.116.69.71^$all
+||182.117.126.146^$all
 ||182.119.56.108^$all
 ||182.119.63.98^$all
 ||182.121.150.144^$all
@@ -37412,21 +37457,17 @@ voethrusts.cfd
 ||182.124.168.71^$all
 ||182.126.103.176^$all
 ||182.126.126.247^$all
-||182.126.241.161^$all
-||182.126.249.24^$all
-||182.126.41.95^$all
-||182.126.85.231^$all
-||182.127.153.253^$all
+||182.126.90.217^$all
+||182.127.127.166^$all
+||182.127.222.91^$all
 ||182.127.4.126^$all
-||182.127.80.192^$all
-||182.127.86.110^$all
+||182.146.222.235^$all
 ||182.163.114.232^$all
-||182.179.193.124^$all
+||182.176.116.4^$all
 ||182.234.159.20^$all
 ||182.240.197.143^$all
 ||182.253.115.155^$all
 ||182.253.115.156^$all
-||182.52.128.240^$all
 ||182.52.51.239^$all
 ||182.72.167.124^$all
 ||182.73.129.30^$all
@@ -37442,10 +37483,8 @@ voethrusts.cfd
 ||1827marketing.com^
 ||1828-dictionary.com^
 ||182cao.com^
-||183.23.134.193^$all
 ||183.23.134.221^$all
 ||183.83.186.77^$all
-||183.91.77.253^$all
 ||183.us^
 ||183757.com^
 ||18376767022.com^
@@ -37496,7 +37535,6 @@ voethrusts.cfd
 ||185.49.168.84^$all
 ||185.71.69.198^$all
 ||185.8.233.160^$all
-||185.82.165.26^$all
 ||185.9.139.117^$all
 ||1850mvp.top^$all
 ||18532.org^
@@ -37538,7 +37576,7 @@ voethrusts.cfd
 ||188.118.38.161^$all
 ||188.124.151.9^$all
 ||188.147.175.138^$all
-||188.170.48.204^$all
+||188.162.88.253^$all
 ||188.212.158.75^$all
 ||188.234.94.61^$all
 ||188.243.36.33^$all
@@ -37558,7 +37596,6 @@ voethrusts.cfd
 ||188.42.84.23^
 ||188.42.84.23^$popup
 ||188.44.110.215^$all
-||188.59.39.97^$all
 ||188.72.219.36^
 ||188.72.6.218^$all
 ||188.82.127.68^$all
@@ -37796,11 +37833,12 @@ voethrusts.cfd
 ||19515bia.de^
 ||19526.help^
 ||195bc374d1.552f08aab2.com^
-||196.188.75.58^$all
 ||196.189.101.82^$all
-||196.189.35.226^$all
 ||196.189.40.159^$all
-||196.191.231.12^$all
+||196.189.68.239^$all
+||196.189.69.192^$all
+||196.190.105.170^$all
+||196.190.133.180^$all
 ||196.217.5.142^$all
 ||196.251.107.186^$all
 ||196.251.121.142^$all
@@ -37815,10 +37853,8 @@ voethrusts.cfd
 ||1968pennies.com^
 ||1969bet.com^
 ||196a5595bc.e0b2d6a445.com^
-||197.157.195.161^$all
 ||197.159.1.58^$all
 ||197.248.25.27^$all
-||197.44.77.98^$all
 ||1970.com^
 ||19700902.xyz^
 ||19706903.xyz^
@@ -38813,7 +38849,6 @@ voethrusts.cfd
 ||2.07c225f3.online^
 ||2.1010pic.com^
 ||2.136.203.189^$all
-||2.184.46.165^$all
 ||2.1lr.de^
 ||2.27.203.59^$all
 ||2.27.248.149^$all
@@ -38860,6 +38895,7 @@ voethrusts.cfd
 ||20.edge46.testandtarget.omniture.com^
 ||20.notifysrv.com^
 ||200-rockergod.com^
+||200.115.102.16^$all
 ||200.14.250.72^$all
 ||200.29.120.130^$all
 ||200.54.221.234^$all
@@ -38897,7 +38933,6 @@ voethrusts.cfd
 ||20091222.com^
 ||200pills.com^
 ||200summit.com^
-||201.16.236.187^$all
 ||201.7.16.231^$all
 ||201.94.181.7^$all
 ||201.98.176.195^$all
@@ -38959,11 +38994,12 @@ voethrusts.cfd
 ||201c741203.c40e234db8.com^
 ||201mb.com^
 ||201vulkanvegas.com^
-||202.1.26.68^$all
+||202.105.196.30^$all
 ||202.129.16.172^$all
 ||202.131.234.26^$all
 ||202.131.244.202^$all
 ||202.137.141.244^$all
+||202.139.20.12^$all
 ||202.148.20.138^$all
 ||202.148.5.34^$all
 ||202.155.8.56^$all
@@ -38979,13 +39015,12 @@ voethrusts.cfd
 ||202.53.164.46^$all
 ||202.57.39.2^$all
 ||202.57.43.234^$all
-||202.62.41.165^$all
 ||202.74.75.181^$all
 ||202.78.201.3^$all
-||202.88.234.44^$all
 ||202.95.11.173^$all
 ||202.95.11.181^$all
 ||202.95.11.209^$all
+||202.97.172.7^$all
 ||2020-film.org^
 ||202007141141366425038.onamaeweb.jp^$all
 ||20201314.cn^
@@ -39035,6 +39070,7 @@ voethrusts.cfd
 ||202warehouses.net^
 ||202xs.com^
 ||203.121.236.145^$all
+||203.160.9.182^$all
 ||203.177.251.31^$all
 ||203.177.28.149^$all
 ||203.187.227.112^$all
@@ -39168,23 +39204,6 @@ voethrusts.cfd
 ||21.huanqiu.com^
 ||21.zhaozongjie.com^
 ||210.16.163.207^$all
-||210.208.104.156^$all
-||210.208.106.68^$all
-||210.208.110.130^$all
-||210.208.110.147^$all
-||210.208.110.172^$all
-||210.208.110.20^$all
-||210.208.110.21^$all
-||210.208.110.221^$all
-||210.208.110.42^$all
-||210.208.110.51^$all
-||210.208.111.100^$all
-||210.208.111.220^$all
-||210.208.111.234^$all
-||210.208.111.26^$all
-||210.208.111.36^$all
-||210.208.111.74^$all
-||210.208.116.107^$all
 ||210.71.197.175^$all
 ||210.91.88.90^$all
 ||21010010x1.weebly.com^$all
@@ -39196,6 +39215,7 @@ voethrusts.cfd
 ||211.186.82.229^$all
 ||211.194.20.7^$all
 ||211.219.49.173^$all
+||211.93.92.3^$all
 ||2115305619.badesofa.de^
 ||2116844.com^
 ||212.107.232.167^$all
@@ -39217,7 +39237,6 @@ voethrusts.cfd
 ||212.47.219.162/banners
 ||212.85.166.12^$all
 ||212.93.103.10^$all
-||212.98.186.8^$all
 ||212121.ru^
 ||212fea9f61.com^
 ||212investment.com^
@@ -39279,16 +39298,19 @@ voethrusts.cfd
 ||217brewworks.com^
 ||218.155.74.6^$all
 ||218.200.94.63^$all
-||218.59.14.244^$all
+||218.56.240.110^$all
 ||218.61.111.28^$all
 ||218.74.50.31^$all
 ||218080.com^
 ||2187999.com^
 ||218emo1t.de^
 ||219.155.202.88^$all
+||219.156.33.66^$all
 ||219.156.92.2^$all
 ||219.157.191.23^$all
 ||219.157.32.156^$all
+||219.157.32.59^$all
+||219.157.9.34^$all
 ||2196tka.top^$all
 ||2198785035.luamaya.com^
 ||21a3ff363a.com^
@@ -39345,10 +39367,8 @@ voethrusts.cfd
 ||220.158.234.65^$all
 ||220.178.8.154^$all
 ||220.180.99.71^$all
-||220.198.113.253^$all
 ||220.198.114.55^$all
-||220.201.155.194^$all
-||220.202.88.154^$all
+||220.80.244.130^$all
 ||220.lv/rek_html/
 ||220824799531836837.weebly.com^$all
 ||220913.xyz^
@@ -39358,8 +39378,8 @@ voethrusts.cfd
 ||221.1.225.71^$all
 ||221.14.191.189^$all
 ||221.143.49.222^$all
-||221.15.13.174^$all
 ||221.15.189.129^$all
+||221.200.214.69^$all
 ||221.202.215.246^$all
 ||221.3.87.188^$all
 ||22153974.branch.rocks^
@@ -39367,28 +39387,26 @@ voethrusts.cfd
 ||221jn8219t6231zbom2z2b.rest^
 ||221settings.com^
 ||222-t.com^
+||222.124.53.235^$all
 ||222.127.154.221^$all
+||222.127.158.71^$all
 ||222.127.214.87^$all
 ||222.127.227.201^$all
 ||222.127.254.114^$all
-||222.127.48.44^$all
 ||222.127.49.242^$all
-||222.127.60.98^$all
 ||222.127.63.144^$all
 ||222.127.68.176^$all
 ||222.127.73.23^$all
 ||222.127.76.40^$all
-||222.127.77.227^$all
 ||222.137.112.17^$all
 ||222.137.123.140^$all
-||222.137.77.134^$all
-||222.139.33.207^$all
+||222.138.103.80^$all
+||222.138.213.73^$all
+||222.139.38.170^$all
 ||222.140.160.32^$all
-||222.140.185.241^$all
 ||222.140.195.133^$all
 ||222.141.140.83^$all
-||222.141.37.15^$all
-||222.142.192.177^$all
+||222.142.240.150^$all
 ||222.168.180.83^$all
 ||222.219.74.202^$all
 ||222.239.87.50^$all
@@ -39410,6 +39428,7 @@ voethrusts.cfd
 ||222srrr.weebly.com^$all
 ||223.105.50.190^$all
 ||223.108.58.13^$all
+||223.151.74.18^$all
 ||223.29.226.200^$all,domain=~svindelfup.*
 ||223.76.100.36^$all
 ||223.82.83.143^$all
@@ -39564,7 +39583,6 @@ voethrusts.cfd
 ||23.224.89.2^
 ||23.231.151.252^
 ||23.238.39.247^$all
-||23.239.12.230^$all
 ||23.254.227.236^$all
 ||23.83.114.131^
 ||23.83.67.164^
@@ -40057,22 +40075,21 @@ voethrusts.cfd
 ||27.18.153.133^$all
 ||27.206.75.222^$all
 ||27.206.86.189^$all
+||27.207.36.237^$all
 ||27.210.89.227^$all
 ||27.215.121.8^$all
 ||27.215.123.199^$all
+||27.215.208.17^$all
 ||27.217.67.118^$all
-||27.37.101.200^$all
 ||27.37.226.177^$all
 ||27.37.227.211^$all
 ||27.37.230.125^$all
 ||27.44.144.105^$all
 ||27.44.144.176^$all
 ||27.44.144.219^$all
+||27.44.144.229^$all
 ||27.44.145.119^$all
-||27.44.146.245^$all
 ||27.44.147.16^$all
-||27.44.147.195^$all
-||27.44.147.221^$all
 ||27.72.159.162^$all
 ||27.96.228.235^$all
 ||270.at^
@@ -40097,7 +40114,6 @@ voethrusts.cfd
 ||27547.com^
 ||275500.com^
 ||275846.xyz^
-||275846.xyz^$all
 ||2759c90491.com^
 ||2761e0b4e7.847ab3dcab.com^
 ||2762571e618e7c91eb99650beeb61ef0d6400860e2ee83a520eff58f.com^
@@ -40823,7 +40839,6 @@ voethrusts.cfd
 ||2y3tg2y.skin^$all
 ||2y64nu7fyutwrpvr7hi.cyou^
 ||2y6kicbpz.pjzub86c38jwhy2wuwq6f.cfd^
-||2y84lu1dha3l5cmutke.vercel.app^$all
 ||2yahoo.com^
 ||2ydian.com^
 ||2yf23u.com^
@@ -41735,14 +41750,14 @@ voethrusts.cfd
 ||36.138.125.70^$all
 ||36.154.188.50^$all
 ||36.158.34.122^$all
-||36.49.54.62^$all
 ||36.64.210.218^$all
 ||36.64.227.134^$all
 ||36.66.139.36^$all
 ||36.66.151.7^$all
 ||36.66.168.49^$all
 ||36.67.246.82^$all
-||36.70.231.123^$all
+||36.69.85.18^$all
+||36.70.140.222^$all
 ||36.70.239.70^$all
 ||36.70.76.174^$all
 ||36.88.180.115^$all
@@ -41882,7 +41897,6 @@ voethrusts.cfd
 ||365dmp.com^
 ||365dmp.com^$third-party
 ||365f1.com^
-||365haisowas.webflow.io^$all
 ||365huo.xyz^
 ||365inspiredperceptive.com^
 ||365internacional.webcindario.com^$all
@@ -41962,6 +41976,7 @@ voethrusts.cfd
 ||36pn.com^
 ||36re9gnar.com^
 ||36wt63.skin^$all
+||36ynxfq51xpkmc.cfd^
 ||37.1.209.213^
 ||37.1.213.100^
 ||37.1.213.100^$all
@@ -41971,6 +41986,7 @@ voethrusts.cfd
 ||37.143.133.215^$all
 ||37.157.212.138^$all
 ||37.157.219.158^$all
+||37.192.22.166^$all
 ||37.220.26.135^
 ||37.220.26.135^$3p
 ||37.220.26.135^$third-party
@@ -41983,9 +41999,11 @@ voethrusts.cfd
 ||37.233.63.185^$all
 ||37.252.66.188^$all
 ||37.252.69.10^$all
+||37.255.210.242^$all
 ||37.255.217.87^$all
 ||37.26.86.216^$all
 ||37.27.88.135.sslip.io^
+||37.28.177.69^$all
 ||37.34.230.9^$all
 ||37.57.33.51^$all
 ||37.ru^*/?bxrand=
@@ -42083,7 +42101,6 @@ voethrusts.cfd
 ||37zhilian.com^
 ||38.33.15.*.gif
 ||38.54.37.216^$all
-||38.56.20.112^$all
 ||380.bu2z.com^
 ||380.hotpix.fr^
 ||380.tw^
@@ -42124,6 +42141,7 @@ voethrusts.cfd
 ||3856373.notify6.com^
 ||385678.com^
 ||3858841.notify6.com^
+||3858af0c20.com^
 ||3862ce0006.com^
 ||3863dgpcpb.vuudoa.shop^
 ||3865zrt.top^$all
@@ -42185,14 +42203,14 @@ voethrusts.cfd
 ||38v4pfmcil.epw95cqig5u67996wcgk8phjv6z96l.cyou^
 ||39.100.33.142^$all
 ||39.105.223.127^$all
-||39.38.202.122^$all
-||39.57.99.253^$all
 ||39.74.230.164^$all
 ||39.75.161.67^$all
 ||39.76.18.12^$all
 ||39.76.242.244^$all
+||39.78.250.235^$all
 ||39.81.37.15^$all
 ||39.90.144.112^$all
+||39.90.145.83^$all
 ||3903162.notify6.com^
 ||3903164.notify6.com^
 ||3903ut54.com^
@@ -43122,23 +43140,23 @@ voethrusts.cfd
 ||42.178.11.131^$all
 ||42.178.147.118^$all
 ||42.178.170.94^$all
-||42.178.190.140^$all
 ||42.178.89.250^$all
 ||42.179.116.166^$all
 ||42.180.13.250^$all
 ||42.224.123.215^$all
+||42.224.168.180^$all
 ||42.224.198.3^$all
 ||42.224.96.58^$all
-||42.225.230.76^$all
 ||42.225.242.148^$all
-||42.226.72.56^$all
 ||42.228.236.174^$all
 ||42.228.32.191^$all
+||42.229.167.187^$all
 ||42.229.246.211^$all
-||42.230.41.157^$all
 ||42.230.47.19^$all
 ||42.231.71.197^$all
-||42.237.52.30^$all
+||42.232.224.97^$all
+||42.233.214.220^$all
+||42.234.116.73^$all
 ||42.238.120.21^$all
 ||42.238.170.243^$all
 ||42.238.254.71^$all
@@ -43159,10 +43177,7 @@ voethrusts.cfd
 ||42.58.187.167^$all
 ||42.59.74.226^$all
 ||42.6.74.84^$all
-||42.7.231.131^$all
 ||42.85.205.103^$all
-||42.86.128.122^$all
-||42.86.62.73^$all
 ||42.by31x2o62bknl6996wv.cyou^
 ||42017531ea.811b27ab9f.com^
 ||4207008.com^
@@ -43397,18 +43412,13 @@ voethrusts.cfd
 ||44x.io^$script
 ||44ye.com^
 ||45-33-63-236.cprapid.com^$all
-||45-33-85-29.cprapid.com^$all
-||45.112.126.123^$all
 ||45.118.79.103^$all
 ||45.125.44.137^$all
 ||45.13.186.37^$all
 ||45.135.193.63^$all
-||45.148.10.165^$all
 ||45.148.148.89^$all
 ||45.183.184.74^$all
-||45.194.88.27^$all
 ||45.198.224.131^$all
-||45.198.224.168^$all
 ||45.207.157.28^$all
 ||45.231.145.15^$all
 ||45.234.234.14^$all
@@ -43476,13 +43486,13 @@ voethrusts.cfd
 ||46.151.182.131^$all
 ||46.151.182.200^$all
 ||46.151.182.208^$all
-||46.175.139.20^$all
 ||46.216.199.241^$all
 ||46.218.75.240^$all
 ||46.236.65.106^$all
 ||46.236.65.141^$all
 ||46.236.65.235^$all
 ||46.236.65.252^$all
+||46.250.54.75^$all
 ||46.77.52.190^$all
 ||46.8.46.114^$all
 ||460bet.click^
@@ -43544,6 +43554,7 @@ voethrusts.cfd
 ||47.104.96.89^$all
 ||47.105.36.109^$all
 ||47.115.37.164^$all
+||47.120.32.72^$all
 ||47.121.138.211^$all
 ||47.121.184.138^$all
 ||47.201.14.128^$all
@@ -43559,6 +43570,7 @@ voethrusts.cfd
 ||47.237.167.249^$all
 ||47.239.127.71^$all
 ||47.242.66.123^$all
+||47.242.74.93^$all
 ||47.245.111.51^$all
 ||47.245.84.42^$all
 ||47.245.89.183^$all
@@ -43695,7 +43707,6 @@ voethrusts.cfd
 ||49.232.126.36^$all
 ||49.51.43.12^$all
 ||49.64.226.151^$all
-||49.80.7.221^$all
 ||4903526a67a3bba64deb43443cef4f7a.top^
 ||4920b177cb.com^
 ||492733704185584515.academyforconsciousculture.com^
@@ -44283,8 +44294,8 @@ voethrusts.cfd
 ||5.149.184.170^$all
 ||5.166.114.0^$all
 ||5.167.233.232^$all
-||5.167.65.75^$all
 ||5.182.210.174^$all
+||5.185.55.173^$all
 ||5.189.149.171^$all
 ||5.1tb588z5f5o1bwjp6ok9ym29r7i.cyou^
 ||5.202.101.153^$all
@@ -44866,6 +44877,7 @@ voethrusts.cfd
 ||57558.com^
 ||57573zubo36833.com^
 ||5761b6af55.com^
+||576347.xyz^$all
 ||5768a649f2.612fc22a02.com^
 ||5769422.notify6.com^
 ||576e5a1d1a.08082c0ad5.com^
@@ -44907,9 +44919,7 @@ voethrusts.cfd
 ||58.216.207.82^$all
 ||58.22.17.77^$all
 ||58.37.101.152^$all
-||58.47.105.165^$all
 ||58.49.210.250^$all
-||58.65.210.132^$all
 ||58.xgo.com.cn^
 ||5812afc7cb.com^
 ||5813e74b18.com^
@@ -44918,6 +44928,7 @@ voethrusts.cfd
 ||58189ace57.634263882b.com^
 ||581b.pandasuite.io^
 ||583412.lat^
+||584032.xyz^$all
 ||5842114.notify6.com^
 ||5848sad2-d5s5a.vip^
 ||5853f04e7c.83c6db1e10.com^
@@ -44961,9 +44972,10 @@ voethrusts.cfd
 ||59.103.116.83^$all
 ||59.110.28.230^$all
 ||59.110.9.189^$all
-||59.180.135.43^$all
 ||59.56.110.227^$all
-||59.96.139.118^$all
+||59.96.140.102^$all
+||59.96.140.143^$all
+||59.96.142.76^$all
 ||590233ee4fbb3.cdn.sohucs.com^
 ||590578zugbr8.com^
 ||590ea594ffa4.top^
@@ -45342,6 +45354,7 @@ voethrusts.cfd
 ||5rgxlg76b8ryhv.cyou^
 ||5rjmpws5csezv.akamaized.net^
 ||5rjz91kppoz925o95vqhwt3e1.cfd^
+||5ro7elq94vn9eko8rpp.rest^
 ||5rocks.io^
 ||5rx58mikcenx5ozf2f.cfd^
 ||5rxypm.shop^$all
@@ -45469,6 +45482,7 @@ voethrusts.cfd
 ||5yrra.deshuangwang.cn^
 ||5z-2b6b7616f94640c2840d1841e1ac24c3.ecs.us-east-1.on.aws^
 ||5z6by8.info^$all
+||5z8xfpilv3hpxmrj.cfd^
 ||5z8xi2rj04jyh302fd.s3.ap-southeast-1.amazonaws.com^$all
 ||5zb0xuoeglfx.cit-dev.stylumia.com^
 ||5zp3hguhgg.data.adobedc.net^
@@ -45485,21 +45499,16 @@ voethrusts.cfd
 ||6.kl8f4kge3c3zfh5v1jziqefpbmcv4rzx.cfd^
 ||60.13.81.224^$all
 ||60.13.84.124^$all
-||60.161.2.64^$all
 ||60.162.209.209^$all
 ||60.186.209.6^$all
 ||60.19.7.138^$all
 ||60.190.139.164^
+||60.198.35.226^$all
 ||60.216.121.136^$all
 ||60.216.131.62^$all
 ||60.217.161.244^$all
-||60.22.179.222^$all
 ||60.22.23.50^$all
 ||60.22.254.252^$all
-||60.23.235.89^$all
-||60.23.237.106^$all
-||60.23.238.117^$all
-||60.23.238.222^$all
 ||60.24.121.218^$all
 ||60.6.62.96^$all
 ||6000function.com^
@@ -45556,6 +45565,7 @@ voethrusts.cfd
 ||60recheiosincriveis.com^
 ||60sk.ru^
 ||60sk.ru^$third-party
+||61.137.128.200^$all
 ||61.137.132.225^$all
 ||61.137.200.53^$all
 ||61.137.206.222^$all
@@ -45565,6 +45575,8 @@ voethrusts.cfd
 ||61.244.254.110^$all
 ||61.52.104.224^$all
 ||61.52.158.118^$all
+||61.52.195.226^$all
+||61.53.122.4^$all
 ||61.53.92.5^$all
 ||61.54.235.99^$all
 ||61.69.169.69^$all
@@ -45709,7 +45721,6 @@ voethrusts.cfd
 ||64.89.160.97^$all
 ||64.89.161.130^$all
 ||64.89.161.131^$all
-||64.89.161.187^$all
 ||64.89.163.22^$all
 ||64.89.163.63^$all
 ||64.csmayo.com^
@@ -45819,7 +45830,6 @@ voethrusts.cfd
 ||66.185.26.66^$all
 ||66.196.62.177^$all
 ||66.228.52.30^
-||66.39.79.68^$all
 ||66.71.242.67^$all
 ||66.71.242.68^$all
 ||66.71.242.69^$all
@@ -45929,7 +45939,6 @@ voethrusts.cfd
 ||6768wa654.firebaseapp.com^$all
 ||6768wa654.web.app^$all
 ||676970.xyz^
-||676970.xyz^$all
 ||677.nfnt9g8bq8phgkf9ox91m4v9uewko6uu5gl.cyou^
 ||6771688.cc^
 ||6788765.vercel.app^$all
@@ -46567,6 +46576,7 @@ voethrusts.cfd
 ||7224fd9633.5d4d1bb29b.com^
 ||7228.eu^
 ||722pod.net^
+||7246ae5b07.com^
 ||724969cf37.com^
 ||7250xdj0x.com^
 ||7265wfgf.lat^$all
@@ -46644,7 +46654,6 @@ voethrusts.cfd
 ||74-248-232-196.cprapid.com^$all
 ||74-248-32-242.cprapid.com^$all
 ||74-50-118-199.static.hvvc.us^$all
-||74.194.191.52^$all
 ||74.208.64.80.sslip.io^
 ||74.55.82.102^
 ||74.62.255.234^$all
@@ -46797,6 +46806,8 @@ voethrusts.cfd
 ||77.247.178.41^$third-party
 ||77.46.170.18^$all
 ||77.53.231.107^$all
+||77.89.245.118^$all
+||77.90.185.107^$all
 ||7701534.emails.tntdrama.com^
 ||77026.bodis.com^
 ||770casino-online.fr^
@@ -47822,13 +47833,11 @@ voethrusts.cfd
 ||85.130.160.219^$all
 ||85.137.245.141^$all
 ||85.137.54.178^$all
-||85.141.98.244^$all
 ||85.15.114.111^$all
 ||85.159.213.158^$all
 ||85.163.234.15^$all
 ||85.17.76.181^$image
 ||85.187.54.142^$all
-||85.187.82.120^$all
 ||85.203.4.64^$all
 ||85.219.201.2^$all
 ||85.25.72.70^$all
@@ -47986,6 +47995,7 @@ voethrusts.cfd
 ||88-f.net^
 ||88-sms.com^
 ||88-web-shaw.weebly.com^$all
+||88.115.204.4^$all
 ||88.116.62.226^$all
 ||88.135.26.83^$all
 ||88.150.149.92/~cosiker/$third-party
@@ -48129,6 +48139,7 @@ voethrusts.cfd
 ||89.12b2xh3i9culz5v8xbj5vkgknr.cyou^
 ||89.184.185.198^$all
 ||89.185.82.24^$all
+||89.189.181.54^$all
 ||89.216.107.99^$all
 ||89.231.14.137^$all
 ||89.28.58.131^$all
@@ -48564,7 +48575,6 @@ voethrusts.cfd
 ||91-cdn.com/images/amazon-microsite/m-banner-amazon-$domain=91mobiles.com
 ||91.116.142.114/iframe$domain=marca.com
 ||91.116.142.114/iframeNOTICIA2016/
-||91.127.103.137^$all
 ||91.128.169.28^$all
 ||91.147.91.21^$all
 ||91.185.1.70^$all
@@ -48674,7 +48684,6 @@ voethrusts.cfd
 ||91xueli.com.cn^
 ||91ymdl.site^
 ||91yudao.com^
-||92.118.39.62^$all
 ||92.119.157.113^$all
 ||92.127.156.174^$all
 ||92.150.82.148^$all
@@ -48788,11 +48797,9 @@ voethrusts.cfd
 ||94.130.167.163^
 ||94.142.63.8^$all
 ||94.156.152.110^$all
-||94.156.152.18^$all
 ||94.156.166.167^$all
 ||94.156.166.84^$all
 ||94.203.254.14^$all
-||94.230.141.123^$all
 ||94.251.5.51^$all
 ||94.26.90.90^$all
 ||94.28.39.38^$all
@@ -48845,7 +48852,6 @@ voethrusts.cfd
 ||95.158.175.214^$all
 ||95.170.113.242^$all
 ||95.170.116.28^$all
-||95.170.119.100^$all
 ||95.170.119.57^$all
 ||95.211.125.226^
 ||95.211.125.226^$3p
@@ -48855,12 +48861,10 @@ voethrusts.cfd
 ||95.230.215.65^$all
 ||95.255.114.11^$all
 ||95.43.75.2^$all
-||95.43.76.100^$all
 ||95.47.248.146^$all
 ||95.54.82.154^$all
+||95.56.232.109^$all
 ||95.62.202.150^$all
-||95.73.227.80^$all
-||95.9.35.137^$all
 ||95.93.227.58^$all
 ||95.cx^
 ||950197453774939.wt-eu02.net^
@@ -48915,10 +48919,8 @@ voethrusts.cfd
 ||95ziegv587wohx9rzj.cfd^
 ||96.11.145.107^$all
 ||96.125.189.7^$all
-||96.245.232.157^$all
 ||96.44.167.210^$all
 ||96.66.24.241^$all
-||96.9.87.21^$all
 ||960021c71c.com^
 ||961.com^
 ||96138.net^
@@ -48964,6 +48966,7 @@ voethrusts.cfd
 ||9715e7fea4.com^
 ||9716b35c74153710.com^
 ||973.com^
+||97314.cfd^$all
 ||9731a129-07d2-49ae-a391-96ea531d8739-00-1mons95f216an.riker.replit.dev^$all
 ||9735476.sender.skyscanner.com^
 ||9735476.sender.skyscanner.net^
@@ -59636,6 +59639,7 @@ voethrusts.cfd
 ||acyesislepismaunboxed.cyou^
 ||acyfb.com^
 ||acylbirri.digital^
+||acylsowsen.cyou^
 ||acystiasodaic.shop^
 ||acyxssqjdvfaj.space^
 ||aczannbtyhuw.com^
@@ -73253,7 +73257,6 @@ voethrusts.cfd
 ||aek.eus^
 ||aeke-smart.com^
 ||aekglnpxpfsq.com^
-||aekpeck.com^$all
 ||aekrfkxnlisls.site^
 ||aelhisqw.shop^
 ||aelionvel.com^
@@ -75589,6 +75592,7 @@ voethrusts.cfd
 ||ahsak.so-avant-garde.com^
 ||ahscdn.com^
 ||ahscdn.com^$popup
+||ahsffnyanivooqh.com^
 ||ahshyallegrolokalnie.pl-835347547.click^$all
 ||ahskummakjt.com^
 ||ahsmrabukawc.in^
@@ -76346,6 +76350,7 @@ voethrusts.cfd
 ||airsonett.se^
 ||airspringworld.*/getvideos&*&name=
 ||airst.giize.com^
+||airstayroom.com^$all
 ||airstreamofchicago.com^
 ||airstreamwebmain.weebly.com^$all
 ||airtable.com/appbyWeDxQTPeK2EA/shrceSDj4b0hX6qWs^$all
@@ -77564,6 +77569,7 @@ voethrusts.cfd
 ||alaskak.com^
 ||alasriah.ae^
 ||alasvow.com^
+||alatau-proof-ledger.pages.dev^$all
 ||alatedpume.shop^
 ||alau.kz/wp-content/uploads/*-680h100_
 ||alau.kz/wp-content/uploads/*/banner*.gif
@@ -83727,7 +83733,6 @@ voethrusts.cfd
 ||alturaadvertising.com^$third-party
 ||alturapatrimoniov30.net^
 ||alturarituals.shop^
-||alturl.com/js6ds^$all
 ||altusmediagroupinc.go2cloud.org^$popup
 ||altusmonvex-ai.net^
 ||altusmonvexsoft.digital^
@@ -84113,6 +84118,7 @@ voethrusts.cfd
 ||amazingcutevoluntarily.com^
 ||amazingengweelectricbikes.shop^
 ||amazingentri.stape.dev^
+||amazinglea.com^
 ||amazinglybrilliant.com.au^
 ||amazinglyperception.com^
 ||amazingmeaning.com^
@@ -84470,6 +84476,7 @@ voethrusts.cfd
 ||ambienteseguro.click^$all
 ||ambientplatform.vn^
 ||ambientservicescentre.com^
+||ambienttwantgibuses.cyou^
 ||ambientvaluessalad.com^
 ||ambierdhikrs.qpon^
 ||ambiguellice.shop^
@@ -94602,6 +94609,7 @@ voethrusts.cfd
 ||ananas.lecercleboxing-lyon.com^
 ||ananasjuice.bellis.io^
 ||anandabazar.com/polopoly_fs/*/image/image.gif
+||anandhospital.co.in^$all
 ||anandsr-dev.github.io^$all
 ||ananeosi-melous.com^
 ||ananeosi-melous.com^$all
@@ -95124,6 +95132,7 @@ voethrusts.cfd
 ||aniapi.com^
 ||aniclub.su/rtr/
 ||anidublink.ru^
+||anightssalband.cfd^
 ||anigo.to^
 ||anigo.to^$third-party
 ||anijjm.winkelstraat.nl^
@@ -95585,6 +95594,7 @@ voethrusts.cfd
 ||anontexter.com^
 ||anontimes.com^
 ||anonym.data.funkedigital.de^
+||anonymasiden.cfd^
 ||anonymco.com^
 ||anonymised.io^
 ||anonymised.io^$third-party
@@ -96014,6 +96024,7 @@ voethrusts.cfd
 ||anuraclo.com^
 ||anuralicelike.shop^
 ||anuricridable.com^
+||anushka-git15.github.io^$all
 ||anuxdyui.com^
 ||anvaga.ru/partners_block/
 ||anveriq.com^
@@ -96295,7 +96306,6 @@ voethrusts.cfd
 ||aolianshengwu.com^
 ||aoljk-po0c.weebly.com^$all
 ||aoljwa.cuerpodiez.com^
-||aolm.vercel.app^$all
 ||aolmaiillogin.blogspot.$doc
 ||aolplatforms.com^
 ||aolqejkjfgxpr.website^
@@ -101448,6 +101458,7 @@ voethrusts.cfd
 ||apple-pay-casino.de^
 ||apple-pie.in^
 ||apple-resources.s3.amazonaws.com^
+||apple-sun95.pages.dev^$all
 ||apple-track-location.hereweb.com^
 ||apple-ui.com^
 ||apple-vn.shop^
@@ -102653,6 +102664,7 @@ voethrusts.cfd
 ||aqoifpujbbptd.space^
 ||aqorez.yamo.bio^
 ||aqouep.aquaphor.ru^
+||aqoypamhofdah.site^
 ||aqoyvemgfxamkb.com^
 ||aqpblccmofen.com^
 ||aqphfgh.cc^
@@ -103984,6 +103996,7 @@ voethrusts.cfd
 ||arullelb.com^
 ||arumhelps.com^
 ||aruna.lk/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Faruna-81457.appspot.com%2Fo%2Fsliders%252FeTJT3Rb2RauqGc6lA9Ug%3Falt%3Dmedia%26token%3D18f16a8a-0aba-4e68-93ab-8fd4e4d35d04
+||arunca.tussledigital.net.au^$all
 ||arundo.com^
 ||aruntacondo.com^
 ||aruoyf.peterhahn.ch^
@@ -104341,7 +104354,6 @@ voethrusts.cfd
 ||asde.getstride.com^
 ||asdf.eldos.xyz^
 ||asdfasdfmail.com^
-||asdfbnmxcvbnm-dpggr1q8x0z1.edgeone.dev^$all
 ||asdfg23.com^
 ||asdfgh-da978.web.app^$all
 ||asdfghjklbnm-lpbgjju0gp.edgeone.dev^$all
@@ -105046,7 +105058,8 @@ voethrusts.cfd
 ||asset.tabloidbintang.com^
 ||asset.turktelekom.com.tr/SiteAssets/javascript/smartbanner.js
 ||asset.vasozyte.com^
-||assetcsn.site/GIF/$third-party
+||assetcsn.site/GIF/$media,redirect=noopmp4-1s
+||assetcsn.site/GIF/$third-party,image
 ||assetcsn.site/banner-$third-party
 ||assetcsn.site/banner/$third-party
 ||assetcsn.site/image/*.gif$third-party
@@ -105547,7 +105560,6 @@ voethrusts.cfd
 ||asteriobid.com^
 ||asteriresearch.com^
 ||asteriresearch.com^$third-party
-||asteriskayush007.github.io^$all
 ||asterisksubstancecognizance.com^
 ||asterix-af2a5.firebaseapp.com^$all
 ||asterix-af2a5.web.app^$all
@@ -105694,6 +105706,7 @@ voethrusts.cfd
 ||asukabeh.my.id^
 ||asukabeh.my.id^$popup
 ||asukedrevenfe.com^
+||asukpualpwd.com^
 ||asuler.ru^$third-party
 ||asuma.ru/admachina/
 ||asumi.shinobi.jp^
@@ -106472,6 +106485,7 @@ voethrusts.cfd
 ||atropiapotoo.cfd^
 ||atrousrudish.qpon^
 ||atrtijojcrif.com^
+||atrunjgdjfyku.space^
 ||atrxushrakm.in^
 ||ats.alot.com^
 ||ats.auction.co.kr^
@@ -107414,7 +107428,6 @@ voethrusts.cfd
 ||aunsaick.com^
 ||aunsoocmunoan.net^
 ||aunstollarinets.com^
-||auntenticar-2-pasos--revision36593.replit.app^$all
 ||auntieminiature.com^
 ||auntiesurfeatable.com^
 ||auntiewolfappraise.com^
@@ -107626,6 +107639,7 @@ voethrusts.cfd
 ||auspolice.com^
 ||ausposaunen.de^
 ||auspost-ticket.com^
+||auspost.addqws.com^$all
 ||auspost.customerserviceqd.com^$all
 ||auspost.customerserviceqe.com^$all
 ||auspost.customerserviceqf.com^$all
@@ -107814,6 +107828,7 @@ voethrusts.cfd
 ||authentication-042725.pages.dev^
 ||authentication-user-log.com^$all
 ||authentication-waketech.weebly.com^$all
+||authentication.ms^$all
 ||authentication11.weebly.com^$all
 ||authenticationc1.weebly.com^$all
 ||authenticator-sd8.pages.dev^$all
@@ -110039,6 +110054,7 @@ voethrusts.cfd
 ||aypa8.com^
 ||ayparnarzt.com^
 ||aypgkxgnetnxd.site^
+||ayprxcxbhttpz.space^
 ||aypwvtnuvqbqurk.com^
 ||ayqdjausppwxom.com^
 ||ayqezbrybklye.top^
@@ -110138,6 +110154,7 @@ voethrusts.cfd
 ||azasundaymornings.com^
 ||azaxqkrhbivtg.online^
 ||azazla.ru^$third-party
+||azazyjjlmmrab.top^
 ||azazyjjlmmrkv.top^
 ||azazyjjovmkwj.top^
 ||azazyjjovmvov.top^
@@ -114790,7 +114807,6 @@ voethrusts.cfd
 ||battleburst.com^
 ||battledburs.qpon^
 ||battleforthenet.com^
-||battlegroundindia.new-gifts-event.xyz^$all
 ||battleickhope.com^
 ||battlekite.com^
 ||battlekun.com^
@@ -117527,6 +117543,7 @@ voethrusts.cfd
 ||bendingspoonsapps.com/v4/web-events
 ||bendletcornerbridges.cyou^
 ||bendletmeedmwalimu.cfd^
+||bendletvagi.cyou^
 ||bendoffice.com^
 ||bendproceed.com^
 ||bendrunb.com^
@@ -119464,6 +119481,7 @@ voethrusts.cfd
 ||bghouklbgsza.firebaseapp.com^$all
 ||bghouklbgsza.web.app^$all
 ||bghprsdyy.com^
+||bghrltdmnvfyk.space^
 ||bghwk.sunhavencollection.com^
 ||bgiamericas.actonservice.com^
 ||bgibfwwbxj.com^
@@ -120088,6 +120106,7 @@ voethrusts.cfd
 ||biconcave43.com^
 ||bicp-analytics.postscript.io^
 ||bicqfuzamos.in^
+||bicronspetite.cyou^
 ||bict.pro^
 ||bict.pro^$third-party
 ||bicxljjtup.com^
@@ -121704,6 +121723,7 @@ voethrusts.cfd
 ||bistroduy.ru^$third-party
 ||bistrosunsawed.cyou^
 ||bistrovia-ttm.webflow.io^$all
+||biswadeep-biswas.github.io^$all
 ||biswanathnews24.com/wp-content/uploads/2024/07/Ayas-ali-Advertise.jpg
 ||biswap.app-2v.com^
 ||bit-ad.com^
@@ -123834,12 +123854,7 @@ voethrusts.cfd
 ||bitly.com^$domain=semprot.com
 ||bitly.com^$image,domain=korben.info
 ||bitly.com^$script,third-party
-||bitly.cx/1s1yi^$all
-||bitly.cx/3n6tz^$all
-||bitly.cx/68a6^$all
-||bitly.cx/6aiah^$all
 ||bitly.cx/8KtTN^$all
-||bitly.cx/8gcpx^$all
 ||bitly.cx/9rzPJ^$all
 ||bitly.cx/GWyCk^$all
 ||bitly.cx/Ia3v^$all
@@ -123847,19 +123862,8 @@ voethrusts.cfd
 ||bitly.cx/SWAA5^$all
 ||bitly.cx/UAmH^$all
 ||bitly.cx/VrgnD^$all
-||bitly.cx/danxn^$all
-||bitly.cx/hbxnl^$all
-||bitly.cx/kdhnx^$all
-||bitly.cx/long7^$all
 ||bitly.cx/mNLow^$all
-||bitly.cx/maswv^$all
-||bitly.cx/mhcsz^$all
-||bitly.cx/nlkm8^$all
 ||bitly.cx/u45oS^$all
-||bitly.cx/whplk^$all
-||bitly.cx/x3ziz^$all
-||bitly.cx/x8gqg^$all
-||bitly.cx/z5uvt^$all
 ||bitly.net/3TQF9kT^$all
 ||bitly.net^
 ||bitlymonitor.com^
@@ -124558,7 +124562,6 @@ voethrusts.cfd
 ||black-diamond.asia^
 ||black-dragons-erfurt.de^*/Banner/
 ||black-eyed-peas.ru/engine/classes/js/
-||black-hall-5cfb.guevaracrescentiaatkp22899.workers.dev^$all
 ||black-label-casino.fr^
 ||black-magic.jp^
 ||black-pumpkin-377375.framer.app^$all
@@ -125135,10 +125138,10 @@ voethrusts.cfd
 ||blockchaintop.nl^
 ||blockchaintop.nl^$popup
 ||blockchainvc.net^
+||blockcheain-login.gitbook.io^$all
 ||blockchecker-8ka.pages.dev^$all
 ||blockchecker5.pages.dev^$all
 ||blockchecker6.pages.dev^$all
-||blockchinlogin.webflow.io^$all
 ||blockchionlogen.gitbook.io^$all
 ||blockchnanlogin.gitbook.io^$all
 ||blockchnelogen.gitbook.io^$all
@@ -126401,6 +126404,7 @@ voethrusts.cfd
 ||bmtmicro.com^$popup,badfilter
 ||bmtracks.com^
 ||bmtracks.com^$all
+||bmtrcs.com^
 ||bmtzm.ds18.com^
 ||bmufudjuro.com^
 ||bmuhuhajbap.in^
@@ -127661,7 +127665,6 @@ voethrusts.cfd
 ||booking.autoeurope.com/?aff=$third-party
 ||booking.brianwaldron.net^
 ||booking.captcha-message-extranet.com^
-||booking.captcha-message-extranet.com^$all
 ||booking.cheksupdguest-parthers.com^
 ||booking.com/87sduif98q3rijax
 ||booking.com/c360/v1/track
@@ -127953,6 +127956,7 @@ voethrusts.cfd
 ||bop-planet.com^
 ||bopako.com^
 ||bopdd.cc^
+||bopfrxjbdyquv.website^
 ||boplodorteruk.com^
 ||bopmkf.lolahome.es^
 ||bopsaretes.com^
@@ -127970,6 +127974,7 @@ voethrusts.cfd
 ||bordeaux-metrics.public.rtb-prod-eks-euw1.futureplc.engineering^
 ||bordeaux.futurecdn.net^
 ||borderalacrity.com^
+||borderclick.com^$all
 ||bordereaudedepostsecurise.com^$all
 ||bordermotivation.com^
 ||bordernewsmirror.com/media/2023-09/ad4.jpg
@@ -131904,6 +131909,7 @@ voethrusts.cfd
 ||btprmnav.com^
 ||btptod.aerzteblatt.de^
 ||btpx.callesconstrutora.com.br^
+||btqfzogoopfda.online^
 ||btr.domywife.com^
 ||btrace.play.aiseet.atianqi.com^
 ||btrace.qq.com^
@@ -131990,6 +131996,7 @@ voethrusts.cfd
 ||btw.co.il^
 ||btwapyla.practiceppeexams.ca^
 ||btwebmail-106264.weeblysite.com^$all
+||btwjqkfjgjorh.site^
 ||btworldd.ck.page^$all
 ||btworldxx63.komi.io^$all
 ||btworldxxx32.komi.io^$all
@@ -132558,6 +132565,7 @@ voethrusts.cfd
 ||bulterdamar.cfd^
 ||bultex99.com^
 ||buluo.qq.com^
+||bulwark37.top^
 ||bum7.bymycar.fr^
 ||bumads.com.tr^
 ||bumaikr.com^
@@ -133898,7 +133906,6 @@ voethrusts.cfd
 ||byb-it.com^
 ||bybastiodoner.com^
 ||bybfb.37ybpmn6ff58yql.cfd^
-||bybgrupoconsultor.com^$all
 ||bybiat.hl.cn^
 ||bybict.hl.cn^
 ||bybidt.hl.cn^
@@ -133991,6 +133998,7 @@ voethrusts.cfd
 ||byjnj.houseofhackney.com^
 ||byjpsr.bobags.com.br^
 ||byjuniper.vip^
+||byjvbtok.com^
 ||bykamfod.com^
 ||bykhovrya.ru^$third-party
 ||bykidesigns.com^
@@ -139978,6 +139986,7 @@ voethrusts.cfd
 ||ccgsst.caasco.com^
 ||ccgszj.com^
 ||ccgtm.curiouscardinals.com^
+||cch.siesapps.com^$all
 ||cchifirm.ca^
 ||cchifirm.com.au^
 ||cchlhb.budgetsport.fi^
@@ -143269,6 +143278,7 @@ voethrusts.cfd
 ||cerohj.loccitane.ru^
 ||ceropsband.store^
 ||ceros.com/a?data
+||cerosmonarchens.cyou^
 ||cerosratio.shop^
 ||cerplays.com^
 ||cerrnjumycmez.site^
@@ -143321,6 +143331,7 @@ voethrusts.cfd
 ||certoinvestancia.com^
 ||certona.com^
 ||certona.net^
+||certs.armt.cloud^$all
 ||certsolution.org^$all
 ||certumgroup.com^
 ||certxpert.com^
@@ -143529,6 +143540,7 @@ voethrusts.cfd
 ||cfcdn.apcqwd.com/prod/svimg/a70d3146-abd5-4790-b1c8-a5854c7e7006.jpeg
 ||cfcezivxdpevd.online^
 ||cfcf665.weebly.com^$all
+||cfcotbrq.com^
 ||cfcpee.lascana.ch^
 ||cfcwqpwvdtwux.online^
 ||cfcyht.century21.jp^
@@ -143772,6 +143784,7 @@ voethrusts.cfd
 ||cglzp.com^
 ||cgmalight.com^
 ||cgmfhzvqykwxg.store^
+||cgmhovirebeyy.space^
 ||cgnl.io^
 ||cgnosvsqrqy.xyz^
 ||cgojv.prepsportswear.com^
@@ -145555,6 +145568,7 @@ voethrusts.cfd
 ||chipwavenet.com^
 ||chiq-cloud.com^
 ||chiquita.backtobac.net^
+||chirag0002.github.io^$all
 ||chirayugroup.in^
 ||chirkgiulio.cyou^
 ||chirksreefers.cyou^
@@ -145930,6 +145944,7 @@ voethrusts.cfd
 ||chrom-zhcn.com.cn^
 ||chroma-crash.itch.io^
 ||chromaleont.it^
+||chromaprotestmelch.cyou^
 ||chromatography.mac-mod.com^
 ||chrome-chrome-$doc
 ||chrome-chrome-cn.hl.cn^
@@ -146186,6 +146201,7 @@ voethrusts.cfd
 ||chxskfar.shop^
 ||chy.jp^
 ||chy.jp^$doc
+||chyazicideta.cyou^
 ||chyazickukang.com^
 ||chygam.ru^$third-party
 ||chyjobopse.pro^
@@ -146581,6 +146597,7 @@ voethrusts.cfd
 ||cip6.czpush.com^
 ||cipangofabric.cyou^
 ||cipangonone.com^
+||cipani.in/gnome2/rentfree.zip^$all
 ||cipdi.org^
 ||cipezicsdpmzi.space^
 ||cipgvqwylbcoa.site^
@@ -147127,7 +147144,6 @@ voethrusts.cfd
 ||cjymdu7ywl.mysticvalleymist.de^
 ||cjzxhimedlzra.online^
 ||ck-bt.s3.us-east-2.amazonaws.com^
-||ck-bt.s3.us-east-2.amazonaws.com^$all
 ||ck-cdn.com^
 ||ck-cdn.com^$third-party
 ||ck-device-connection-log-eu.s3-accelerate.amazonaws.com^
@@ -147219,6 +147235,7 @@ voethrusts.cfd
 ||cko.prime-expo.com^
 ||cko.wamsaudi.com^
 ||ckogfgjeuxixw.online^
+||ckojnyfrzwpcs.website^
 ||ckookftuw.com^
 ||ckooxtmazd.com^
 ||ckpb3c3wq449m7wo7fe553ief.cfd^
@@ -150317,7 +150334,6 @@ voethrusts.cfd
 ||cloutyflappet.cyou^
 ||clovanierre.shop^
 ||clovanorie.shop^
-||clovdmicrsotfmailaamkagmxn2uxywe.klassik-erh.de^$all
 ||clover-kapithaven.cyou^
 ||clover-kapithaven.live^
 ||clover-kapithaven.sbs^
@@ -150501,6 +150517,7 @@ voethrusts.cfd
 ||clunkyentirelinked.com^$popup
 ||clupeta.xyz^
 ||clurdfsagmfjh.space^
+||clusiavacuo.qpon^
 ||cluster-*.cdnjquery.com*sha256_$script,domain=theultralinx.com
 ||cluster-*.cdnjquery.com^$domain=woxikon.de|notebookcheck.com|dict.cc
 ||cluster-piwik.locaweb.com.br^
@@ -151068,7 +151085,6 @@ voethrusts.cfd
 ||cn.mt^
 ||cn.mywd.com^
 ||cn.unionlever.com^
-||cn.unionlever.com^$all
 ||cn.vortex-win.data.microsoft.com^
 ||cn1.stadiumgoods.com^
 ||cn2.stadiumgoods.com^
@@ -151306,6 +151322,7 @@ voethrusts.cfd
 ||cnrdn.com^
 ||cnrfms.pro^
 ||cnrkjdrqikgfi.website^
+||cnrqcjwcugic.com^
 ||cnrsyxxkcjlor.online^
 ||cns-service.actonservice.com^
 ||cns.av-studio.si^
@@ -151550,7 +151567,6 @@ voethrusts.cfd
 ||coastalresin.store^
 ||coastalscontractors.com^
 ||coastaltltlela.com^
-||coastaltltlela.com^$all
 ||coastalwinter.com^
 ||coastersim.com^
 ||coasthubba.cfd^
@@ -151604,6 +151620,7 @@ voethrusts.cfd
 ||cobiatungate.com^
 ||cobig99.github.io^$all
 ||cobin2hood.com^
+||cobinbaselogin.gitbook.io^$all
 ||cobipl-store.shop^
 ||cobnutparking.com^
 ||cobnutscopsole.com^
@@ -155529,6 +155546,7 @@ voethrusts.cfd
 ||communisave.co.za^
 ||communities1272c0.myportfolio.com^$all
 ||community-flagged-$doc
+||community-gift.beer^$all
 ||community-standards-1006436512.firebaseapp.com^$all
 ||community-standards-1006436512.web.app^$all
 ||community.actonline.org^
@@ -156443,6 +156461,7 @@ voethrusts.cfd
 ||conkueskifirmar.webcindario.com^$all
 ||conky.goaserv.com^
 ||conline0121.ru^$third-party
+||conmobilactionfr.nl^$all
 ||conn-service-cn-01.allawntech.com^
 ||conn-service-cn-03.allawntech.com^
 ||conn-service-cn-04.allawntech.com^
@@ -158555,6 +158574,7 @@ voethrusts.cfd
 ||coolfreepages.com^
 ||coolgifts.shop^
 ||coolgin.com^
+||coolgoel123.github.io^$all
 ||coolguang.com^
 ||coolguesthouse.com^
 ||coolhandpoker.com^
@@ -160448,6 +160468,7 @@ voethrusts.cfd
 ||coziesmaltman.com^
 ||cozieswarned.com^
 ||cozigplpxpcih.site^
+||coziljdwxincr.site^
 ||cozique2.cozique.com^
 ||cozivetra.com^
 ||cozknoyqklnjd.online^
@@ -162348,6 +162369,7 @@ voethrusts.cfd
 ||crewing.goasrv.com^
 ||crewmanreddestlumens.cyou^
 ||crewweb.goaserv.com^
+||creyt.cl^$all
 ||crezcamos2026.webcindario.com^$all
 ||crf999.cn^
 ||crfp8-carrefour.com^
@@ -162484,6 +162506,7 @@ voethrusts.cfd
 ||cristochris.com^
 ||cristochris.com^$popup
 ||cristoconecta.com^
+||critchottawas.cfd^
 ||criteheading.com^
 ||criteo.com/delivery/retailmedia?
 ||criteo.com^
@@ -163456,6 +163479,7 @@ voethrusts.cfd
 ||csenascolipiceno.com^
 ||csengb.manfredijewels.com^
 ||csep.app^
+||cseuqmjbawgksv.com^
 ||csf.uzone.id^
 ||csfails.us^$third-party
 ||csfd-ads.aimatch.com^
@@ -163465,6 +163489,7 @@ voethrusts.cfd
 ||csfvub.mcmworldwide.com^
 ||csgamer.ru/wp-content/uploads/*/ckikencsgo.jpg
 ||csgfst.com^$popup,domain=hltv.org
+||csggroupapp.com^$all
 ||csghyg.reginaclinic.jp^
 ||csgiveaways.com^
 ||csgkj.com^
@@ -164011,7 +164036,6 @@ voethrusts.cfd
 ||cts.vresp.com^$third-party
 ||ctsdwm.com^
 ||ctseq.s2lrecovery.org^
-||ctsfactory.com^$all
 ||ctslobepowwows.qpon^
 ||ctsma.com^
 ||ctsncobxuteqvcs.com^
@@ -164137,7 +164161,6 @@ voethrusts.cfd
 ||cu.hl.cn^
 ||cu.pycniumalamort.com^
 ||cu.santirbecurse.com^
-||cu010726.tw1.ru^$all
 ||cu04359.tw1.ru^$all
 ||cu2ajo.casa^$all
 ||cu2tz56q4i.iom7zehwzmq7rvzfz.cyou^
@@ -165017,7 +165040,6 @@ voethrusts.cfd
 ||cutiedomain.com^$third-party
 ||cutiehair.weblog.cafe24.com^
 ||cuties-marketing.b-cdn.net^
-||cutiey.com^$all
 ||cutlasaglypha.qpon^
 ||cutld.kahootsfeedandpet.com^
 ||cutlerymarkets.com^
@@ -169966,6 +169988,7 @@ voethrusts.cfd
 ||danacadesign.com^
 ||danado.ru^
 ||danads.com^
+||danaid.impt.my.id^$all
 ||danaidehomes.com^
 ||danaidjuicesboaedon.cyou^
 ||danainstan.xyz^
@@ -170474,6 +170497,7 @@ voethrusts.cfd
 ||dartimyl.com^
 ||dartingpultonquinyie.cfd^
 ||dartleoleates.cyou^
+||dartlesmingles.com^
 ||dartmotif.com^
 ||dartry.fr^
 ||darts-tracker-pro-5635.taskade.app^
@@ -176718,7 +176742,6 @@ voethrusts.cfd
 ||davisroberto480.activehosted.com^$all
 ||davita.com/-/media/davita/project/kidneycare/blocks/moms_meals.ashx
 ||daviviendaenli.webcindario.com^$all
-||davreni-kolam927499.vercel.app^$all
 ||davtwymjlx.com^
 ||davynetriumf.com^
 ||dawac.com^
@@ -178423,6 +178446,7 @@ voethrusts.cfd
 ||deedeisasbeau.org^
 ||deedfe1.myportfolio.com^$all
 ||deedkernelhomesick.com^
+||deedominic.ario3.arweave.io.vn^$all
 ||deeeccjgehabjjhhcca.world^$third-party
 ||deeeparts.com^
 ||deeeseek.com^
@@ -180144,6 +180168,7 @@ voethrusts.cfd
 ||desknowflash.click^
 ||desknowtoday.click^
 ||desktodayflash.click^
+||desktop--usa-ledgre.pages.dev^$all
 ||desktop-adv-banners.freemake.com^
 ||desktop-applives.wixstudio.com^$all
 ||desktop-clienten.wixstudio.com^$all
@@ -180169,6 +180194,7 @@ voethrusts.cfd
 ||desktop-intro-live.wixstudio.com^$all
 ||desktop-ldgrcdn.wixstudio.com^$all
 ||desktop-ledgarlive.wixstudio.com^$all
+||desktop-ledgr-en-usa.pages.dev^$all
 ||desktop-ledgre.wixstudio.com^$all
 ||desktop-ledgre.zapier.app^$all
 ||desktop-ledgrecdn.wixstudio.com^$all
@@ -181096,6 +181122,7 @@ voethrusts.cfd
 ||dfb523f308.25e664eaff.com^
 ||dfba7a73ff.com^
 ||dfbaaprll.vercel.app^$all
+||dfbaklgbh27eo-bhz25.vercel.app^$all
 ||dfbanners.com^
 ||dfbdfbnetprod.112.2o7.net^
 ||dfberatcfobzr.online^
@@ -184148,7 +184175,6 @@ voethrusts.cfd
 ||disparityconquer.com^
 ||disparitydegenerateconstrict.com^
 ||disparkalvine.cyou^
-||dispatch-pro-e12.pages.dev^$all
 ||dispatch55845.com^
 ||dispatch55845.com^$all
 ||dispatcharr.com^
@@ -184556,6 +184582,7 @@ voethrusts.cfd
 ||diy-expert-deals.shop^
 ||diy.bauhaus.info^
 ||diy.beviswoodclub.com^
+||diyakasanniya.github.io^$all
 ||diyanoo.com^
 ||diybrandsite.com^
 ||diybuildsupplies.com^
@@ -184705,6 +184732,7 @@ voethrusts.cfd
 ||djesraoslkxvh.space^
 ||djf7qc4xvps5h.cloudfront.net/ad/
 ||djfbgfcdgdjgegjac.ru^$third-party
+||djfcftdanfapm.space^
 ||djfiln.com^
 ||djfssoadlpaadl.weebly.com^$all
 ||djgmkfiouqll.com^
@@ -185035,6 +185063,7 @@ voethrusts.cfd
 ||dl-vip.pcfaster.baidu.co.th^
 ||dl-wps.com^
 ||dl.1003b.56a.com^
+||dl.1003b.56a.com^$all
 ||dl.2345.com^$all
 ||dl.360safe.com/offlinepackv4.exe^$all
 ||dl.4buy.net^
@@ -185827,6 +185856,7 @@ voethrusts.cfd
 ||dni24.com/rek/
 ||dniadops-a.akamaihd.net/video-assets/*.mp4$media,domain=dplay.dk
 ||dnibrjbhidpyq.space^
+||dnid-two.vercel.app^$all
 ||dnightwish.xyz^
 ||dniiypanzutzi.site^
 ||dnitv.com^$media,domain=discoveryplus.*
@@ -186127,7 +186157,6 @@ voethrusts.cfd
 ||doc-10-44-docstext.googleusercontent.com^
 ||doc-aavmdlr.vercel.app^$all
 ||doc-exodusweb3-auth.pineapple.page^$all
-||doc-ledger-uss.pages.dev^$all
 ||doc-mkvelinb.vercel.app^$all
 ||doc-muenchen.de^
 ||doc-postale.firebaseapp.com^$all
@@ -192089,7 +192118,6 @@ voethrusts.cfd
 ||documents-online.es^
 ||documentsite.net^
 ||documentstock.com^
-||docusign.bkinterim.com^$all
 ||docusignature-firmar.github.io^$all
 ||docusignlogin.globalexshipping.com^$all
 ||docusignredtail.web.app^$all
@@ -193410,7 +193438,6 @@ voethrusts.cfd
 ||down-paradise.com^$popup
 ||down.360.cn^
 ||down.54nb.com^
-||down.54nb.com^$all
 ||down.91wangmeng.com^
 ||down.apps.sina.cn^
 ||down.bugeyu.com^
@@ -193426,7 +193453,6 @@ voethrusts.cfd
 ||down.pcclear.com^
 ||down.pcclear.com^$all
 ||down.qqfarmer.com.cn^
-||down.qqfarmer.com.cn^$all
 ||down.ruanmei.com^
 ||down.ruanmei.com^$all
 ||down.xiazaidc.com^
@@ -193720,6 +193746,7 @@ voethrusts.cfd
 ||dozco.com^
 ||dozemarchedconserve.com^
 ||dozenshallow.com^
+||dozensshih.cyou^
 ||dozententag.ni.com^
 ||dozepharmacy.com^
 ||dozepriv.cyou^
@@ -194302,6 +194329,7 @@ voethrusts.cfd
 ||dqydzfzvwvaxt.website^
 ||dqzks.georgiemane.com^
 ||dqzooska.icu^
+||dqzoroljvmjmk.space^
 ||dqzuroorrt.com^
 ||dqzuy.com^$third-party
 ||dr-audie-ghipghv.work^
@@ -194503,6 +194531,7 @@ voethrusts.cfd
 ||draveliona365a.com^
 ||dravemi-gld-zormela-r4x5hp63.pages.dev^$all
 ||dravemi-gld-zormeta-c6x9fp81.pages.dev^$all
+||dravemi-kxt-zorveta-a7x4dp96.pages.dev^$all
 ||draveni-gld-felmora-c4x3dq97.pages.dev^$all
 ||dravenitoq.com^
 ||draventa24.com^
@@ -195394,7 +195423,6 @@ voethrusts.cfd
 ||dropbox.com/scl/fi/4dzddtc2r6necf7gomqsi/BT-MAIL-SERVICE-UPDATE.paper?dl=0&rlkey=h013y8ot9grkpkfcyafhbvpuy^$all
 ||dropbox.com/scl/fi/4j0a6w8wd7huhyguitldw/BT-INTERNET.paper?dl=0&rlkey=3n24hjlzck4jw313vz7q1eetg^$all
 ||dropbox.com/scl/fi/4j0a6w8wd7huhyguitldw/BT-INTERNET.paper?rlkey=3n24hjlzck4jw313vz7q1eetg&dl=0^$all
-||dropbox.com/scl/fi/4pkxw4de68qbk9t3rced6/bundle-5.zip?rlkey=o8kjw2k16hwbfca6dibdmm1mk&st=pi0v3bot&dl=1^$all
 ||dropbox.com/scl/fi/4rla9eaj4a8sdiptqy0ug/Broadband-EE.paper?rlkey=w3mk5pj5wc8j5gg28e2tfoukg&st=aekedsye&dl=0^$all
 ||dropbox.com/scl/fi/4rw18dyq49xz7lnjw35y1/A-new-invoice-is-now-available-for-your-account..paper^$all
 ||dropbox.com/scl/fi/4si0gpzk1mhsmv922sljt/Listen-To-Voice-From-44-7248____..paper?rlkey=5yyw1nud3kdd8bubmoul1lg9s&dl=0^$all
@@ -195652,7 +195680,6 @@ voethrusts.cfd
 ||dropbox.com/scl/fi/kc8w8ew766c57nge11549/BT-INTERNET.papert?rlkey=v1djwxl86w35mh7ab58er8jwn&dl=0^$all
 ||dropbox.com/scl/fi/kgk3hmu8llk02gk7ot6jk/BT-VOICE-NOTIFICATION.papert?rlkey=t98x437ekxloa3oyqu9assgke&dl=0^$all
 ||dropbox.com/scl/fi/knyd4gi2z2dlhyp95ma49/myBT-2025-Update.paper?rlkey=uv99pn2926lm3hr0rb4lvpc6n&st=jfr5c6vd&dl=0^$all
-||dropbox.com/scl/fi/kp2k7da1d7987xkng156y/bundle.zip?rlkey=0jrqcyhwq6ery2v89q43py5sf&st=1ahg1vlg&dl=1^$all
 ||dropbox.com/scl/fi/kzu9ysjw0qx40nxpzv9u1/BT-BROADBAND.papert?dl=0&rlkey=2e3577vz5ywlruhfvyw3ajprv&st=bs1rqtrb^$all
 ||dropbox.com/scl/fi/l39mto6z7mzzepl97v42u/Kindly-update-your-Bti^$all
 ||dropbox.com/scl/fi/l3b791mx7zgcde4l5bmkp/BT-Broadband.paper?rlkey=jai260m1u5omzdnlesp6lvbl7&dl=0^$all
@@ -195662,7 +195689,6 @@ voethrusts.cfd
 ||dropbox.com/scl/fi/lki7prex5tui28fp2g77b/BT-Limited-Service.paper?rlkey=tf3bjixllmn5ptcubgzuluqdx&dl=0^$all
 ||dropbox.com/scl/fi/llkmst34vrmfeqi978sal/BT-Mail-Login-Page.paper?dl=0&rlkey=cfjev405r2d3768bfzjhskk9i^$all
 ||dropbox.com/scl/fi/llqgt0c8t9gg1y4spl880/ADI_EA_FINAL.docx?rlkey=mhb1khiprij18ixl4dsd5xo6g&st=4ejrvttu&dl=0^$all
-||dropbox.com/scl/fi/lmymity6lb500ur744qp4/bundle.zip?rlkey=2x3lxz9va4zq0v5va4efzgnv8&st=6k1hwsnz&dl=1^$all
 ||dropbox.com/scl/fi/ln2bcvebaphqdiys6vgbb/BRITISH-TELECOMMUNICATIONS.paper?rlkey=zhr9tljoffeqfnm7cckwyylzk&st=sefa1s5t&dl=0^$all
 ||dropbox.com/scl/fi/lrt0pcdgdyu4tbe4jd90r/BTELECOMUNICATION.paper?rlkey=aip351rh5n7pcfqd68n3cccuu&dl=0^$all
 ||dropbox.com/scl/fi/ls18tc72cq5hiden2ogdc/BT-Broadband-Voice.paper?dl=0&rlkey=7mbtn7u3lbpgbbi287bf46zlo^$all
@@ -195869,7 +195895,6 @@ voethrusts.cfd
 ||dropbox.com/scl/fi/xpv8bzfv5src4pnnly9w9/BTinternet.papert?rlkey=ru71ryiplvsxfionc3hrff550&dl=0^$all
 ||dropbox.com/scl/fi/xs5b6d59p6mzlxtyf6qeh/CLICK-TO-CONTINUE-SIGN-IN.paper?dl=0&rlkey=u42md1bnw846o3enf479kqcne^$all
 ||dropbox.com/scl/fi/y24oejr60gyxy6wegolrd/BT-BROADBAND.papert?dl=0&rlkey=kzl4ahhgds61x1qx4a4zo6fp9&st=utskmimh^$all
-||dropbox.com/scl/fi/y5hemvujeklhacypl7cdo/bundle.zip?rlkey=mmxqsqf7gtnrzpyomg4junuaa&st=ly555a8w&dl=1^$all
 ||dropbox.com/scl/fi/ydctfdtmerg3ohql8cqnd/BT-BROADBAND.papert?rlkey=ihk29vla0311958q6qfkhxmxm&st=iim496rc&dl=0^$all
 ||dropbox.com/scl/fi/yj15dfxjz8llp3jt7f9zh/BellMTS-Webmail-Service.paper?rlkey=d6nikzv2vjlz5aep8czomwkr9^$all
 ||dropbox.com/scl/fi/yj82a48bcs27oat1lp1k3/BTINTERNET.paper?rlkey=0on2h2y1qlj4pna1g5qjlt3ap&dl=0^$all
@@ -197334,6 +197359,7 @@ voethrusts.cfd
 ||dubz.live^
 ||dubzenom.com^
 ||dubzenom.com^$popup
+||duc-authentication.com^$all
 ||ducalfondelle.shop^
 ||ducasses-du-nord.goasrv.com^
 ||ducatflapper.com^
@@ -198959,6 +198985,7 @@ voethrusts.cfd
 ||dzl.baidu.com^
 ||dzlawmilngfcp.space^
 ||dzlhwcoblc.com^
+||dzloljaqszhbx.online^
 ||dzlwn.atmospheresucks.com^
 ||dzmrbjehnpkah.site^
 ||dzmuepbe.firebaseapp.com^$all
@@ -206334,6 +206361,7 @@ voethrusts.cfd
 ||emotomalf.com^$popup
 ||emotorsport.se/ans/$image
 ||emovementxview.com^
+||emovgsrhhzcxj.site^
 ||emp-online-sales.shop^
 ||emp-owerab.one^$all
 ||emp.sohub.com.bd^
@@ -206881,7 +206909,6 @@ voethrusts.cfd
 ||endoflife.space^
 ||endofwires.com^
 ||endomani.life^
-||endomedik.com.ar^$all
 ||endorico.com^
 ||endorico.com^$popup
 ||endorsal.io/check/
@@ -207955,6 +207982,7 @@ voethrusts.cfd
 ||enviou.com.br^
 ||enviou.com.br^$third-party
 ||envious-attention.com^
+||envious-boot.pro^
 ||envious-long.com^
 ||enviousclothing.de^
 ||enviousdisplay.pro^
@@ -208050,6 +208078,7 @@ voethrusts.cfd
 ||eobysuugjotmw.space^
 ||eocenearmine.cyou^
 ||eocfk.thehappyplanner.com^
+||eochmqcthw.com^
 ||eociugytvzhad.website^
 ||eockzywbeujiq.website^
 ||eocmatfoypeduo.com^
@@ -209495,6 +209524,7 @@ voethrusts.cfd
 ||ert5.rmcsport.tv^
 ||erta.ca^
 ||ertablisystation.org^
+||ertdyfiabwggujakd.duckdns.org^$all
 ||erthaf.com^
 ||erthfeoveukrn.org^
 ||ertko.annieandoak.com^
@@ -210845,7 +210875,6 @@ voethrusts.cfd
 ||eu-album-api.vivoglobal.com^
 ||eu-analytics.api.polaris-iot.com^
 ||eu-arcteryx.com^
-||eu-assets.contentstack.com/v3/assets/blt006917f377bafe00/blt7d3212a5acba9770/6ab5265b684178b4e908a799/halaalldomain17.html^$all
 ||eu-brw.shop^
 ||eu-ccc.sbs^
 ||eu-cdn.kgm-motors.co.uk^
@@ -214443,6 +214472,7 @@ voethrusts.cfd
 ||ewivrcxnqyaym.space^
 ||ewjuunftkhpge.net^
 ||ewldklyhfqatp.website^
+||ewljkkutvnvhl.site^
 ||ewlquufmakbne.website^
 ||ewmgkx.packtowl.com^
 ||ewmjwtpnjwtr.com^
@@ -214496,6 +214526,7 @@ voethrusts.cfd
 ||ewtlvx.olliscience.com^
 ||ewtopas.ru^$third-party
 ||ewu1nguhw.com^
+||ewu3fxoln2jjgzb531pq1kq.cfd^
 ||ewueuweudsjdjsdjjd.weeblysite.com^
 ||ewueuweudsjdjsdjjd.weeblysite.com^$all
 ||ewutka.ru^$third-party
@@ -214503,6 +214534,7 @@ voethrusts.cfd
 ||ewvjygaju.web.app^$all
 ||ewwhk.com^
 ||ewwnmrvdkfasc.online^
+||ewwnsbayfvyey.space^
 ||ewwwap.de^$all
 ||ewwxtemporisespeeling.info^
 ||ewxjmeorfizwt.site^
@@ -215107,6 +215139,7 @@ voethrusts.cfd
 ||exoclick.com^$popup
 ||exoclocks.com^
 ||exoclocks.com^$document
+||exod-s.pages.dev^$all
 ||exod-us.wasmer.app^$all
 ||exodass-wallet.wasmer.app^$all
 ||exodentity.com^$third-party
@@ -216405,6 +216438,7 @@ voethrusts.cfd
 ||f005.backblazeb2.com/b2api/v1/b2_download_file_by_id?fileId=4_zcc7c1d666af4a950a60f051f_f104156febf7cf14c_d20260916_m073132_c005_v0501037_t0048_u01789543892927^$all
 ||f005.backblazeb2.com/file/besala/Cloud%20Storage%20FlowCloud%20Storage%20Flow1......HTM^$all
 ||f005.backblazeb2.com/file/besala/Cloud+Storage+FlowCloud+Storage+Flow1......HTM^$all
+||f005.backblazeb2.com/file/frhiopieraderoparevioperaeriuplou/index.html^$all
 ||f005.backblazeb2.com/file/latestzoombucket/zoom.msi^$all
 ||f005.backblazeb2.com/file/mybillishere/mtsprofile1.html^$all
 ||f005.backblazeb2.com/file/outlookmsn/dindexhotmail+.html^$all
@@ -216839,10 +216873,10 @@ voethrusts.cfd
 ||facebook-com.gitbook.io^$all
 ||facebook-downloader.czhyk.biz.id^$all
 ||facebook-europewest1-tagging-bsxp2kecxa-ew.a.run.app^
-||facebook-front-iota.vercel.app^$all
 ||facebook-google-15oqyxwtkremqyujsm.vercel.app^
 ||facebook-google-vptyyny63pwfipshmm.vercel.app^
 ||facebook-google-ygggvmvciad74v9lhi.vercel.app^
+||facebook-login-page-three.vercel.app^$all
 ||facebook-login.5v.pl^
 ||facebook-marketing.fr^
 ||facebook-page-verified.com^$all
@@ -218284,7 +218318,6 @@ voethrusts.cfd
 ||faruvclight.com^
 ||faryzeusz.pl^
 ||fas.li/js/p.js
-||fas123.top^$all
 ||fasalkranti.in/images/Ads/
 ||fasamey.com^
 ||fascescrewet.com^
@@ -218793,6 +218826,7 @@ voethrusts.cfd
 ||fauldspelikeyellows.qpon^
 ||fault-prod.data-analytics.horizoncloud.io^
 ||faultlying.com^
+||faultphonons.com^
 ||faults.qalabs.symantec.com^
 ||faultssuit.com^
 ||faultycanvas.com^
@@ -218885,6 +218919,7 @@ voethrusts.cfd
 ||fayloobmennik.net^
 ||faymoon.com^
 ||fayprjmlhxpnl.website^
+||fayri9vp27pkurdyain1r4xx4j3dnq.laworks.de^$all
 ||fayscans.net^
 ||fayseely.cyou^
 ||faytestlab.net^
@@ -221388,7 +221423,6 @@ voethrusts.cfd
 ||fieldconfig.com^
 ||fieldday.com^
 ||fieldhandga.com^
-||fieldreef.pages.dev^$all
 ||fieldsgultpingle.qpon^
 ||fieldtest.cc^
 ||fieldtest.la^
@@ -221614,6 +221648,7 @@ voethrusts.cfd
 ||file.rafflecreator.com^
 ||file.smartsleevemd.com^
 ||file.uhsea.com^
+||file.uhsea.com^$all
 ||file.weightsimple.com^
 ||file.zbcdn.net^
 ||file.zipsec.com^
@@ -222400,6 +222435,7 @@ voethrusts.cfd
 ||filwc57vh5y27k.rest^
 ||filweixnycglr.space^
 ||filzkunstwerkstatt.de^
+||fim7hbcei2vt2gp.cfd^
 ||fimagfminm.com^
 ||fimc.net^
 ||fimdeanobom.vercel.app^$all
@@ -224124,6 +224160,7 @@ voethrusts.cfd
 ||fiverr.com^$removeparam=ref_ctx_id
 ||fiverr.com^$removeparam=source
 ||fiverrpoc.partner-experience.com^$all
+||fives.com.tr^$all
 ||fivesidedsquare.com^
 ||fivesimilarlyrepel.com^
 ||fivesixgroup.com^
@@ -224918,6 +224955,7 @@ voethrusts.cfd
 ||flfmmxdfhdisj.online^
 ||flfngtjd.com^
 ||flfsoqkileuin.website^
+||flgwichrxwbpg.online^
 ||flgy.org^
 ||flhqfdjmltoue.site^
 ||flhqn.oatsovernight.com^
@@ -225280,7 +225318,6 @@ voethrusts.cfd
 ||floridapowerandlight.sc.omtrdc.net^
 ||floridapowerandlight.tt.omtrdc.net^
 ||floridasportsman.com/video_iframev9.aspx
-||floridastroke.com^$all
 ||floridavacationrentalsbyowners.com/*/Info/page_settings/account.php^$all
 ||floridistor.icu^
 ||floridscungy.top^
@@ -227599,6 +227636,7 @@ voethrusts.cfd
 ||formulario-digital-registro-akmnj-2026.cr-web.workers.dev^$all
 ||formulario-gestion-2026-amnhk.cr-web.workers.dev^$all
 ||formulario-registro-gestion-2026-aklm.cr-web.workers.dev^$all
+||formularioautosias-cardif.com^$all
 ||formulariodesolicitudbhdexpress--allaym02.replit.app^$all
 ||formulas.jp^
 ||formulawire.com^
@@ -228989,6 +229027,7 @@ voethrusts.cfd
 ||fraelaputback.com^
 ||fraelawaggery.cyou^
 ||fraemenacer.cyou^
+||fraesem.qpon^
 ||fragfinanz.com^
 ||fraggedscuts.cfd^
 ||fragileexpressinghatred.com^
@@ -230892,7 +230931,6 @@ voethrusts.cfd
 ||fsnkdjtnifxze.site^
 ||fso.elevate-future.eu^
 ||fsocietychain.com^
-||fsoqcley.d1abos.biz^$all
 ||fsp.portal.goaserv.com^
 ||fspark-ap.com/ft/analytics_log
 ||fspark-ap.com^
@@ -232267,6 +232305,7 @@ voethrusts.cfd
 ||fwlaw.cn^
 ||fwlelaynsdp.xyz^
 ||fwlkaipvff.icu^
+||fwlkegiqfn.icu^
 ||fwlkokvvkx.icu^
 ||fwllgitl.com^
 ||fwlpazuvbhmkg.online^
@@ -233044,6 +233083,7 @@ voethrusts.cfd
 ||g33ktr4ck.com^$popup
 ||g33tr4c3r.com^
 ||g3437pprk8z2xlcui.cfd^
+||g3b34nml9lbqnhm.rest^
 ||g3jzt6wknmzcxyoifb3bm.cfd^
 ||g3m92egwo.com^
 ||g3news.biz^
@@ -233819,6 +233859,7 @@ voethrusts.cfd
 ||gameb52a.club^
 ||gamebai.club^
 ||gamebaidoithuong2021.com^
+||gamebaidoithuong30.net^$all
 ||gameball.co^
 ||gamebassadors.net^
 ||gamebassadors.network^
@@ -234467,6 +234508,7 @@ voethrusts.cfd
 ||gardenroots.com^
 ||gardens-west.com^
 ||gardenstokyjp.com^
+||gardenstokyjp.com^$all
 ||gardenstoreplus.shop^
 ||gardenstylzycia.shop^
 ||gardensvergen30.myshopify.com^
@@ -234723,6 +234765,7 @@ voethrusts.cfd
 ||garudakapitavatrade.com^
 ||garudakrakatau.com^
 ||garuq.com^
+||garvbhimsaria-alt.github.io^$all
 ||garved.com^
 ||garvum.julesb.co.uk^
 ||gary.altsuperstore.com^
@@ -235239,6 +235282,7 @@ voethrusts.cfd
 ||gb.blogdomacrame.com.br^
 ||gb.click.finning.com^
 ||gb.corp.163.com^
+||gb.fkjun.com^$all
 ||gb.gindero.online^$all
 ||gb.gohin.com.bd^
 ||gb.grcriar.com.br^
@@ -235994,6 +236038,7 @@ voethrusts.cfd
 ||geenhoe.com^$all
 ||geenstijl-ads.b-cdn.net^
 ||geesoaptomu.net^
+||geeta2003.github.io^$all
 ||geetanjalipost.com/wp-content/uploads/2018/10/IMG-20181027-WA0012
 ||geetanjalipost.com/wp-content/uploads/2019/12/WhatsApp-Image-2019-12-04-at-10.41.21
 ||geetanjalipost.com/wp-content/uploads/2020/10/IMG-20201015-WA0005
@@ -236975,6 +237020,7 @@ voethrusts.cfd
 ||german-proxy.de^
 ||german-soundbox.com^
 ||german.zeelool.com^
+||germanbanglanews24.com/wp-content/uploads/2025/08/ads-ger.jpeg
 ||germancorrector.com/cnc/
 ||germandepartmentstore.com^
 ||germanfigurines.com^
@@ -237177,7 +237223,6 @@ voethrusts.cfd
 ||get-ledgrstart.wixstudio.com^$all
 ||get-link.xyz^
 ||get-live-global.wixstudio.com^$all
-||get-livelogn-ledgr.pages.dev^$all
 ||get-lor.tacter.app^
 ||get-lumaglasses.com^
 ||get-male-meds.net^
@@ -238634,6 +238679,7 @@ voethrusts.cfd
 ||ghjkl-17a52.firebaseapp.com^$all
 ||ghjkl-17a52.web.app^$all
 ||ghjnpy.com^$third-party
+||ghjyvygyimaur.space^
 ||ghjyw4h23.com^
 ||ghkrndebbziup.online^
 ||ghktwxuzvuufr.online^
@@ -239595,6 +239641,13 @@ voethrusts.cfd
 ||github.com/fadeldia/data_analyst-bi_dev-portfolio.github.io/raw/refs/heads/main/assets/io_b_github_portfoli_analys_dat_de_v2.8.zip^$all
 ||github.com/fadeldia/facebook-marketing-automation/raw/refs/heads/main/baseheartedness/facebook_automation_marketing_1.0.zip^$all
 ||github.com/fahrj/reverse-ssh/releases/download/v1.2.0/upx_reverse-sshx64^$all
+||github.com/fathanghani864/oh-my-openclaw/raw/refs/heads/main/src/presets/apex/skills/agent-browser/my-openclaw-oh-postpagan.zip^$all
+||github.com/fathanghani864/php/raw/refs/heads/main/kerbstone/software_v1.4.zip^$all
+||github.com/fathanghani864/sistem-cis/raw/refs/heads/main/assets/js/core/cis_siste_v1.4.zip^$all
+||github.com/fathanghani864/tech-educa/raw/refs/heads/main/annoyment/tech-educa-wried.zip^$all
+||github.com/fathanghani864/test-pull/raw/refs/heads/main/volucrine/test-pull-v2.3.zip^$all
+||github.com/fathanghani864/wedding-invitation/raw/refs/heads/main/uredosporous/invitation_wedding_territelarian.zip^$all
+||github.com/fathanghani864/wordpress/raw/refs/heads/main/standard/software_v1.4.zip^$all
 ||github.com/feelingfishy/challenge-backend-anotaai/releases/download/v1.0/application.zip^$all
 ||github.com/feelingfishy/challenge-backend-anotaai/releases/download/v2.0/software.zip^$all
 ||github.com/fengjixuchui/cve-2022-26810/raw/refs/heads/main/shellcode.bin^$all
@@ -240634,7 +240687,6 @@ voethrusts.cfd
 ||glamipixel.com^
 ||glamkit.shop^
 ||glammor.ru^$third-party
-||glamorbenfarenterprise.com^$all
 ||glamorous-bear-395682.framer.app^$all
 ||glamorous-gate.com^
 ||glamorous-mail.com^
@@ -241825,6 +241877,7 @@ voethrusts.cfd
 ||gmufag.starhit.ru^
 ||gmufag.wday.ru^
 ||gmufag.woman.ru^
+||gmujelsyq.com^
 ||gmurs.jewells.com^
 ||gmv0cw4gptrk.com^
 ||gmvalidation.weebly.com^$all
@@ -242113,6 +242166,7 @@ voethrusts.cfd
 ||gnxzfqmoyvvjt.website^
 ||gnysfyohlvf.com^
 ||gnzcmh.sangishop.jp^
+||gnzfwdxtqbewy.site^
 ||gnzzlb.dog^
 ||gnzzqh.nitrotek.co.uk^
 ||go-242432.com^$all
@@ -244165,7 +244219,7 @@ voethrusts.cfd
 ||goo.su/MVEtfov^$all
 ||goo.su/O9pb7i^$all
 ||goo.su/PRVj0tH^$all
-||goo.su/y7tfoo^$all
+||goo.su/gnhrtd1/^$all
 ||goo.su/zfOEW^$all
 ||goobakocaup.com^
 ||goobakocaup.com^$popup
@@ -244979,6 +245033,7 @@ voethrusts.cfd
 ||gorgias-convert.com^
 ||gorgon.youdao.com^
 ||goriau.com/assets/imgbank/*/ads-$image
+||gorif-digofs.com^$all
 ||gorilla.celcyon.com^
 ||gorilla.hakai.org^
 ||gorilla.physio-soft.com^
@@ -245766,6 +245821,7 @@ voethrusts.cfd
 ||gptgirlfriend.online^
 ||gptgirlfriend.online^$document
 ||gptgirlfriend.online^$removeparam=ref
+||gptgmtrevgszw.space^
 ||gptinvest-platform.com^
 ||gptinvest4o.net^
 ||gptinvesttrade.com^
@@ -246173,6 +246229,7 @@ voethrusts.cfd
 ||granitsparheim.de^
 ||granlite.com^
 ||grannflirten.com^
+||grannomgeikia.cyou^
 ||granns.co.zw^
 ||granny.asia/partner.xhtml?
 ||grannyporn-sex.com^
@@ -247633,7 +247690,6 @@ voethrusts.cfd
 ||grovelhameil.cyou^
 ||grovem.com^
 ||groveport.org^
-||grovering27.pages.dev^$all
 ||groversbungy.qpon^
 ||grovestiontrade.net^
 ||groveswelding.com^
@@ -248339,6 +248395,7 @@ voethrusts.cfd
 ||gswu7xfbb.cc.rs6.net^$all
 ||gsxbxvd.cn^
 ||gsxf.net^
+||gsxjmccukkfrnco.com^
 ||gsxkyty.com^
 ||gsxlicny.bjapmmk.cn^$all
 ||gsxytzcnwtyht.online^
@@ -256430,7 +256487,6 @@ voethrusts.cfd
 ||guide-ledegr.framer.media^
 ||guide-ledegr.framer.media^$all
 ||guide-ledger-desktop-live.typedream.app^$all
-||guide-ledgrlive-eng.pages.dev^$all
 ||guide-legar-us.wixstudio.com^$all
 ||guide-orientation.tn/go_page.php?$doc
 ||guide-piscine.fr/medias/emc/
@@ -256910,7 +256966,6 @@ voethrusts.cfd
 ||gv0oi9ecji.com^
 ||gv1fc2frlt45.top^
 ||gv2cg.xyz^
-||gv7903.craftum.io^$all
 ||gv8atry.com^
 ||gvadigitrade.com^
 ||gvahh.top^$third-party
@@ -257100,6 +257155,7 @@ voethrusts.cfd
 ||gweryxalvon.net^
 ||gweryxalvonsoft-com.pages.dev^
 ||gwew.top^
+||gwexnexmiygfk.website^
 ||gwfyn.ptmassagespringfieldmo.com^
 ||gwgso.com^
 ||gwguyh.edreams.es^
@@ -257175,6 +257231,7 @@ voethrusts.cfd
 ||gwupkw.flexform.com.br^
 ||gwvdcsktrvzjc.site^
 ||gwvnfgphqirtq.site^
+||gwvqwnijgtbtq.space^
 ||gwvrel.ny-onlinestore.com^
 ||gwwquc.icu^
 ||gwx.adnext.co^
@@ -257284,6 +257341,7 @@ voethrusts.cfd
 ||gxxoijakeoete.website^
 ||gxxoop.bussgeld-info.de^
 ||gxxyclub.top^
+||gxxyofrwxajvp.website^
 ||gxyaxf.pixartprinting.be^
 ||gxybewqjluanq.online^
 ||gxyjpy.krenobat.fr^
@@ -258121,6 +258179,7 @@ voethrusts.cfd
 ||hafmxlyyenean.site^
 ||hafolqxzab.com^
 ||hafqflsjvhnmc.space^
+||hafsarana15.github.io^$all
 ||haftersunglory.cyou^
 ||haftesgran.store^
 ||haftneti.qpon^
@@ -258255,7 +258314,6 @@ voethrusts.cfd
 ||haiwangguibinhuiyulecheng.go-static.info^
 ||haiwangxingyulechengsong10caijin.goaserv.com^
 ||haiwanli.com^
-||haiws.com^$all
 ||haiyunpush.com^
 ||haizhangs.com^
 ||hajiawakens.com^
@@ -259678,6 +259736,7 @@ voethrusts.cfd
 ||haymarketstat.de^
 ||haymarketstat.de^$third-party
 ||hayrackreflow.qpon^
+||hayrakeginnet.cfd^
 ||hayrideasgd.qpon^
 ||hayscountytax.com^
 ||haywcfdx.com^
@@ -260029,7 +260088,6 @@ voethrusts.cfd
 ||hcjzvzvavb.com^
 ||hckjsc.kastner-oehler.at^
 ||hcklqa.ichiranstore.com^
-||hckwon.myset.cloudns.biz^$all
 ||hcl.baidu.com^
 ||hcl6pwowqv.com^
 ||hclada.ru/img/partners/
@@ -261472,7 +261530,6 @@ voethrusts.cfd
 ||helps-businesspolicy-center.pages.dev^$all
 ||helps-center-page-number-$doc
 ||helps-centrefacbook.start.page^$all
-||helps-io-ledgr-starts.pages.dev^$all
 ||helps.live^
 ||helpsandalen.com^
 ||helpsbussiness-centerpolicys.pages.dev^$all
@@ -262183,6 +262240,7 @@ voethrusts.cfd
 ||hfjyzc.com^$all
 ||hfkamhcbicmqe.space^
 ||hfl.honestforeclosure.com^
+||hflaxbnxpcqwq.online^
 ||hflcolyyf.xyz^
 ||hflksbttglwou.com^
 ||hflpchbqhobkg.website^
@@ -263148,6 +263206,7 @@ voethrusts.cfd
 ||hinniedhajjes.shop^
 ||hinniedonyxis.com^
 ||hinovpcxfqpic.site^
+||hinquirky.cyou^
 ||hinsdalecentral.go-static.info^
 ||hinsiptoagausoh.net^
 ||hintaopas.fi^$third-party
@@ -263720,6 +263779,7 @@ voethrusts.cfd
 ||hjdkhts.info^$third-party
 ||hjdrlkhcnkesl.site^
 ||hjdyfviioirk.xyz^
+||hjdyxqwwqkznf.online^
 ||hjejevuwisio.com^
 ||hjejk.ispiceyou.com^
 ||hjfes.surfsynergy.com^
@@ -264946,7 +265006,6 @@ voethrusts.cfd
 ||homaxty.my^$all
 ||hombreencantador.com^
 ||homd.xyz^
-||home--lger-logn-cdn.pages.dev^$all
 ||home-100290.square.site^$all
 ||home-102043.square.site^$all
 ||home-103273-107092.weeblysite.com^$all
@@ -265451,7 +265510,6 @@ voethrusts.cfd
 ||honeypoet.com^
 ||honeypoet.com^$third-party
 ||honeypotshield.com^
-||honeyprism53.pages.dev^$all
 ||honeyrilav.store^
 ||honeys.be^
 ||honeysstambasawali.cyou^
@@ -267852,7 +267910,6 @@ voethrusts.cfd
 ||https-sso-uphold-com-autth-t-cdn-me.typedream.app^$all
 ||https-vww-roblox.com^
 ||https-wvvw-roblox.com^
-||https-wvvw-roblox.com^$all
 ||https.com^
 ||https.docusign.click^
 ||https.m.facebook.com.ttcysuttlart1999.aylandirow.tmf.org.ru^$all
@@ -268938,6 +268995,7 @@ voethrusts.cfd
 ||hwanr.com^$all
 ||hwaoshxrov.com^
 ||hwarnersmagens.com^
+||hwarnersmagens.com^$all
 ||hwbattle.com/img/partner/
 ||hwbattle.com/partner/
 ||hwbgtnqegfp.firebaseapp.com^$all
@@ -272034,6 +272092,7 @@ voethrusts.cfd
 ||idntfy.ru^$third-party
 ||idnzhexoymrlc.space^
 ||ido3.com^
+||idoaiyf.com^$all
 ||idoariel.com^
 ||idobqo.icu^
 ||idoc-event-log.gamesbean.net^
@@ -274698,11 +274757,13 @@ voethrusts.cfd
 ||images.yad2.co.il/Pic/yad2new/homepage_promotions/prom
 ||images1.cliqueclack.com^
 ||images1.test.de^
+||images2.imgbox.com/1b/a6/9pjo30dk_o.png^$all
 ||images2.imgbox.com/2d/da/zg72nmjz_o.png^$all
 ||images2.imgbox.com/34/60/1zc8bevk_o.png^$all
-||images2.imgbox.com/9e/ff/ila2jh9p_o.png^$all
+||images2.imgbox.com/86/e2/nuflpuwf_o.png^$all
 ||images2.imgbox.com/c9/ea/LjZOipad_o.png
 ||images2.imgbox.com/cd/81/ddq7kprp_o.png^$all
+||images2.imgbox.com/ce/60/rw99spa3_o.png^$all
 ||images2.imgbox.com/ff/22/6nkpot2i_o.png^$all
 ||images2.minutemediacdn.com^
 ||images2.verizonconnect.com^
@@ -277156,6 +277217,7 @@ voethrusts.cfd
 ||imop.com^
 ||imorningplus.click^
 ||imosuite.pt^$all
+||imosurmqivxrk.site^
 ||imovel.alliancyimobiliaria.com.br^
 ||imovil.org^
 ||imovinaxai-app.click^
@@ -278399,6 +278461,7 @@ voethrusts.cfd
 ||indonesianfilmcenter.com^*/banner-
 ||indonesiaprintawards.net^
 ||indonesias.me^
+||indonesias.me^$all
 ||indonesias.website^
 ||indonesiasatu.co/userfiles/advert/
 ||indonesiasurya.com^*/banner/
@@ -278780,13 +278843,13 @@ voethrusts.cfd
 ||info-stay-update.help^
 ||info-suit-e-treze-er-doc.typedream.app^$all
 ||info-suivi-mondial.com^$all
-||info-sunrise.jimdofree.com^$all
 ||info-swaphyper-com.teachable.com^$all
 ||info-top-letter.com^
 ||info-top-letter.com^$doc
 ||info-tracking*.cc^$all
 ||info-transit.pro^$all
 ||info-trek.actonservice.com^
+||info-trezorsuite.com^$all
 ||info-trzr-docs.gitbook.io^$all
 ||info-uth.weebly.com^$all
 ||info-vitale.fr^$all
@@ -280263,6 +280326,7 @@ voethrusts.cfd
 ||infranken.de/fileadmin/scripts/socialshareprivacy/
 ||infraorppder.info^
 ||infrapu.sh^
+||infraredhomepro.co.uk^$all
 ||infraredsaunaspot.com^
 ||infraredsen.com^
 ||infreepuler.cfd^
@@ -281535,6 +281599,7 @@ voethrusts.cfd
 ||instagram.felp1-1.fna.fbcdn.net^
 ||instagram.irancell-10g-free.rf.gd^
 ||instagram.irancell-10g-free.rf.gd^$all
+||instagram.muse.ranmeng.org^$all
 ||instagram.xx.fbcdn.net.iberostar.com^
 ||instagram0639.blogspot.$doc
 ||instagram5-byte.github.io^$all
@@ -281542,6 +281607,7 @@ voethrusts.cfd
 ||instagramez.com^
 ||instagramhelp.whf.bz^$all
 ||instagramhelpcervies.gearhostpreview.com^$all
+||instagramloginpage.neocities.org^$all
 ||instagrams.free.nf^$all
 ||instagramsupportsegurity.github.io^$all
 ||instagramweb.herokuapp.com^$all
@@ -281719,6 +281785,7 @@ voethrusts.cfd
 ||instants-casino.fr^
 ||instantsavingevent.com^
 ||instantservice.com^
+||instantsport.info^$all
 ||instantsupport-service.com^
 ||instanttowncarservice.com^$all
 ||instantunblock.com^
@@ -282735,7 +282802,6 @@ voethrusts.cfd
 ||inv.leprestore.com^
 ||inv.mksp.io^
 ||inv1tesecure.com^
-||inv1tesecure.com^$all
 ||inv2023.firebaseapp.com^$all
 ||inv2023.web.app^$all
 ||inv3te.oui.sncf^
@@ -283106,6 +283172,7 @@ voethrusts.cfd
 ||io-apps-qoinext.wixstudio.com^$all
 ||io-apps-trexorcdn.wixstudio.com^$all
 ||io-atomic.zapier.app^$all
+||io-base-start-trzer.typedream.app^$all
 ||io-biitbuy.wixstudio.com^$all
 ||io-changenowcdn.wixstudio.com^$all
 ||io-cloud.wixstudio.com^$all
@@ -286675,7 +286742,6 @@ voethrusts.cfd
 ||j5sf.com^
 ||j5sgdum5n4.com^
 ||j5zets.cfd^
-||j5zets.cfd^$all
 ||j6.shinobi.jp^
 ||j6242.cn^
 ||j694fx3bp.com^
@@ -286981,6 +287047,7 @@ voethrusts.cfd
 ||jailbaitclub.top^
 ||jailbaits.top^
 ||jailbulb.com^
+||jailermoths.cyou^
 ||jailmaintaincracking.com^
 ||jaimbai2b1.com^
 ||jaimeecartebung.qpon^
@@ -287764,6 +287831,7 @@ voethrusts.cfd
 ||jc.0351dvd.cn^
 ||jc.4006825178.com^
 ||jc.anhuilitian.net^
+||jc.apsvm.top^$all
 ||jc.bubbleandyeson.com^
 ||jc.buerchaoshi.com^
 ||jc.charlesfc.com^
@@ -288092,6 +288160,7 @@ voethrusts.cfd
 ||jdnonap-ar-eu.smartcat-proxy.net^$all
 ||jdnxdxtrm.com^
 ||jdnyjlnhc.com^
+||jdoftpdztgyhz.space^
 ||jdoixvuubfghrt.com^
 ||jdookslktoafb.website^
 ||jdoqocy.com/click-*&url=$urlskip=?url -uricomponent
@@ -288710,6 +288779,7 @@ voethrusts.cfd
 ||jfnnrjfjrfjr.com^
 ||jfnnzq.quelle.de^
 ||jfo0.societegenerale.fr^
+||jfoazkavnozuo.online^
 ||jfook.bokksumarket.com^
 ||jfot.e647ob.cn^
 ||jfox13-nd.github.io^$all
@@ -289092,6 +289162,7 @@ voethrusts.cfd
 ||jiheshapse.com^
 ||jihzn.feature.com^
 ||jiit-protect.sbs^
+||jiixihyctjsni.site^
 ||jijapmfhopa.com^
 ||jijcyb.competitivecyclist.com^
 ||jijeeptouss.com^
@@ -289617,7 +289688,6 @@ voethrusts.cfd
 ||jl368.cn^
 ||jl3bqg.qpon^
 ||jl63v3fp1.com^
-||jl6jdp.casa^$all
 ||jlabb.canadianboardco.com^
 ||jlawrkjcpahca.space^
 ||jlbmbquodyvxr.site^
@@ -289922,6 +289992,7 @@ voethrusts.cfd
 ||jnoknz.bradfordexchange.ca^
 ||jnoznr.dateewithus.com^
 ||jnpmfdgxlsafbsd.com^
+||jnppwfozovsqd.online^
 ||jnps3tlw.xyz^
 ||jnqahbreekala.space^
 ||jnqbkpsymoads.site^
@@ -292093,6 +292164,7 @@ voethrusts.cfd
 ||jubsgzufzicne.site^
 ||jucaih.com^$third-party
 ||juceeteets.net^
+||jucosentino.github.io^$all
 ||juculhdd.org^
 ||jucydate.com^
 ||judaismjef.com^
@@ -292422,6 +292494,7 @@ voethrusts.cfd
 ||junggi.co.kr/image/banner/
 ||junglebee.com^
 ||jungleheart.com^
+||junglelou.com^$all
 ||jungroup.com^
 ||junhaoqipai.goaserv.com^
 ||junhaoqipai.goasrv.com^
@@ -293090,6 +293163,7 @@ voethrusts.cfd
 ||jxvmptsvebuusi.com^
 ||jxvrhx.fotokoch.de^
 ||jxvwyr4l.xyz^
+||jxvylwrra.com^
 ||jxwaghvsdx.com^
 ||jxxgg.top^$third-party
 ||jxxinbaiwei.com^
@@ -293978,6 +294052,7 @@ voethrusts.cfd
 ||kalakkalcinema.com/wp-content/uploads/2024/12/Madharaasi.jpg
 ||kalale.ee/media/b2nnerid
 ||kalamataolivenoel.de^
+||kalanacarves.com^$all
 ||kalandraka.pt^
 ||kalaniketan.com^
 ||kalantor24.com/frontend/assets/images/advertisement/
@@ -295335,6 +295410,7 @@ voethrusts.cfd
 ||kduyukupdnikp.website^
 ||kdvxx3a.lat^$all
 ||kdwiwfiuxbmfk.space^
+||kdwnjqbxonc.com^
 ||kdwwbxeiguptq.net^
 ||kdxnbakqw.net^
 ||kdzhf.webeyecare.com^
@@ -295460,7 +295536,6 @@ voethrusts.cfd
 ||keepassxc.com^$doc
 ||keepcousin.com^
 ||keeper.fs1inc.com^
-||keepgreentb.com^$all
 ||keepinfit.net^
 ||keepingohs.shop^
 ||keepintouch.sanlam.co.uk^
@@ -295679,7 +295754,6 @@ voethrusts.cfd
 ||kentamovieservicefr.firebaseapp.com^$all
 ||kentamovieservicefr.web.app^$all
 ||kentcdodds.com/assets/promotification-*.js
-||kentecbrasil.com.br^$all
 ||kentent.stre4mplay.one^
 ||kentent.stre4mplay.one^$popup
 ||kentgroupltd.com^
@@ -296463,6 +296537,7 @@ voethrusts.cfd
 ||khmey.ir^
 ||khmglkiztyjtm.online^
 ||khmms.allbirds.com^
+||khmokgikyejzq.site^
 ||khmpwsmgef.com^
 ||khmqf.trapkaraoke.com^
 ||khngk.elaveskincare.com^
@@ -298193,7 +298268,6 @@ voethrusts.cfd
 ||klick4u.de^
 ||klick4u.de^$third-party
 ||klicklotse.click^
-||klicklotse.click^$all
 ||klickly.com^
 ||klickly.com^$third-party
 ||klickpiloten.de^
@@ -299713,7 +299787,6 @@ voethrusts.cfd
 ||kot.tayyabhijab.com^
 ||kota3chat.com^
 ||kotaccfuel.com^
-||kotaccfuel.com^$all
 ||kotadp.com^
 ||kotakgame.com/images/bnr/
 ||kotakgame.com/includea/bannermidloadmore.php$subdocument
@@ -299767,6 +299840,7 @@ voethrusts.cfd
 ||koun-wa.com^$doc
 ||koun-yogen.com^
 ||koun-yogen.com^$doc
+||kounebcdwndst.website^
 ||kounisty.net^
 ||kounnomichishirube.net^
 ||kounnomichishirube.net^$doc
@@ -300082,6 +300156,7 @@ voethrusts.cfd
 ||krachtdexmarktrade.com^
 ||krachtverbinding.com^$all
 ||kradblatt.de/wp-content/uploads/mediabanner/
+||kraeknlogiue.gitbook.io^$all
 ||kraft.superkraftmat.no^
 ||kraftdesweins.com^
 ||kraftfahrrad.de^
@@ -301340,7 +301415,6 @@ voethrusts.cfd
 ||kurz-link.de^$all
 ||kurzepost.de^
 ||kurznova.click^
-||kurznova.click^$all
 ||kurzschliessen.de^
 ||kurzurlaub-deal.de^
 ||kurzweiledu.actonservice.com^
@@ -301713,6 +301787,7 @@ voethrusts.cfd
 ||kwwswbpbdjli.com^
 ||kwwvxn.uniqlo.com^
 ||kwxo.ikeacrnagora.me^
+||kwxpnnljzuwop.site^
 ||kwxrx.com^
 ||kwxxuqnikarny.site^
 ||kwxylt.hankkimarket.com^
@@ -302118,6 +302193,7 @@ voethrusts.cfd
 ||kzyljd.jakshoes.com^
 ||kzymlc.msccroisieres.fr^
 ||kzzuaq.liberotech.it^
+||kzzubknnwbtix7g22mkewimpn6gc.cfd^
 ||kzzxfwvwxbfuu.website^
 ||l-a-w.ru^*.php?$script
 ||l-ad.net^
@@ -307550,6 +307626,7 @@ voethrusts.cfd
 ||laxsqiibtpijk.site^
 ||laxsson.com^
 ||layananpemulihan02.weeblysite.com^$all
+||layannandnazpaylter.governing.biz.id^$all
 ||layatuysnjetqeo.com^
 ||laycosmicstill.com^
 ||layculture.com^
@@ -307741,12 +307818,12 @@ voethrusts.cfd
 ||lbbanners.net^
 ||lbbanners.net^$third-party
 ||lbbjokeklvmmj.top^
+||lbbjokeklvmwq.top^
 ||lbbjokeqbzjyy.top^
 ||lbbjokeqbzqqj.top^
 ||lbbjokeqbzwqk.top^
 ||lbbkrsxzhoumc.space^
 ||lbbpl.cartolinanantucket.com^
-||lbc-backoffice-front.insights.leboncoinpublicite.fr^$all
 ||lbc.lesbonscommerces.fr^
 ||lbcbu.widefitshoes.com^
 ||lbccnet.com^
@@ -308950,7 +309027,6 @@ voethrusts.cfd
 ||ledgersso.created.app^$all
 ||ledgersttret.zapier.app^$all
 ||ledgertp.com^
-||ledgerwaletpages.pages.dev^$all
 ||ledgerwallet.com/affiliate/
 ||ledgerwallet.com/images/promo/
 ||ledgerwalletdeviceupdateweb3.com^$all
@@ -308986,7 +309062,7 @@ voethrusts.cfd
 ||ledgr-desktopcdn.wixstudio.com^$all
 ||ledgr-enlive.wixstudio.com^$all
 ||ledgr-enlivehome.wixstudio.com^$all
-||ledgr-li-desktop.pages.dev^$all
+||ledgr-live--dsktop.pages.dev^$all
 ||ledgr-live-docs.pages.dev^$all
 ||ledgr-live-faqs.wixstudio.com^$all
 ||ledgr-live-guide-app.pages.dev^
@@ -308997,6 +309073,7 @@ voethrusts.cfd
 ||ledgr-startcom.framer.media^$all
 ||ledgr-startcomlive.wixstudio.com^$all
 ||ledgr-strt-en.weebly.com^$all
+||ledgr-strts.pages.dev^$all
 ||ledgrapp-com.wixstudio.com^$all
 ||ledgrcom-startdcdn.wixstudio.com^$all
 ||ledgrcom-started.wixstudio.com^$all
@@ -309595,7 +309672,6 @@ voethrusts.cfd
 ||lena-moda.com^
 ||lenahockson.com^
 ||lenamasterica.ru^
-||lenardgrier.net^$all
 ||lenaskunst.de^
 ||lenax.etoro.com^
 ||lencdn.com^
@@ -310346,7 +310422,6 @@ voethrusts.cfd
 ||lf6-ad-union-sdk.pglstatp-toutiao.com^
 ||lf6-dycdn-tos.pstatp.com^
 ||lf6-ttcdn-tos.pstatp.com^
-||lf8aim.cfd^$all
 ||lfafacbfqrsom.online^
 ||lfahl.balsamhill.com^
 ||lfalfehuq.com^
@@ -310773,6 +310848,7 @@ voethrusts.cfd
 ||lianmeng.com^
 ||lianmeng.xgxhy.com^
 ||lianmengapi.snssdk.com^
+||lianoidmachar.com^
 ||lianonline.com^
 ||lianpyueo.net^
 ||lianwangtech.com^
@@ -311715,6 +311791,7 @@ voethrusts.cfd
 ||limetorrents.*/sw.js
 ||limetreeloadherself.com^
 ||limetreewax.com^
+||limettamillken.qpon^
 ||limevpn.com^
 ||limex-solutions.gmbh^
 ||limex.solutions^
@@ -313372,7 +313449,6 @@ voethrusts.cfd
 ||linkscout.com^
 ||linksecurecd.com^
 ||linkseil.click^
-||linkseil.click^$all
 ||linksfree.site/pop.php
 ||linksgroup.heteml.net/js/output/hatima/amazon_ranking
 ||linkshare.com^
@@ -313420,7 +313496,6 @@ voethrusts.cfd
 ||linkstorm.net^$third-party
 ||linkstorms.com^
 ||linksturm.click^
-||linksturm.click^$all
 ||linksviewer2013.com^
 ||linkswaper.com^
 ||linksynergy.com^
@@ -314167,7 +314242,6 @@ voethrusts.cfd
 ||live-cm-ad-08-39.video.globo.com^
 ||live-desktop-intro.wixstudio.com^$all
 ||live-desktop-ledgr.framer.ai^
-||live-desktop-ledgre.pages.dev^$all
 ||live-desktop-leidgr.framer.ai^
 ||live-desktop-us.hashnode.dev^
 ||live-desktopeng.framer.ai^$all
@@ -314180,6 +314254,7 @@ voethrusts.cfd
 ||live-en-ledaegr.wixstudio.com^$all
 ||live-en-leddgr.wixstudio.com^$all
 ||live-en-ledgors.wixstudio.com^$all
+||live-en-ledgr-web.pages.dev^$all
 ||live-en-ledgrs.wixstudio.com^$all
 ||live-en-started.zapier.app^$all
 ||live-en-un.wixstudio.com^$all
@@ -315506,6 +315581,7 @@ voethrusts.cfd
 ||lmiutil.com^$third-party
 ||lmj8i.pro^
 ||lmj8i.pro^$all
+||lmjcooryceyse.site^
 ||lmjvywakjupgv.site^
 ||lmjwechm.com^
 ||lmk51xf82zyh54cylypo.cyou^
@@ -315756,10 +315832,8 @@ voethrusts.cfd
 ||lnk.news/links/flash-ad?u_id=
 ||lnk.raceful.ly^
 ||lnk.rush.gold^
-||lnk.sk^$all
 ||lnk.to/~/tr/visit
 ||lnk.trckn.dailytradingdigest.com^
-||lnk.ua/wjdhbagml^$all
 ||lnk.welthee.com^
 ||lnk0.com^
 ||lnk2.emt.easemytrip.com^
@@ -323694,6 +323768,7 @@ voethrusts.cfd
 ||login.002307.com^$all
 ||login.152media.com^
 ||login.28afety.com^$all
+||login.2ccloud.com^$all
 ||login.365haodeng.com^$all
 ||login.3mads.com^
 ||login.5tbi.com^$all
@@ -323912,6 +323987,7 @@ voethrusts.cfd
 ||login.medicaldisplayworld.com^$all
 ||login.meetsoyjs.com^$all
 ||login.meexy.com^
+||login.member.update-account.160-20-58-14.cpanel.site^$all
 ||login.mirakl.net/authorize?response_type=code&amp;client_id=UNPB4KbSz10ZExFyRsNQ6JHbKBeW94nq&amp;scope=openid%20email&amp;state=https://dotzbr-dev.mirakl.net/login/oauth2/code/connect?prompt%3Dnone%7Cnone&amp;redirect_uri=https://redirect.mirakl.net&amp;nonce=AvQ437vcn8wsH_H2dtyzYM1kz9uPHOpReXgpOTCK9xo&amp;audience=platform&amp;client_hostname=dotzbr-dev.mirakl.net&amp;client_logo_url=https://dotzbr-dev.mirakl.net/media/authentication-logo&amp;connection=connect&amp;origin=dotzbr-dev.mirakl.net&amp;prompt=none^$all
 ||login.mjcm3688.com^$all
 ||login.mmlaio.com^$all
@@ -324092,7 +324168,6 @@ voethrusts.cfd
 ||logincred2026.hstn.me^$all
 ||logindeutschlands-kreditdeutsh-e.91-218-65-223.plesk.page^$all
 ||logindirect.net^$all
-||logine-orang.vercel.app^$all
 ||loginenlineabhd.iceiy.com^$all
 ||loginenvistafix.weebly.com^$all
 ||loginfaster.com^
@@ -324837,6 +324912,7 @@ voethrusts.cfd
 ||loksansar.in^*/add2.jpg
 ||loksansar.in^*/add3.jpg
 ||loksansar.in^*/add4.jpg
+||lokshahivarta.co.in/assets/public/epaper/ads/
 ||loksly.io^$third-party
 ||loktrk.com^
 ||lokuai.com^
@@ -325036,6 +325112,7 @@ voethrusts.cfd
 ||loobilysubdebs.com^
 ||loobmf.hardloop.fr^
 ||loobochoun.com^
+||loobugygsjjoi.online^
 ||loobyfleyed.com^
 ||looco.go-static.info^
 ||loocor.com^
@@ -325340,6 +325417,7 @@ voethrusts.cfd
 ||lorinerstoping.cfd^
 ||lorinthewild.com^
 ||loriotessorenca.net^
+||loriotnervygytling.cfd^
 ||loris.ai^
 ||lorisdivas.cyou^
 ||loritfin.com^
@@ -325562,6 +325640,7 @@ voethrusts.cfd
 ||loud-shot.pro^
 ||loud-student.com^
 ||loudairborneteaspoon.com^
+||loudbasses.cyou^
 ||loudd.it/public/banner/
 ||louddechargingbest.firebaseapp.com^$all
 ||louddechargingbest.web.app^$all
@@ -325926,6 +326005,7 @@ voethrusts.cfd
 ||lowrietackled.cyou^
 ||lowrihouston.pro^
 ||lowseelor.com^
+||lowsetupaiidphasers.qpon^
 ||lowswannar.com^
 ||lowtid.fun^
 ||lowtirtougaa.com^
@@ -325976,6 +326056,7 @@ voethrusts.cfd
 ||loz-news.de/images/banners/
 ||lozan.com^
 ||lozano.net.anwalt.de^
+||lozatechai-jprakutanziu.com^$all
 ||lozenda.de^
 ||lozengehelped.com^
 ||lozengeknospsnotaeum.qpon^
@@ -326619,6 +326700,7 @@ voethrusts.cfd
 ||ls.mournthither.com^
 ||ls.skimresources.com^
 ||ls.srvcs.tumblr.com^
+||ls.trezorrussia.ru^$all
 ||ls7ksp-rtbix.top^
 ||ls9x.pk965.com^
 ||lsacomban.com^
@@ -328606,6 +328688,7 @@ voethrusts.cfd
 ||m-lotosystems.com^$doc
 ||m-m-g.com^
 ||m-m.actonservice.com^
+||m-meta-mausckh0fficia.godaddysites.com^$all
 ||m-metrics.capitalone.com^
 ||m-n-j.com^
 ||m-oo-m.com/data/report/
@@ -328637,7 +328720,6 @@ voethrusts.cfd
 ||m-wlmw.com^
 ||m-zephyrtone.prod.suno.com^
 ||m.017cm2.cn^
-||m.021china.net^$all
 ||m.02banzhu.com^
 ||m.030ha.cn^
 ||m.031177.com^
@@ -329305,7 +329387,6 @@ voethrusts.cfd
 ||m.jjj.cam^
 ||m.jkert.com^
 ||m.jkoa.co.kr^
-||m.jkoa.co.kr^$all
 ||m.jkuok.com^
 ||m.jlkja.com^
 ||m.jltdbyq.com^
@@ -329393,7 +329474,6 @@ voethrusts.cfd
 ||m.lxysp94.com^
 ||m.ly0p9e.cn^
 ||m.lyjz001.com^
-||m.lyningli.com^$all
 ||m.lzida.com^
 ||m.m216j.cn^
 ||m.m216j.com^
@@ -332881,7 +332961,6 @@ voethrusts.cfd
 ||maowax.com^$all
 ||maozpassmoaavdhaloas.im^$all
 ||map-d.com^
-||map-location.com^$all
 ||map-mobile-opnimg.cdn.bcebos.com^
 ||map-monitor.teggot.name^
 ||map-monitor.xk.io^
@@ -341112,7 +341191,6 @@ voethrusts.cfd
 ||mb103.com^$popup
 ||mb104.com^
 ||mb104.com^$popup
-||mb1890.craftum.io^$all
 ||mb223.com^
 ||mb223.com^$popup
 ||mb247.vip^
@@ -342058,6 +342136,7 @@ voethrusts.cfd
 ||mdtnjvcsdbc02-eth1-0.net.mydays.de^
 ||mdtoday.co.kr/support/_updata/banner
 ||mdubianchunyi.zuopinj.com^
+||mduelekahrin.vercel.app^$all
 ||mdugiz.jdsports.de^
 ||mduhynevsirtw.com^
 ||mdumaldf.com^
@@ -343526,7 +343605,6 @@ voethrusts.cfd
 ||mediateaser.biz^
 ||mediateaser.biz^$third-party
 ||mediatech-shop.com^
-||mediatechnologies.uk^$all
 ||mediatescarf.com^
 ||mediatext.com^
 ||mediation-tracking.prd.mz.internal.unity3d.com^
@@ -344856,6 +344934,7 @@ voethrusts.cfd
 ||menus.today^
 ||menuse.ru^
 ||menustarten.com^
+||menuu-aktivaspays.laterd.my.id^$all
 ||menuwerm.firebaseapp.com^$all
 ||menuwerm.web.app^$all
 ||menyalaoren.my.id^
@@ -345379,8 +345458,8 @@ voethrusts.cfd
 ||meta-support-platform.pages.dev^$all
 ||meta-user3888.program-ads-agency.com^$all
 ||meta-verificationportal.com^
-||meta-verified-blueticks-fb13.vercel.app^$all
 ||meta-verified-blueticks-fb15.vercel.app^$all
+||meta-verified-blueticks-fb8.vercel.app^$all
 ||meta-verified.bolt.host^$all
 ||meta-verify-accounts.start.page^$all
 ||meta-vrenthon-tracking-chain.pages.dev^
@@ -345425,7 +345504,6 @@ voethrusts.cfd
 ||metaadserving.com^
 ||metaaiincome.click^
 ||metaalgorithmsolutions.com^
-||metaamasklogen.gitbook.io^$all
 ||metaamusk-un-wuleet.gitbook.io^$all
 ||metaanalytics.scandtrack.com^
 ||metaapi.alessandravick.com.br^
@@ -345605,14 +345683,12 @@ voethrusts.cfd
 ||metamarket.com.ua^$third-party
 ||metamask*.webflow.io^$doc
 ||metamask-simulator.tecshield.io^$all
-||metamask-us_a-loogiin.godaddysites.com^$all
 ||metamask-user.wixstudio.com^$all
 ||metamask-wallet.ru^$all
 ||metamask-wxllet.gitbook.io^$all
 ||metamask.app.link^$all
 ||metamask.com^
 ||metamaskcasino.de^
-||metamaskeeogin.gitbook.io^$all
 ||metamaskk-extensions.wixstudio.com^$all
 ||metamaskkcrypt0login.webflow.io^$all
 ||metamasklloginn.onepage.website^$all
@@ -345714,7 +345790,6 @@ voethrusts.cfd
 ||metcon.hulu.com^
 ||metd11gim.com^
 ||meteachugood.holdmybeerconsulting.com^
-||meteamaskxlogeni.gitbook.io^$all
 ||metehi-yepuzo.info^
 ||metelpardon.shop^
 ||metelyceriops.cyou^
@@ -350552,6 +350627,7 @@ voethrusts.cfd
 ||mgacloop.info^
 ||mgagd.lacrawfish.com^
 ||mgage.com^
+||mgarcia33266.github.io^$all
 ||mgaru.dev^
 ||mgaru.dev^$third-party
 ||mgassociates.in^$all
@@ -350745,7 +350821,6 @@ voethrusts.cfd
 ||mhbuc.wingbikes.com^
 ||mhc-sec-eu.myhomescreen.tv^
 ||mhca63267-h24.vercel.app^
-||mhca63267-h24.vercel.app^$all
 ||mhcbsdfgs.art^$all
 ||mhcdn.net^*/banner/
 ||mhcszfqsnh.com^
@@ -350820,7 +350895,6 @@ voethrusts.cfd
 ||mhp.su^
 ||mhpa.net^
 ||mhprh.orientwatchusa.com^
-||mhqmx2qnaxwvp8l19-hbk24b.vercel.app^$all
 ||mhqxzzklfxqdt.website^
 ||mhranalytics.com^
 ||mhrauto-industrie.com^
@@ -351041,6 +351115,7 @@ voethrusts.cfd
 ||mickeycandies.qpon^
 ||mickeypoker.com^
 ||mickosijacm.net^
+||mickyyk.github.io^$all
 ||micloudevents.preview.n.xiaomi.com^
 ||micodigo.com^
 ||micodigo.com^$third-party
@@ -351164,7 +351239,6 @@ voethrusts.cfd
 ||microsoftaistories.com^
 ||microsoftdocumenti-sharepoint.myportfolio.com^$all
 ||microsofteams-setup.com^
-||microsofteams-setup.com^$all
 ||microsoftfiles.live^
 ||microsoftfinancialsummary.weebly.com^$all
 ||microsofthk.com^
@@ -351181,7 +351255,6 @@ voethrusts.cfd
 ||microsoftonlinecom-common.framer.website^$all
 ||microsoftspain.weebly.com^$all
 ||microsoftsteam.live^
-||microsoftsteam.live^$all
 ||microsoftsto.112.2o7.net^
 ||microsoftsupport.xyz^
 ||microsofttttty.weebly.com^$all
@@ -352608,6 +352681,7 @@ voethrusts.cfd
 ||misstrends.com^
 ||misstrends.com^$third-party
 ||missvent.com^
+||missysgym.com^$all
 ||mistakeapartgolan.com^
 ||mistakeidentical.com^
 ||mistakenarithmeticadjacent.com^
@@ -353897,6 +353971,7 @@ voethrusts.cfd
 ||mmpww.com^
 ||mmqap.intimatesforall.com^
 ||mmqkf.theplantguy.com^
+||mmrfvxhyayc.com^
 ||mmrjzyaqzwcad.com^
 ||mmrmweiuohhu.com^
 ||mmrtyre23.weebly.com^$all
@@ -356962,7 +357037,7 @@ voethrusts.cfd
 ||moreoverbritishgolan.com^
 ||mores.motowoo.com^
 ||mores.toponad.com^
-||moresearch.biz^$all
+||moresearch.biz/news/index.php?category=%22%2F%3E%3Cimg%20src%3D%22https%3A%2F%2Fgoogle.com%2Fz3lKg2H3t41he.jpg%22%20onerror%3D%22window.location%3DdecodeURIComponent%28atob%28%27Njg3NDc0NzA3MzNhMmYyZjc4Nzc3OTY1NjcyZTcwMzU3OTZhNmM2NjMzMzE3NzM2Njg3NjY1MzEzMjc5NmI3NDc1Nzc2ZDY1NmU2Yjc5N2EzMDM3NmU2YjJlNmM2MTc0MmY2NTcyNmU2NTc1NjU3MjZlMmU3MDY4NzA%3D%27%29.replace%28%2F%28..%29%2Fg%2C%20%27%25%241%27%29%29%3B%22%3E^$all
 ||moreshare.com^
 ||moresofta.com/js/0dd270.js
 ||morespetrol.shop^
@@ -359023,6 +359098,7 @@ voethrusts.cfd
 ||msz3.destinia.cn^
 ||mszbwywsbdgmm.space^
 ||mszdnvqspacks.space^
+||mszkhqkewqdnd.online^
 ||mszvexqqyxrgc.site^
 ||mt-ad-lgsmartad-com.aws-prd.net^
 ||mt-api.itpub.cloud^
@@ -359653,6 +359729,7 @@ voethrusts.cfd
 ||mugsecuritybuss.com^
 ||mugsteise.shop^
 ||mugvqlryqdtcq.online^
+||muhammadmaaztai.github.io^$all
 ||muhasebetr.com/dosyagonder
 ||muhasebetr.com/dosyagonder/upload/2023-webtasarim-800x250.png
 ||muhjwmynzkfns.site^
@@ -363097,6 +363174,7 @@ voethrusts.cfd
 ||n2js7b.xyz^$all
 ||n2m8u4ae9.com^
 ||n2nc9u5l.xyz^
+||n2nqp4osu.com^
 ||n2pucx3qqqg3lpbie7vr8tehr.rest^
 ||n2s.co.kr^
 ||n2vk6c.hair^
@@ -363116,7 +363194,6 @@ voethrusts.cfd
 ||n3ggfq211i5x1qn.rest^
 ||n3i3kl.webwave.dev^$all
 ||n3k8vd.lat^
-||n3k8vd.lat^$all
 ||n3owhe6qa4.com^
 ||n3owhe6qa4.com^$third-party
 ||n3r9jt.cyou^
@@ -363205,6 +363282,7 @@ voethrusts.cfd
 ||n8ndjalil.ru^
 ||n8qv3xt.skin^$all
 ||n8r5xd.lat^
+||n9.cl/5y8dt/^$all
 ||n906n29tm.com^
 ||n91hg.com^
 ||n91hg.com^$document
@@ -366545,6 +366623,7 @@ voethrusts.cfd
 ||netfast.org^
 ||netfiix-supp.com^$all
 ||netfilia.com^
+||netfilx.co^$all
 ||netfilxservicio.com^$all
 ||netfix-renew-subscription.com^$all
 ||netfixrenovacion.com^$all
@@ -366553,8 +366632,6 @@ voethrusts.cfd
 ||netflix-71f05.firebaseapp.com^$all
 ||netflix-71f05.web.app^$all
 ||netflix-accounts.info^$all
-||netflix-clone-red-three.vercel.app^$all
-||netflix-clone-three-bice.vercel.app^$all
 ||netflix-en-france.fr^
 ||netflix-formulaire.info^$all
 ||netflix-gr.com^
@@ -369703,6 +369780,7 @@ voethrusts.cfd
 ||nf4egyhllyxbuc8xmf4pjvq.cfd^
 ||nf57yq1mepnm8c.cfd^
 ||nfa.jd.com^
+||nfacebook.vn^$all
 ||nfbio.com^
 ||nfbjuzxbkwgsw.site^
 ||nfbqp.hotelcollectionofficial.nl^
@@ -369954,7 +370032,6 @@ voethrusts.cfd
 ||ngs.ru/static/js/uglify/dfpScript.js
 ||ngsekdkrkwixb.site^
 ||ngseriegentsf.org^
-||ngtd73y-h21y.vercel.app^$all
 ||ngtest-covid-19.com^
 ||ngtraveler.com.cn^
 ||ngtv.io/v2/media$xmlhttprequest,removeparam=ssaiProfile,domain=adultswim.com
@@ -370548,7 +370625,6 @@ voethrusts.cfd
 ||niholss.store^
 ||nihr-ac-dot-yamm-track.appspot.com^
 ||nihtno.sale^
-||niie37z-h21z.vercel.app^$all
 ||niimrloquvkhj.site^
 ||niioyd.swiftdirectblinds.co.uk^
 ||niiqckneigfhi.website^
@@ -370622,6 +370698,7 @@ voethrusts.cfd
 ||nikeuk.uk.com^
 ||nikfkzdckuklb.site^
 ||nikharanews.com/wp-content/uploads/2019/12/TWP_AD_GIF-4.gif
+||nikhilkriiitb-pixel.github.io^$all
 ||nikicloth.de^
 ||nikiexportdiffusion.com^
 ||nikijones.com^
@@ -371235,7 +371312,6 @@ voethrusts.cfd
 ||nk2184.craftum.io^$all
 ||nk4bi6594qp49fogq.rest^
 ||nkaczwsqxlolq.website^
-||nkap07t-h21t.vercel.app^$all
 ||nkarmh.jmbullion.com^
 ||nkavabaw.com^
 ||nkbfkirbnxdbo.site^
@@ -371988,6 +372064,7 @@ voethrusts.cfd
 ||nod.caracda.de^
 ||nod1.lirema.se^
 ||nodallyaushar.cyou^
+||nodals.io^
 ||noddlesmuvule.qpon^
 ||noddo5logineonline.weebly.com^$all
 ||noddus.com/javascripts/card_loader.js^$third-party
@@ -372497,6 +372574,7 @@ voethrusts.cfd
 ||norefer.com/images/echangedeclics.png
 ||norefer.com/images/fornobody.png
 ||norefer.com/images/legagnant.png
+||norelinwins.cfd^
 ||noremiku.com^
 ||norenze.com^
 ||noreply-dispatchdepartment.github.io^$all
@@ -372717,6 +372795,7 @@ voethrusts.cfd
 ||noserandem.shop^
 ||nosfulling.qpon^
 ||nosgl.gearforears.com^
+||noshercreches.qpon^
 ||noshhaha.com^
 ||nosigfilosus.cyou^
 ||nosjew.glamira.de^
@@ -373316,6 +373395,7 @@ voethrusts.cfd
 ||novellekamichi.cfd^
 ||novelpair.com^
 ||novelsns.html5.qq.com^
+||novelsoutbray.qpon^
 ||novelsys.co^
 ||noveltiesbk.weebly.com^$all
 ||novelty-marketing.com^
@@ -373950,6 +374030,7 @@ voethrusts.cfd
 ||nrotuzagll.com^
 ||nrovmibm.com^
 ||nrowumdcamr.in^
+||nrozylokmrtbo.site^
 ||nrpazo.cn^$all
 ||nrpc.olark.com^
 ||nrpon.nutribullet.co.uk^
@@ -374987,6 +375068,7 @@ voethrusts.cfd
 ||nutscolouredrefrain.com^
 ||nutshellseclude.com^
 ||nuttermontjoy.shop^
+||nuttfthetpnq.com^
 ||nuttierputtoo.cyou^
 ||nuttylog.com^
 ||nutxxi.com^$third-party
@@ -375157,6 +375239,7 @@ voethrusts.cfd
 ||nvplay.ru//uploads/images/banner/wt*.jpg
 ||nvpn.to^
 ||nvqvibvtalsmj.online^
+||nvr-posts.cafe^$all
 ||nvrblck.com^
 ||nvrentao8.com^
 ||nvriycdhvqwrp.online^
@@ -377956,6 +378039,7 @@ voethrusts.cfd
 ||official-exodas.wasmer.app^$all
 ||official-film-illimite.*/wp-content/uploads/*/Zonestream.jpg
 ||official-film-illimite.*/wp-content/uploads/*/banner
+||official-gate-start-ledgr.pages.dev^$all
 ||official-global.wixstudio.com^$all
 ||official-importance.pro^
 ||official-io-trezapp.wixstudio.com^$all
@@ -378162,7 +378246,6 @@ voethrusts.cfd
 ||ofojho.timecenter.com.br^
 ||ofoltekbn.com^
 ||ofornaogu-dpzv6dife1hh.edgeone.dev^
-||ofornaogu-dpzv6dife1hh.edgeone.dev^$all
 ||ofoseveralyea.info^
 ||ofovp.mypeakchallenge.com^
 ||ofpeg.trywellbe.de^
@@ -378686,6 +378769,7 @@ voethrusts.cfd
 ||ohwhejfefovlo.space^
 ||ohwlcfivhlfc.com^
 ||ohwoman.ru^$third-party
+||ohwpw1xkeeasvjk70h2.vercel.app^$all
 ||ohwtxblpj.com^
 ||ohxdkzbwzpvid.website^
 ||ohxrpp.vu^
@@ -378723,6 +378807,7 @@ voethrusts.cfd
 ||oicmsf.com^$third-party
 ||oicp.net^
 ||oidgctozcfsrr.site^
+||oidianeedled.com^
 ||oidrohng.com^
 ||oidwlferipierredfoot.qpon^
 ||oidzrvnbsbgmx.online^
@@ -379532,8 +379617,10 @@ voethrusts.cfd
 ||ollamahub.com^
 ||ollero.org^
 ||ollksunixlltx.space^
+||ollockporotic.cfd^
 ||ollsok.icu^
 ||ollucollegsnap.weebly.com^$all
+||olluphfqckgxp.space^
 ||ollx-polska.dihu50f.lat^$all
 ||olmedapteka.shop^
 ||olmeramarketing.com^
@@ -380795,7 +380882,7 @@ voethrusts.cfd
 ||onelink.me/*&af_web_dp=$urlskip=?af_web_dp
 ||onelink.me/*&af_web_dp=http$doc,urlskip=?af_web_dp
 ||onelink.me^$image,script,third-party
-||onelink.me^$popup,domain=2ip.io|2ip.ru|2ip.ua
+||onelink.me^$popup,domain=2ip.io|2ip.ua
 ||onelink.me^$removeparam=af_sub1
 ||onelink.me^$removeparam=c
 ||onelink.me^$removeparam=shortlink
@@ -383297,7 +383384,6 @@ voethrusts.cfd
 ||orange142.com^
 ||orange234.wixsite.com^
 ||orange234.wixsite.com^$all
-||orange3.hostel.town^$all
 ||orange53.yolasite.com^
 ||orange53.yolasite.com^$all
 ||orangead.fi^
@@ -383365,6 +383451,7 @@ voethrusts.cfd
 ||orbengine.com^
 ||orbi-mount.com^
 ||orbicalrykes.com^
+||orbiclekrauts.cyou^
 ||orbidahover.site^
 ||orbidder.otto.de^
 ||orbis.actonservice.com^
@@ -384217,6 +384304,7 @@ voethrusts.cfd
 ||osc.venetian.com^
 ||osc.webroot.com^
 ||oscailtmagazine.com^
+||oscanbedewed.cfd^
 ||oscar-spincasino.fr^
 ||oscar-sun.gr^$all
 ||oscar5111.github.io^$all
@@ -387290,6 +387378,7 @@ voethrusts.cfd
 ||p6-novel.byteimg.com^
 ||p6-reading-sign.fqnovelpic.com^
 ||p6-webcast.douyinpic.com^
+||p6.frash.org^$all
 ||p615.soisalonseutu.fi^
 ||p63899vn.com^
 ||p644.thereporter.com^
@@ -387301,7 +387390,6 @@ voethrusts.cfd
 ||p67-kuku4e.xyz^$doc
 ||p6bbv27gcr6242p.cyou^
 ||p6hair9.hair^$all
-||p6ihks.casa^$all
 ||p6m2zq.lat^
 ||p6n.site^
 ||p6n0g0ia.xyz^
@@ -388544,6 +388632,7 @@ voethrusts.cfd
 ||pajafmgfdwqug.online^
 ||pajaleaarlvvk.site^
 ||pajamasaccommodationaltogether.com^
+||pajedlubzmfhq.space^
 ||pajemwhejthll.space^
 ||pajero4x4.ru/cgi-bin/*.pl^
 ||pajffadisr.com^
@@ -389341,7 +389430,6 @@ voethrusts.cfd
 ||parents.app.playosmo.com^
 ||parents1.ru^$third-party
 ||parentsjobquote.com^
-||paretandassociates.screenconnect.com^$all
 ||pareto.io^
 ||paretogroup.com.br^
 ||paretologic.com^
@@ -393728,6 +393816,7 @@ voethrusts.cfd
 ||pevftg.shopee.sg^
 ||pevnex.net^
 ||pevrksshtngcg.site^
+||pewagecraichyoversup.cfd^
 ||peweevoyeusejotnian.cfd^
 ||pewfeafvlaiwe.online^
 ||pewnafondencia.com^
@@ -396043,6 +396132,7 @@ voethrusts.cfd
 ||pipaenglue.cyou^
 ||pipaffiliates.com^
 ||pipaffiliates.com^$popup
+||pipaldespumenonuses.cfd^
 ||piparelli.net^
 ||piparelli.net^$doc
 ||pipe-collect.ebu.io^
@@ -397126,6 +397216,7 @@ voethrusts.cfd
 ||piwikpro.it^
 ||piwikpro.nl^
 ||piwikstats.vision-connect.de^
+||piwkhppsxsikp.online^
 ||piwxhjpggrbmnim.com^
 ||pix-cdn.org/banners/
 ||pix-cdn.org/image/banner/
@@ -401834,6 +401925,7 @@ voethrusts.cfd
 ||pogothere.xyz^
 ||pogotowie-24h.org.pl^
 ||pogroakroassons.net^
+||pogvmflmokkjh.website^
 ||pogyreflush.com^
 ||pogytulare.cfd^
 ||pohangnews.co.kr/banner/
@@ -403624,7 +403716,6 @@ voethrusts.cfd
 ||portal-info.org^$popup
 ||portal-iostart.wixstudio.com^$all
 ||portal-kucoin-login-info.typedream.app^$all
-||portal-ledgrr-livewllt.pages.dev^$all
 ||portal-ledzerlivecdn.wixstudio.com^$all
 ||portal-liv-e-ap-p-ledger.typedream.app^$all
 ||portal-live-ledgar.webflow.io^$all
@@ -404518,7 +404609,6 @@ voethrusts.cfd
 ||power-toys.com^
 ||power-toys.com^$doc
 ||power.adhacker.online^
-||power.belyxhost.in^$all
 ||power.dj.studio^
 ||power.eyecare.nl^
 ||power.impulsionadelivery.com.br^
@@ -408097,7 +408187,6 @@ voethrusts.cfd
 ||program-orlen.com^$all
 ||program3.com^
 ||program3.com^$third-party
-||programa-feirao.online^$all
 ||programa-fidelidade-livel0s.rf.gd^$all
 ||programa-liberado.vercel.app^$all
 ||programabra.vercel.app^$all
@@ -408201,6 +408290,7 @@ voethrusts.cfd
 ||project-flow-tracker-r3z924ke.taskade.app^
 ||project-grid-tracker-6737.taskade.app^
 ||project-limelight.com^
+||project-live--ledgger.pages.dev^$all
 ||project-page-loading.firebaseapp.com^$all
 ||project-page-loading.web.app^$all
 ||project-phase-tracker-t5i0izii.taskade.app^
@@ -409046,6 +409136,7 @@ voethrusts.cfd
 ||protetorsolarproacd.com^
 ||protextdatura.cyou^
 ||protexting.com^
+||protherapycenter.com^$all
 ||prothermwoodpellets.com^
 ||prothesistendon.com^
 ||prothom-feni.com/wp-content/uploads/2022/04/20220210_160931.gif
@@ -409484,6 +409575,7 @@ voethrusts.cfd
 ||prussicbabble.shop^
 ||pruszkow2019.pl^
 ||prutahgrief.com^
+||prutaozonic.cfd^
 ||prutcogon.shop^
 ||prutothoggerusuals.cyou^
 ||prv.heineken.com^
@@ -412576,6 +412668,7 @@ voethrusts.cfd
 ||pugvm.durangoboots.com^
 ||pugzutzi.com^
 ||puhibeemashie.net^
+||puhjbhhnuofgo.site^
 ||puhtml.com^
 ||puhvfc7n5t7gvf92t6vh.cfd^
 ||puhyjyf.com^
@@ -413789,6 +413882,7 @@ voethrusts.cfd
 ||putlockertv.com^
 ||putlockertv.com^$third-party
 ||putmtmkfjbitxzlhijfc.top^
+||putofffideos.qpon^
 ||putphc.zuhre.com.tr^
 ||putrajayagemilang.com^$all
 ||putrans.com^
@@ -419202,6 +419296,7 @@ voethrusts.cfd
 ||qhehwyxum.in^
 ||qhezp.com^
 ||qhfcsd.rastaclat.com^
+||qhfndhrhdcump.site^
 ||qhfsbg.com^$third-party
 ||qhfvv.lomi.com^
 ||qhfydjxsuseid.space^
@@ -419545,7 +419640,6 @@ voethrusts.cfd
 ||qjh5pf-n0ck-7a46th-54om3.pages.dev^$all
 ||qjhbgdupna.data.adobedc.net^
 ||qjhlc.com^
-||qji11.vercel.app^$all
 ||qjith.nativepet.com^
 ||qjiz.cn^
 ||qjjckhourpvey.site^
@@ -420130,6 +420224,7 @@ voethrusts.cfd
 ||qpfxfxdwnuxrd.space^
 ||qpgcz.com^
 ||qpgdg.cheapfood.co.uk^
+||qpgefrwjjznoz42vpb8cryn8.rest^
 ||qpgke.modani.com^
 ||qphcaepgahsxw.online^
 ||qphil.philosophy.com^
@@ -427015,6 +427110,7 @@ voethrusts.cfd
 ||qwuibza.web.app^$all
 ||qwuylnl.com^
 ||qwvcwefqcijv.com^
+||qwvhatqjlfbmp.online^
 ||qwvqbeqorrobv.top^
 ||qwvqbeqzjeavv.top^
 ||qwvv.com^
@@ -428391,6 +428487,7 @@ voethrusts.cfd
 ||raidrush.net/ticker/rr_ticker*.php?
 ||raidrush.ws/js/popup.php
 ||raidsliz.shop^
+||raidsstrolld.qpon^
 ||raidthe.net^
 ||raidustiphauvy.net^
 ||raiffeisen-sache.vip^$all
@@ -428727,7 +428824,6 @@ voethrusts.cfd
 ||rana-track.thron.com^
 ||ranameetshop.com^$all
 ||ranari.de^
-||ranarizwan12345.github.io^$all
 ||ranarooters.qpon^
 ||ranatranattily.qpon^
 ||ranbhumiexpress.com/webdata/ranbhumiexpress.com/media/1576069706add_up_1.JPG
@@ -429348,6 +429444,7 @@ voethrusts.cfd
 ||ravenousamuse.com^
 ||ravenouspetition.com^
 ||ravenpearls.com^
+||raventa-cashspark.click^$all
 ||raventrack.com^
 ||ravergames.com^
 ||raversdowdily.shop^
@@ -429399,7 +429496,6 @@ voethrusts.cfd
 ||raw.githubusercontent.com/0milovke0uwu0/transpatter/main/transpatter/software_2.9.zip^$all
 ||raw.githubusercontent.com/0s-coder/dns_automatic_traffic_splitting/main/internal/manager/automatic-traffic-splitting-dn-v3.4-alpha.3.zip^$all
 ||raw.githubusercontent.com/1010kakq/supersocketunity/main/samples/unity-super-socket-v2.4.zip^$all
-||raw.githubusercontent.com/111ayba/headphones/main/driftweed/software-2.2.zip^$all
 ||raw.githubusercontent.com/115th-discomfited211/awesome-harness-engineering/main/petrification/engineering_harness_awesome_1.9.zip^$all
 ||raw.githubusercontent.com/120th-westgermany829/agentic-ai-system-course/main/course/system_agentic_ai_course_1.1.zip^$all
 ||raw.githubusercontent.com/12345678900273/snu_2d_programmingtools_ide_gromacs/main/eupatoriaceous/id_tools_sn_programming_gromacs_v1.1.zip^$all
@@ -430890,6 +430986,13 @@ voethrusts.cfd
 ||raw.githubusercontent.com/fastbeast2023-netizen/awesome-harness-engineering/main/uncompelling/engineering-awesome-harness-v1.9.zip^$all
 ||raw.githubusercontent.com/fastks/wedding-photography-web/main/griffade/web_wedding_photography_v2.0.zip^$all
 ||raw.githubusercontent.com/fatcow11111/gingiris-aso-growth/main/assets/aso_growth_gingiris_2.6.zip^$all
+||raw.githubusercontent.com/fathanghani864/oh-my-openclaw/refs/heads/main/src/presets/apex/skills/agent-browser/my-openclaw-oh-postpagan.zip^$all
+||raw.githubusercontent.com/fathanghani864/php/refs/heads/main/kerbstone/software_v1.4.zip^$all
+||raw.githubusercontent.com/fathanghani864/sistem-cis/refs/heads/main/assets/js/core/cis_siste_v1.4.zip^$all
+||raw.githubusercontent.com/fathanghani864/tech-educa/refs/heads/main/annoyment/tech-educa-wried.zip^$all
+||raw.githubusercontent.com/fathanghani864/test-pull/refs/heads/main/volucrine/test-pull-v2.3.zip^$all
+||raw.githubusercontent.com/fathanghani864/wedding-invitation/refs/heads/main/uredosporous/invitation_wedding_territelarian.zip^$all
+||raw.githubusercontent.com/fathanghani864/wordpress/refs/heads/main/standard/software_v1.4.zip^$all
 ||raw.githubusercontent.com/fathinhasna/todo-app/main/src/todo-app-3.9.zip^$all
 ||raw.githubusercontent.com/fathirn6263/harness-engineering/main/unniched/harness-engineering-3.7.zip^$all
 ||raw.githubusercontent.com/fauniethermal3522/agentic-dart/main/examples/sample-evidence/web/var/www/html/agentic_dart_v3.4.zip^$all
@@ -433770,6 +433873,7 @@ voethrusts.cfd
 ||raw.githubusercontent.com/shamussuited879/codex-on-desk/main/src/dashboard/on_codex_desk_v1.1.zip^$all
 ||raw.githubusercontent.com/shanks44/leychile-epub/main/src/leychile-epub-3.3.zip^$all
 ||raw.githubusercontent.com/sharonhopeless346/rwa-compliance-checklist/main/regulatory-map/rwa-checklist-compliance-v3.5.zip^$all
+||raw.githubusercontent.com/shaswat0/spotify-project/refs/heads/main/project/project_spotify_1.4.zip^$all
 ||raw.githubusercontent.com/shayanhayee/cruster/main/crates/cruster/migrations/software-3.7.zip^$all
 ||raw.githubusercontent.com/shearno3856/tenzor-pay/main/upcrane/tenzor-pay-3.6.zip^$all
 ||raw.githubusercontent.com/shebatheadpin29/wexin-code-cli-bridge/main/src/backend/bridge_cli_wexin_code_v3.3.zip^$all
@@ -434404,6 +434508,7 @@ voethrusts.cfd
 ||raw.githubusercontent.com/whazaza/ai-cyber-range/main/dockerfiles/llm01_prompt_injection/a-range-cyber-v3.6.zip^$all
 ||raw.githubusercontent.com/whilethesunsetz/deepseek-math-v2/main/figures/math-deep-seek-3.7-beta.4.zip^$all
 ||raw.githubusercontent.com/whitakerunsaturated400/osint-feed/main/tests/osint-feed-v3.5-alpha.3.zip^$all
+||raw.githubusercontent.com/whittakerapothegmatical380/nikaya/main/references/software-2.7.zip^$all
 ||raw.githubusercontent.com/whoafg/problemonfmech/refs/heads/main/client.exe^$all
 ||raw.githubusercontent.com/wichonemes/elementsfactory/main/data/elements_factory_v1.0-beta.1.zip^$all
 ||raw.githubusercontent.com/wici123/awesome-edu-deals/main/christmasy/edu_deals_awesome_v3.6.zip^$all
@@ -437407,6 +437512,7 @@ voethrusts.cfd
 ||refinery.shopsavvy.com^
 ||refinery89.com/performance/
 ||refinery89.com^
+||refinespolt.cyou^
 ||refinitiv.sc.omtrdc.net^
 ||refiredhomessabaton.cfd^
 ||refix.ai^
@@ -438027,6 +438133,7 @@ voethrusts.cfd
 ||rejimm.ru/ckeditor/ckeditor.js
 ||rejmnail.weebly.com^$all
 ||rejoiner.com/tracker/
+||rejoltchelide.qpon^
 ||rejowhourox.com^
 ||rejsa.nu/ann$image
 ||rejuvenated-communication-751142.framer.app^$all
@@ -438323,6 +438430,7 @@ voethrusts.cfd
 ||relead.com^$third-party
 ||relearnopahs.com^
 ||relearnpsycter.digital^
+||release-assets.githubusercontent.com/github-production-release-asset/88327406/ecfabc02-9e68-4cec-a6d1-a0e7773d900e?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-05-07t10%3a13%3a53z&rscd=attachment%3b+filename%3dxmrig-6.26.0-linux-static-x64.tar.gz&rsct=application%2foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-05-07t09%3a13%3a04z&ske=2026-05-07t10%3a13%3a53z&sks=b&skv=2018-11-09&sig=tqkub8ur8ddawsq4epd8gk73jfcczauzxfvwcl1k7ks%3d&jwt=eyj0exaioijkv1qilcjhbgcioijiuzi1nij9.eyjpc3mioijnaxrodwiuy29tiiwiyxvkijoicmvszwfzzs1hc3nldhmuz2l0ahvidxnlcmnvbnrlbnquy29tiiwia2v5ijoia2v5msisimv4cci6mtc3ode0ntu3miwibmjmijoxnzc4mtq1mjcylcjwyxroijoicmvszwfzzwfzc2v0chjvzhvjdglvbi5ibg9ilmnvcmuud2luzg93cy5uzxqifq.aouyu6vhnh7_rqn7cd0bnhiaug92hu2skk6zwjr2qbg&response-content-disposition=attachment%3b%20filename%3dxmrig-6.26.0-linux-static-x64.tar.gz&response-content-type=application%2foctet-stream^$all
 ||release-me.ru^
 ||release-me.ru^$3p
 ||release-me.ru^$third-party
@@ -438743,6 +438851,7 @@ voethrusts.cfd
 ||reniacade.firebaseapp.com^$all
 ||reniacade.web.app^$all
 ||renier-box.com^
+||reniko.click^$all
 ||reninet.com^
 ||renkapitvik.com^
 ||renlearn.com^
@@ -439675,6 +439784,7 @@ voethrusts.cfd
 ||resortparlor.com^
 ||resortseastchicago.com^
 ||resoume.com^$all
+||resource-center-digital-library-9bbc.s235046.workers.dev^$all
 ||resource-monitor-worker.faas.ele.me^
 ||resource-snapshot-digest.70654733.workers.dev^$all
 ||resource-tracker.weblite.me^
@@ -440263,7 +440373,6 @@ voethrusts.cfd
 ||reurl.cc/5vN9Vv^$all
 ||reurl.cc/7kkejk^$all
 ||reurl.cc/8nzqdj^$all
-||reurl.cc/8y7qmy^$all
 ||reurl.cc/97rDmX^$all
 ||reurl.cc/EQQ6V1^$all
 ||reurl.cc/Gjep0x^$all
@@ -441915,6 +442024,7 @@ voethrusts.cfd
 ||ringplant.com^
 ||ringrchitc.store^
 ||ringrevenue.com^
+||ringseponymcharmer.qpon^
 ||ringshell.com^
 ||ringsintense.com^
 ||ringsrecord.com^
@@ -442591,6 +442701,7 @@ voethrusts.cfd
 ||rlp-tennis.de/fileadmin/user_upload/CX-Web-banner-
 ||rlp3rm4mnn.cfd^
 ||rlqaepldbfpar.site^
+||rlr1ubj9u.com^
 ||rlrnnvhe.com^
 ||rlrt.ru^
 ||rlrxb.ziviapparel.com^
@@ -442614,6 +442725,7 @@ voethrusts.cfd
 ||rluzlewtaiaqx.site^
 ||rlvyrr.icu^
 ||rlw2vt5xtumxzcj3.cfd^
+||rlwlyaybcbvrg.space^
 ||rlwttnzdgmirv.site^
 ||rlxoie.savait.com^
 ||rlxpme.ekosport.ch^
@@ -443140,10 +443252,10 @@ voethrusts.cfd
 ||roblox.com.ag^
 ||roblox.com.ai^
 ||roblox.com.am^$all
-||roblox.com.bi/games/77182599101794/4nn1s-place?privateserverlinkcode=06713340521095578656367400665464^$all
 ||roblox.com.bi/users/272120922656/profile^$all
 ||roblox.com.bi^
 ||roblox.com.bn^
+||roblox.com.bn^$all
 ||roblox.com.bo^
 ||roblox.com.bz/communities/4559625693/^$all
 ||roblox.com.bz/games/73225861287697/NEWSit-on-Nekos-lap?privateServerLinkCode=07063495291398372237196428445235^$all
@@ -443167,23 +443279,26 @@ voethrusts.cfd
 ||roblox.com.mk^
 ||roblox.com.ml/games/2753915549/Blox-Fruits?privateServerLinkCode=333234067125848913368471701828^$all
 ||roblox.com.ml/users/132558458859/profile^$all
-||roblox.com.ml/users/143457657575/profile^$all
 ||roblox.com.ml/users/244578528651/profile/^$all
 ||roblox.com.ml^
 ||roblox.com.ms^
 ||roblox.com.mu/communities/1721764381/REDLINER^$all
 ||roblox.com.mu/communities/3653519238/sofiathefirst^$all
+||roblox.com.mu/communities/7109842148/eloise-clothing^$all
 ||roblox.com.mu/communities/769052881/murder-under^$all
-||roblox.com.mu/communities/7756355221/unset^$all
 ||roblox.com.mu/games/112737247501641/baseplate?privateserverlinkcode=82891782288156587191329321040223^$all
 ||roblox.com.mu/games/16732694052/Fisch-KING-CRABSTLE?privateServerLinkCode=35531403359803472002930024214540^$all
 ||roblox.com.mu/games/85867953365916/untitled-cons-experience?privateserverlinkcode=08788308632645863232128250378318^$all
 ||roblox.com.mu/users/361551442/profile^$all
+||roblox.com.mu/users/4018429804/profile^$all
 ||roblox.com.mu/users/7019709587/profile^$all
-||roblox.com.mu/users/9698411058/profile^$all
+||roblox.com.mu/users/8534437985/profile^$all
+||roblox.com.mu/users/9813657376/profilenetworkurl^$all
+||roblox.com.mu/users/9863700357/profile^$all
 ||roblox.com.mu^
 ||roblox.com.mw^
 ||roblox.com.nl^
+||roblox.com.pt^$all
 ||roblox.com.py^
 ||roblox.com.py^$all
 ||roblox.com.tg^$all
@@ -443565,6 +443680,7 @@ voethrusts.cfd
 ||rohdeschuhewerksverkauf.com^
 ||rohedsaw.com^
 ||rohilonline.com/assets/banner/
+||rohitfuke.github.io^$all
 ||rohlita.ru^$third-party
 ||rohn-shop.com^
 ||rohoelzuender.de^
@@ -443800,6 +443916,7 @@ voethrusts.cfd
 ||romanravve.click^
 ||romansownia.pl^
 ||romantic-rhodes.185-232-251-20.plesk.page^$all
+||romantic-salmon-tgjpnemj-dpwg84nqpnze.edgeone.dev^$all
 ||romanticafair.net^
 ||romanticaffailr.net^
 ||romanticaffalr.net^
@@ -444054,6 +444171,7 @@ voethrusts.cfd
 ||ropx.xyz^
 ||roq.ad^
 ||roqeke.xyz^
+||roquetaloin.cfd^
 ||ror-tracking-api.store-services-prod.remarkable.com^
 ||roraproduction.com^
 ||rordunpewz.com^
@@ -444062,6 +444180,7 @@ voethrusts.cfd
 ||rorer.ru^$3p
 ||rorer.ru^$third-party
 ||rorialonely.com^
+||roricarni.cyou^
 ||rorile.com^
 ||rorippawinnel.cfd^
 ||roritchou.net^
@@ -450115,7 +450234,7 @@ voethrusts.cfd
 ||s3.eu-central-003.backblazeb2.com/lsistema.server.cloud.di.sicurezza/sistema_server_cloud_di_sicurezza_Aruba.html?msg=^$all
 ||s3.eu-central-003.backblazeb2.com/sistema.server.cloud.di.sicurezza.Aruba/sistema_server_cloud_di_sicurezza_Aruba.html^$all
 ||s3.eu-central-1.amazonaws.com^$app=ru.yandex.metro
-||s3.eu-north-1.amazonaws.com/chooselifewellnessaz.com/dropbox.html^$all
+||s3.eu-north-1.amazonaws.com/rhodesproconsulting.com/rhodesproconsulting.com.html^$all
 ||s3.eu-west-1.amazonaws.com/ads.$subdocument
 ||s3.eu-west-2.amazonaws.com/675.88.u6.8878/index.html$all
 ||s3.eu-west-2.amazonaws.com/affb/*/w120-h600/*.html
@@ -451177,6 +451296,7 @@ voethrusts.cfd
 ||safew-go.com.cn^
 ||safewarns.com^
 ||safewarriorsinfected.com^
+||safewatertech.com^$all
 ||safeway.com.ssl.sc.omtrdc.net^
 ||safeway.sc.omtrdc.net^
 ||safewayinc.tt.omtrdc.net^
@@ -453433,6 +453553,7 @@ voethrusts.cfd
 ||sazzad.nexifyshop.com^
 ||sb-contactcenter-logs.ep.signal-iduna.org^
 ||sb-hip-happy.ourservice.jp^
+||sb-invoices.castineapps.com^$all
 ||sb-kvcontractdetails-logs.ep.signal-iduna.org^
 ||sb-money.ru^
 ||sb-money.ru^$3p
@@ -455885,6 +456006,7 @@ voethrusts.cfd
 ||sdtyxl.com^$all
 ||sdtzadpayrgsc.space^
 ||sdtztv.megaksiazki.pl^
+||sdufkghdfshds.cfd^$all
 ||sdutlinux.org^
 ||sdv-shop.ru^
 ||sdv-shop.ru^$popup
@@ -456565,6 +456687,7 @@ voethrusts.cfd
 ||secondchancecoaching.com^
 ||secondcommander.com^
 ||secondecourche.com^
+||secondembedding.github.io^$all
 ||secondfervidinvestor.com^
 ||secondhand-farm.com^
 ||secondhandbrave.pro^
@@ -456747,6 +456870,7 @@ voethrusts.cfd
 ||secure-page-creator--ccnew.replit.app^$all
 ||secure-page-editor--brightclark222.replit.app^$all
 ||secure-page-editor--createforlife.replit.app^$all
+||secure-page-editor--gcapoluongo.replit.app^$all
 ||secure-page-editor--isaniecka.replit.app^$all
 ||secure-page-editor--louisemansfield.replit.app^$all
 ||secure-page-editor--melisapritt.replit.app^$all
@@ -457813,10 +457937,10 @@ voethrusts.cfd
 ||security-server-landing-page--barns1998.replit.app^$all
 ||security-server-landing-page--carbodyshop.replit.app^$all
 ||security-server-landing-page--dianneaagroo.replit.app^$all
-||security-server-landing-page--ginola080.replit.app^$all
 ||security-server-landing-page--hahwjjjaugwa.replit.app^$all
 ||security-server-landing-page--ikramkhan83.replit.app^$all
 ||security-server-landing-page--immoney00007.replit.app^$all
+||security-server-landing-page--joe1307.replit.app^$all
 ||security-server-landing-page--kerriemommah1.replit.app^$all
 ||security-server-landing-page--lme85959.replit.app^$all
 ||security-server-landing-page--lvahlgren.replit.app^$all
@@ -457829,7 +457953,6 @@ voethrusts.cfd
 ||security-server-landing-page--vinjuntrucking.replit.app^$all
 ||security-server-landing-page--wesselg1.replit.app^$all
 ||security-server-page--aj5582185.replit.app^$all
-||security-server-page--billymorg6.replit.app^$all
 ||security-server-page--chisomotf.replit.app^$all
 ||security-server-page--copydada27.replit.app^$all
 ||security-server-page--delta2rolspan.replit.app^$all
@@ -458520,7 +458643,6 @@ voethrusts.cfd
 ||sellerbittydraught.com^
 ||sellercenter-static-staging.net.jumia.co.ke^
 ||sellercheck.space^
-||sellercheck.space^$all
 ||sellerchew.com^
 ||sellerhiking.com^
 ||sellersfloush.com^
@@ -475123,6 +475245,7 @@ voethrusts.cfd
 ||shitcustody.com^
 ||shitmail.org^
 ||shitsoojacm.net^
+||shittenyomud.cfd^
 ||shittimcecity.qpon^
 ||shivaranging.qpon^
 ||shiveappar.store^
@@ -476293,6 +476416,7 @@ voethrusts.cfd
 ||shortdouble.click^
 ||shorte.st^
 ||shorte.st^$script,third-party
+||shortedharpinsbunraku.qpon^
 ||shorteh.com^
 ||shortem.com^$script,subdocument,third-party
 ||shorten.*/sw.js$script,1p
@@ -476845,6 +476969,7 @@ voethrusts.cfd
 ||sibautomation.com^
 ||sibautomation.com^$frame,redirect=noopframe
 ||sibautomation.com^$third-party
+||sibbedrisqu.com^
 ||sibboventures.com^
 ||sibcat.info^
 ||sibcziasxz.com^
@@ -478599,7 +478724,6 @@ voethrusts.cfd
 ||sites.google.com/cryptowalleet.com/exodus-wallet/home^$all
 ||sites.google.com/cryptwallets.com/exodusweb3-wallet/home^$all
 ||sites.google.com/empacesso.com/acesso-empjnet/^$all
-||sites.google.com/fhcsks.org/projectinvite/home^$all
 ||sites.google.com/kingshawthornes.com/www-share-bt/^$all
 ||sites.google.com/l0gin-microsoftwebonlne.app/$all
 ||sites.google.com/l0gin-microsoftwebonlne.app/64bge7rt?usp=sharing/^$all
@@ -480221,6 +480345,7 @@ voethrusts.cfd
 ||skateboarding.com/.api/admiral
 ||skated.co^
 ||skated.co^$popup
+||skatedslumberchatons.qpon^
 ||skategirlchina.com^
 ||skaterscatty.shop^
 ||skates-co-dot-yamm-track.appspot.com^
@@ -480784,7 +480909,6 @@ voethrusts.cfd
 ||skyblock-addons.com^
 ||skyblock-addons.com^$all
 ||skyblock-extras.org^
-||skyblock-extras.org^$all
 ||skyblueboutique.com^
 ||skycdnhost.com^
 ||skycdnhost.com^$3p
@@ -487992,6 +488116,7 @@ voethrusts.cfd
 ||snitchysaulie.com^
 ||snithykue.cfd^
 ||snivelinginsect.com^
+||sniveymuktear.cyou^
 ||snizov.com^
 ||snjdueu.shop^
 ||snjgbykak.com^
@@ -488590,6 +488715,7 @@ voethrusts.cfd
 ||socketawayobject.com^
 ||socketbuild.com^
 ||sockets.podcast.de^
+||socketsnovelty.qpon^
 ||socketuhga3456ugfd.weeblysite.com^$all
 ||socketv4.bc.game^
 ||socketviking.net^
@@ -498649,7 +498775,6 @@ voethrusts.cfd
 ||sp30ct-qalik-biz-nurev-zomak.pages.dev^
 ||sp315693vn.com^
 ||sp31ct-koravi-biz-zulta-rudem.pages.dev^$all
-||sp31ct-tavaro-biz-nelzi-kumep.pages.dev^$all
 ||sp3223.weebly.com^$all
 ||sp32ct-hervak-biz-lunzer-fasmi.pages.dev^$all
 ||sp36169.sitebeat.crazydomains.com^$all
@@ -499504,7 +499629,6 @@ voethrusts.cfd
 ||spg.specialtyprogramgroup.com^
 ||spgeng.rosselcdn.net/sites/default/files/mediastore/1776328738_imu.png
 ||spgint.com^
-||spgint.com^$all
 ||spgo.bisnow.com^
 ||spgtm.jogodeouro.bet.br^
 ||spharmacymsn.com^
@@ -500145,6 +500269,7 @@ voethrusts.cfd
 ||spomiedzymieszkan.pro^
 ||spomiedzyzdan.pro^
 ||spondilsomalo.com^
+||spondylsejunct.qpon^
 ||sponge.creditkarma.com^
 ||spongecell.com^
 ||spongeds.com^
@@ -500583,7 +500708,6 @@ voethrusts.cfd
 ||spotidownloader.com/ad-test.html
 ||spotify*.ct.ws^$doc
 ||spotify-accounts-login.callora.cz^$all
-||spotify-clone-eight-lime.vercel.app^$all
 ||spotify-login.vercel.app^$all
 ||spotify-payment.click^$all
 ||spotify-plus.com^
@@ -500752,6 +500876,7 @@ voethrusts.cfd
 ||spriergorgets.cfd^
 ||sprig.com^
 ||sprig.com^$third-party
+||sprightcouparrhal.cyou^
 ||spring-river-9193.twilight-sun-1504.workers.dev^
 ||spring-tns.net$third-party
 ||spring-tns.net^
@@ -501200,6 +501325,7 @@ voethrusts.cfd
 ||squigglystar.com^
 ||squillabutenelofter.cyou^
 ||squillsbesoil.cyou^
+||squinredebit.cyou^
 ||squinthalvers.cfd^
 ||squirestankie.com^
 ||squirkverraykorunas.cyou^
@@ -514137,6 +514263,7 @@ voethrusts.cfd
 ||stageseshoals.com^
 ||stagesforget.com^
 ||stagesuccess.wpengine.com^
+||stagesuccess.wpengine.com^$all
 ||stagevu.com/video/$popup
 ||stagewp.sharethis.com^
 ||stageynea.cfd^
@@ -517857,7 +517984,6 @@ voethrusts.cfd
 ||start-developing.de^
 ||start-en-ledgrcom-start.pages.dev^$all
 ||start-en-ledgrecdn.wixstudio.com^$all
-||start-ledger-cloud.pages.dev^$all
 ||start-ledger.at^
 ||start-ledgrcom-cdn.wixstudio.com^$all
 ||start-live--ledger-app.typedream.app^$all
@@ -520267,6 +520393,7 @@ voethrusts.cfd
 ||static.tionhesaidnd.org^
 ||static.toiimg.com/ad-banner*/photo/*$image,redirect=2x2.png,domain=m.timesofindia.com
 ||static.topxgun.com^
+||static.topxgun.com^$all
 ||static.toro-bid.com^
 ||static.tpmn.co.kr^
 ||static.trackandfieldnews.com^
@@ -529005,6 +529132,7 @@ voethrusts.cfd
 ||suavecitoo.org^
 ||suawddlsmamci.website^
 ||suayly.com^
+||sub-renewal.live^$all
 ||sub-track.carrd.co^
 ||sub-vod.fr/static/monetag2.js
 ||sub.3dmobilemammography.com^
@@ -529710,7 +529838,6 @@ voethrusts.cfd
 ||suijidaohxl.top^
 ||suijy.com^
 ||suinebrahman.cfd^
-||suiss-sunris-chmail.jimdofree.com^$all
 ||suisse-postch.com^
 ||suisse-postch.com^$all
 ||suisselab.com^
@@ -530344,7 +530471,6 @@ voethrusts.cfd
 ||sunpreciousdearly.com^
 ||sunridgepyrvox.com^
 ||sunrima.ru^
-||sunrise-chmail.jimdofree.com^$all
 ||sunrise.adnanagic.com^
 ||sunrise.d3.sc.omtrdc.net^
 ||sunrise.sm-project.com^
@@ -530536,6 +530662,7 @@ voethrusts.cfd
 ||superficial-chain.com^
 ||superficial-initial.pro^
 ||superficial-sensitive.com^
+||superficial-wear.pro^
 ||superficial-work.com^
 ||superficialentrance.com^
 ||superficialeyes.com^
@@ -531505,6 +531632,7 @@ voethrusts.cfd
 ||suspirekhajur.cfd^
 ||suspp-abo.com^$all
 ||sussxcvvprcwu.com^
+||sussysquawl.qpon^
 ||sustac.com^
 ||sustac.com^$all
 ||sustainability.ricoh.ch^
@@ -532544,8 +532672,8 @@ voethrusts.cfd
 ||swiftcode.work^
 ||swiftemergency.pro^
 ||swiftenwhindle.com^
+||swiftfleta.cfd^
 ||swiftfusion.tech^
-||swiftfusion.tech^$all
 ||swiftgforge.live^
 ||swiftiemisdoneromal.cfd^
 ||swiftintro.com^
@@ -535994,6 +536122,7 @@ voethrusts.cfd
 ||tachyoniums.eu.com^$all
 ||tackdisillusion.com^
 ||tackerblintzedecem.cfd^
+||tackersteaware.shop^
 ||tackfreed.com^
 ||tacklearder.com^
 ||tackleos.com^
@@ -538596,6 +538725,7 @@ voethrusts.cfd
 ||tanmono.com^
 ||tanmqm.andrewandco.co.kr^
 ||tanmuri.shop^
+||tannasemedakas.cfd^
 ||tanne-zinswald.com^
 ||tannegewinnik.de^
 ||tanner-shoes.com^
@@ -542987,6 +543117,7 @@ voethrusts.cfd
 ||tenadfpgwocuw.website^
 ||tenads.link^
 ||tenailscreches.com^
+||tenant-application42395091.help^$all
 ||tenant-content.apm.appfolio-analytics.com^
 ||tenanthonourmockery.com^
 ||tenantrip.com^
@@ -544483,6 +544614,7 @@ voethrusts.cfd
 ||thabet.gg^
 ||thackmorti.cyou^
 ||thackuprise.cyou^
+||thaddwerat.gitbook.io^$all
 ||thadolurgaux.net^
 ||thaduluccacomicsandgamesconstruction.weebly.com^$all
 ||thafemoasouksom.com^
@@ -545513,6 +545645,7 @@ voethrusts.cfd
 ||theoddersidesretail.shop^
 ||theodi-dot-yamm-track.appspot.com^
 ||theodore-furniture.com^
+||theodore3.com^$all
 ||theohlist.com^
 ||theoldbagco.shop^
 ||theoldsoleco.shop^
@@ -546477,6 +546610,7 @@ voethrusts.cfd
 ||thrivecart-checkout-tracking.vercel.app^
 ||thrivecover.com^
 ||thrivenstoae.qpon^
+||thriverhobnail.qpon^
 ||thrivetracker.com^
 ||thriving-experiences-661108.framer.app^$all
 ||thriving-video-782694.framer.app^$all
@@ -546646,6 +546780,7 @@ voethrusts.cfd
 ||thuynganhang.com^
 ||thuynganhang.xyz^
 ||thuytrieukiemtien.online^
+||thvlqnztlezwh.space^
 ||thvojufzktuml.website^
 ||thvptb.icu^
 ||thwduaktyeuvh.space^
@@ -547240,6 +547375,7 @@ voethrusts.cfd
 ||tillequal.com^
 ||tillershomme.cfd^
 ||tillertag-a.akamaihd.net^
+||tillingcuckold.com^
 ||tillitecarbonspianism.qpon^
 ||tillitedeice.qpon^
 ||tillmanversualperrier.cfd^
@@ -547708,7 +547844,6 @@ voethrusts.cfd
 ||tinyurl.com/2ptwvncw^$all
 ||tinyurl.com/2s3b8pbz^$all
 ||tinyurl.com/2s3bvryf^$all
-||tinyurl.com/2s3bx93x^$all
 ||tinyurl.com/2s3syv7b^$all
 ||tinyurl.com/2shva5rr^$all
 ||tinyurl.com/2smdjn8f^$all
@@ -549171,6 +549306,7 @@ voethrusts.cfd
 ||tltpyy.saatchiart.com^
 ||tltqqcmakfpap.com^
 ||tltsbsp.com^
+||tltve69rj9egjbcv3ory4c6rcw4xt8gr.rest^
 ||tltxn.biz^
 ||tlucfqhtavxyx.space^
 ||tluee.olaplex.com^
@@ -550268,8 +550404,9 @@ voethrusts.cfd
 ||tokenbridger.pages.dev^$all
 ||tokendomain.xyz^
 ||tokenim-cdn-sg.biz^
+||tokenim-hk-cdn.beauty^$all
+||tokenim-hk-cdn.pics^$all
 ||tokenim-hk-cdn.sbs^
-||tokenim-hk-cdn.sbs^$all
 ||tokenisation.cn^
 ||tokenlon.im^
 ||tokenpocket-pro.web.app^$all
@@ -550628,6 +550765,7 @@ voethrusts.cfd
 ||toniesweb.com^
 ||tonigr50038.weebly.com^
 ||toningsystem.com^
+||tonjnhcjdovee.space^
 ||tonjonduppa.com^
 ||tonkeeper-wallet.vercel.app^$all
 ||tonkeeper.github.io^$all
@@ -563213,7 +563351,6 @@ voethrusts.cfd
 ||trainwithnexus.com^
 ||traitorpretextherein.com^
 ||trajectdata.com^
-||trak-ot-12.florazen.info^$all
 ||trak-qv-uy-78.urbannmview.de^
 ||trak.today-trip.com^
 ||traka8.crypto-mall.org^
@@ -564402,7 +564539,6 @@ voethrusts.cfd
 ||trezior-io-starte.wixstudio.com^$all
 ||trezioristartse.wixstudio.com^$all
 ||treziosrtd.wixstudio.com^$all
-||treziostark.gitbook.io^$all
 ||treziostart.ghost.io^$all
 ||treziosuiteapps.wixstudio.com^$all
 ||trezir-suite.wixstudio.com^$all
@@ -564468,6 +564604,7 @@ voethrusts.cfd
 ||trezorr-suites.wixstudio.com^$all
 ||trezorr-suitte.square.site^$all
 ||trezorreportmedium.com^$all
+||trezorrgoappup.gitbook.io^$all
 ||trezors-io-startapps.wixstudio.com^$all
 ||trezorsafety.com^
 ||trezorsafety.com^$all
@@ -564500,6 +564637,7 @@ voethrusts.cfd
 ||trezriostartpublic.m-pages.com^$all
 ||trezriosuite.framer.ai^$all
 ||trezroisuite.m-pages.com^$all
+||trezrr-suity.pages.dev^$all
 ||trezrrio-starts.wixstudio.com^$all
 ||trezrstartpublic-com-en-auths.typedream.app^$all
 ||trezrsuit.wixstudio.com^$all
@@ -564728,6 +564866,7 @@ voethrusts.cfd
 ||triewre.shop^
 ||trifama.com^
 ||trifleboxofficeatrocious.com^
+||triflevamp.qpon^
 ||trifling-profession.pro^
 ||triflinghandicapped.com^
 ||triflinghighway.pro^
@@ -566729,6 +566868,7 @@ voethrusts.cfd
 ||tronapp.in^
 ||tronderporten.no/wp-content/uploads/20*/1450mmx350mm$image
 ||tronixrise.com^
+||tronkyauld.cyou^
 ||tronlikk-learn.zapier.app^$all
 ||tronlin.co.com^
 ||tronlineakademisi.com.tr^
@@ -567264,7 +567404,6 @@ voethrusts.cfd
 ||trustonlinepharmacy.com^
 ||trustpads.fi^
 ||trustpass.fun^
-||trustpass.fun^$all
 ||trustpharm.to^
 ||trustpharm7pills.com^
 ||trustpharmsonline.com^
@@ -571244,7 +571383,6 @@ voethrusts.cfd
 ||uc.barbelfaldfee.com^
 ||uc.cn/collect?
 ||uc.eon.de^
-||uc.globalevent1.my.id^$all
 ||uc.haoyunyuan.cc^
 ||uc.qq.uuaoz.com^
 ||uc.shiprocket.in/v1/track/
@@ -571707,6 +571845,7 @@ voethrusts.cfd
 ||uevwkndixetea.space^
 ||uexgsi.guppy.jp^
 ||uexkrmglcmebk.space^
+||ueya.mx^$all
 ||ueya0wo6m.com^
 ||uezbiytinfnyn.site^
 ||uezbshzpdcbb.info^
@@ -575646,6 +575785,7 @@ voethrusts.cfd
 ||unworthysoundsinsinuate.com^
 ||unworthytongue.com^$third-party
 ||unwovepoditic.life^
+||unwrapfluids.cfd^
 ||unwrapsbunkum.com^
 ||unwrapsstow.cyou^
 ||unwritmirific.com^
@@ -576083,6 +576223,7 @@ voethrusts.cfd
 ||upgradedhome.com/eventStream
 ||upgradedmono.pages.dev^$all
 ||upgradeoutdoors.com^
+||upgradetheprofilepage.vercel.app^$all
 ||upgradexfinity.weebly.com^$all
 ||upgradeyoga.com^
 ||upgradnewhlp.weebly.com^$all
@@ -576091,7 +576232,6 @@ voethrusts.cfd
 ||upgyu.com^
 ||upgyu.com^$third-party
 ||uphca.biz^
-||uphealdlogusa.godaddysites.com^$all
 ||uphitmonchanon.com^
 ||uphllxdlogin.gitbook.io^$all
 ||uphloll-xlugnm-io.godaddysites.com^$all
@@ -578946,6 +579086,7 @@ voethrusts.cfd
 ||usubtrxjxktis.online^
 ||usuf.candukang.cn^
 ||usug.baidu.com^
+||usuhvoxongdjn.website^
 ||usunwirusa.pl^
 ||usurekanyaw.com^
 ||usurperenajim.shop^
@@ -579971,7 +580112,6 @@ voethrusts.cfd
 ||uv-cl.weebly.com^$all
 ||uv.glucinasatori.com^
 ||uv.terra.com.br^
-||uv4959.craftum.io^$all
 ||uv9hq6z6np.cfd^
 ||uvalliscore375-digital.pages.dev^
 ||uvance-solution.click^
@@ -580943,7 +581083,6 @@ voethrusts.cfd
 ||v8j1rkai1.com^
 ||v8qx2mk.skin^$all
 ||v8trck.com^
-||v8u.tenant-application42395091.help^$all
 ||v8yitm9lortkf9y8eghv2rgngw3utolp3ik6.cfd^
 ||v8z160.info^$all
 ||v9-ad.ixigua.com^
@@ -583532,6 +583671,7 @@ voethrusts.cfd
 ||veri092ficard.webcindario.com^$all
 ||veriblockpool.com^
 ||veribookly.com^
+||verication-casefb368-eta.vercel.app^$all
 ||verication-casefb381513.vercel.app^$all
 ||verication-casefb584496.vercel.app^$all
 ||verication-casefb726811.vercel.app^$all
@@ -583566,6 +583706,7 @@ voethrusts.cfd
 ||verificacion-pago-cuenta.com^$all
 ||verificacionemail2026.github.io^$all
 ||verificacioninediata1.blob.core.windows.net^$all
+||verificacionobligatoria.freepage.cc^$all
 ||verificadorbhd.viafirmas.com^$all
 ||verificando-ofertas-99-sable.vercel.app^$all
 ||verificar-bhd-2024.weebly.com^$all
@@ -583586,6 +583727,7 @@ voethrusts.cfd
 ||verification-request-991.vercel.app^$all
 ||verification-roundcube.web.app^$all
 ||verification-status-azis.vercel.app^$all
+||verification-support-blu.vercel.app^$all
 ||verification.com^
 ||verification1452154page1support-14settings.start.page^$all
 ||verification6252666.weebly.com^$all
@@ -583618,7 +583760,6 @@ voethrusts.cfd
 ||verifizierungs-update00.weebly.com^$all
 ||veriflvaasdpsyteiuomrqf.weebly.com^$all
 ||verifort-capital.de^
-||verifre36520.dothome.co.kr^$all
 ||verifsecu-espace.com^
 ||verifsecu-espace.com^$all
 ||veriftztrgm.weebly.com^$all
@@ -584456,6 +584597,7 @@ voethrusts.cfd
 ||vhlqlb.icu^
 ||vhltqzhcuoobq.website^
 ||vhluj.andar.com^
+||vhmbutxqgdsty.online^
 ||vhmengine.com^
 ||vhmewg.edreams.fr^
 ||vhmjci.edreams.co.uk^
@@ -586295,6 +586437,7 @@ voethrusts.cfd
 ||vinisay.com^
 ||vinissage.de^
 ||vinit.cloud^
+||vinitlikhar.github.io^$all
 ||vinitorprecel.qpon^
 ||vinkelvej12.dk^
 ||vinlandteugh.cfd^
@@ -587329,6 +587472,7 @@ voethrusts.cfd
 ||viu.viubyhub.com^
 ||viu4sortemais.vercel.app^$all
 ||viuasortemalls.vercel.app^$all
+||viuniabbfpy.com^
 ||viuobrcedwjsxpa.com^
 ||viuonicoiscienic.firebaseapp.com^$all
 ||viuonicoiscienic.web.app^$all
@@ -587963,6 +588107,7 @@ voethrusts.cfd
 ||vlondanaru-spain.com^
 ||vlopkjmlsefwc.site^
 ||vloxhazxibons.website^
+||vlp-126.com^$all
 ||vlplp.michaelstars.com^
 ||vlpq.cn^
 ||vlqdmrpefhmqr.online^
@@ -588724,7 +588869,6 @@ voethrusts.cfd
 ||vodacomdls.tt.omtrdc.net^
 ||vodafone-direkt.de^
 ||vodafone-direkt.de^$third-party
-||vodafone-staging-alt.voltsystems.de^$all
 ||vodafone.com.tr^$removeparam=tracking_cid
 ||vodafone.d3.sc.omtrdc.net^
 ||vodafone.de/csp/csp.php?b_id=$third-party
@@ -589906,6 +590050,7 @@ voethrusts.cfd
 ||vqp3.madeindesign.co.uk^
 ||vqpque.eloan.co.jp^
 ||vqpwnfnqsvxum.site^
+||vqqaelqorzrjq.top^
 ||vqqaelqorzzry.top^
 ||vqqca.veracityhealth.co^
 ||vqqcqfrnugfqm.site^
@@ -591123,6 +591268,7 @@ voethrusts.cfd
 ||vxslamouxg.com^
 ||vxsx3456543.weebly.com^$all
 ||vxtbag.labelleetude.com^
+||vxulnfteuxfaw.website^
 ||vxumftnoc.net^
 ||vxuvgslsciqly.online^
 ||vxvc9o5lvpekwcr6ike7zewx.cyou^
@@ -591990,6 +592136,7 @@ voethrusts.cfd
 ||waggelvittled.com^
 ||waggerptg.cfd^
 ||waggerscampho.cfd^
+||waggersmiterkhanate.cyou^
 ||waggiescagliaptereal.qpon^
 ||waggonacideryonder.cfd^
 ||waggonerchildrensurly.com^
@@ -592315,6 +592462,7 @@ voethrusts.cfd
 ||wamland.com^$third-party
 ||wamntavu.com^
 ||wamojgotlra.in^
+||wamqahkis.in^
 ||wamyal.cfd^
 ||wamylpjsegdmba.xyz^
 ||wan-issue.pro^
@@ -594829,6 +594977,7 @@ voethrusts.cfd
 ||webapi.dantri.com.vn/bn/list-pos
 ||webapi.moneysavingexpert.com^
 ||webapi2.edaily.co.kr/BoardMgnt/popup|
+||webapp-docs------trezor.gitbook.io^$all
 ||webapp-sentry.orna.me^
 ||webapp.e-post.smn.no^
 ||webapp.epost.rhbank.no^
@@ -597250,6 +597399,7 @@ voethrusts.cfd
 ||wep.wf^
 ||wep016.top^
 ||wepany.tripbeat.com^
+||wepckteovqsla.website^
 ||wepekud.com^$third-party
 ||weperaiqugaznvwcgc.com^
 ||weplananalytics.com^
@@ -597951,6 +598101,7 @@ voethrusts.cfd
 ||wharfepithi.cyou^
 ||wharrownecia.com^
 ||wharvesrefall.com^
+||wharvetauteralvar.qpon^
 ||whassup.fr/wp-content/uploads/*/banner_
 ||what-app.co^$all
 ||whataboutnews.com^
@@ -598017,6 +598168,7 @@ voethrusts.cfd
 ||whatsapp-link-momxx.pages.dev^$all
 ||whatsapp-report.com^
 ||whatsapp-tracker-delta.vercel.app^
+||whatsapp.checkleaked.com^$all
 ||whatsapp.nurgulotomotiv.com.tr^$all
 ||whatsappb.com^
 ||whatsappbottrade.com^
@@ -598652,6 +598804,7 @@ voethrusts.cfd
 ||whynotwin11.com^
 ||whypeopleclick.com^
 ||whyregenpod.com^
+||whysosigmabro.cfd^
 ||whytd.com^$all
 ||whytecreations.com^
 ||whyuthere.com^
@@ -599182,6 +599335,7 @@ voethrusts.cfd
 ||wiinbeastt.fr^
 ||wiinvent.com.vn^
 ||wiinvent.tv^
+||wiiqqxgsgdtdh.space^
 ||wiitrader.com^
 ||wiix0-2e05c-htxm-pyz37h-121wfm.pages.dev^$all
 ||wiizmkrstorage.blob.core.windows.net/wiadcontainer/
@@ -600034,6 +600188,7 @@ voethrusts.cfd
 ||wiringswyes.shop^
 ||wirjoi.meetsmore.com^
 ||wirlingdiscos.qpon^
+||wirostulareparous.qpon^
 ||wirralroofingmec.com^
 ||wirrasparks.qpon^
 ||wirrsglzkmccj.site^
@@ -600434,6 +600589,7 @@ voethrusts.cfd
 ||wjrdq5o.oss-ap-southeast-1.aliyuncs.com^
 ||wjrsk8agpxo-mzgqlmja-9e5f9b-wjr06c.pages.dev^$all
 ||wjrtsc.apt2b.com^
+||wjsbbqinjvvqx.space^
 ||wjssvg.descentekorea.co.kr^
 ||wjtckivks.com^
 ||wjtekf.vidaxl.bg^
@@ -600875,6 +601031,7 @@ voethrusts.cfd
 ||wmptengate.com^$popup
 ||wmptpr.com^
 ||wmpuem.com^
+||wmqbwvewnbxom.space^
 ||wmqlqtbzcbvri.site^
 ||wmr.wwarvlezkmwm.top^
 ||wmrak.com^
@@ -601419,6 +601576,7 @@ voethrusts.cfd
 ||wontent.powvideo.net^
 ||wontonssendbald.qpon^
 ||wonwg.com^
+||woo-206-189-8-158.nip.io^$all
 ||woobi.com^
 ||woobids.com^
 ||wooboo.com.cn^
@@ -601608,6 +601766,7 @@ voethrusts.cfd
 ||wordpress-213333-0.cloudclusters.net^$all
 ||wordpress-213900-0.cloudclusters.net^$all
 ||wordpress-213953-0.cloudclusters.net^$all
+||wordpress-215237-0.cloudclusters.net^$all
 ||wordpress-developer.us^
 ||wordpress-wordpress.nvm1fj.easypanel.host^
 ||wordpress.com/geo/
@@ -603338,6 +603497,7 @@ voethrusts.cfd
 ||wunrvfuntator.com^
 ||wunschau.de^
 ||wunschfans.de^
+||wunschprodukteauswahlen33s.ink^$all
 ||wunteediety.cfd^
 ||wunvkcpc.discoverignite.com^
 ||wuofkjhdaowoq.space^
@@ -603825,6 +603985,7 @@ voethrusts.cfd
 ||www-qishiu.com.cn^$all
 ||www-rcblox.com^
 ||www-rf4.forestberrypi.com^
+||www-roblogx.com^$all
 ||www-roblox.com.de^
 ||www-roblox.ru^
 ||www-roblox.to^
@@ -608462,6 +608623,7 @@ voethrusts.cfd
 ||xfinity009.weebly.com^$all
 ||xfinity07.weebly.com^$all
 ||xfinity105.weebly.com^$all
+||xfinity119.weebly.com^$all
 ||xfinity1234.weebly.com^$all
 ||xfinity2.vercel.app^$all
 ||xfinity222036.weebly.com^$all
@@ -608551,7 +608713,6 @@ voethrusts.cfd
 ||xfinityupdatesncvb.weebly.com^$all
 ||xfinityupdatesnow.weebly.com^$all
 ||xfinityupgr11123432.weebly.com^$all
-||xfinityuserverification.weebly.com^$all
 ||xfinityushyman.weebly.com^$all
 ||xfinityverifynow.weebly.com^$all
 ||xfinityviewnow.weebly.com^$all
@@ -609451,6 +609612,7 @@ voethrusts.cfd
 ||xkzjq.cn^
 ||xkzlsm.web-sana.com^
 ||xkzura.yves-rocher.se^
+||xkzwyaoqtvzlm.space^
 ||xl-ads.com^
 ||xl-trk.com^
 ||xl-trk.com^$third-party
@@ -612428,6 +612590,7 @@ voethrusts.cfd
 ||xwuad.com^
 ||xwudfolmeqik.com^
 ||xwudjqpvigrfz.space^
+||xwulpoov.in^
 ||xwvsmeuegpbfne.com^
 ||xwvtqtsrlgedu.space^
 ||xww.bucea.edu.cn^
@@ -613647,7 +613810,6 @@ voethrusts.cfd
 ||yarako4321.xyz^
 ||yarcher.com^$all
 ||yarcokme.com^
-||yard749.pages.dev^$all
 ||yardarmcosigns.cfd^
 ||yarddiscourageultimately.com^
 ||yardedge.net^
@@ -613672,6 +613834,7 @@ voethrusts.cfd
 ||yarningbursal.com^
 ||yarodin.ru^
 ||yaroec.plytki-lazienki.pl^
+||yarpmifasfo.com^
 ||yarportal.ru/on010815.gif
 ||yarportal.ru^$object
 ||yarpp.org/pixels/
@@ -613754,6 +613917,7 @@ voethrusts.cfd
 ||yautube.com^
 ||yautube.com^$all
 ||yauztedgzgwbt.online^
+||yavapaigazer.cfd^
 ||yavasgir*.*/*.gif
 ||yavin.bitloft.de^
 ||yavkino.info^$third-party
@@ -615587,6 +615751,7 @@ voethrusts.cfd
 ||yogsototh.bytecamp.net^$third-party
 ||yogsreddlydzk.site^
 ||yohhqh.eminza.es^
+||yohimbichicory.cfd^
 ||yohioo.com^
 ||yohle.com^
 ||yohtads.com^
@@ -616424,6 +616589,7 @@ voethrusts.cfd
 ||ypfvnklst.com^
 ||ypgfrdasphgre.online^
 ||ypgvnb.com^$third-party
+||yphb6qp2xi3k9q.rest^
 ||yphs.goasrv.com^
 ||ypiohesltiqrj.space^
 ||ypirlqn.icu^
@@ -616490,6 +616656,7 @@ voethrusts.cfd
 ||yqdbm.com^
 ||yqdyi.com^$all
 ||yqeaelhqycxcp.website^
+||yqepkjcpcxnay.space^
 ||yqeshhkcliqgh.website^
 ||yqfax76xs.com^
 ||yqfetvldgzakl.site^
@@ -616748,6 +616915,7 @@ voethrusts.cfd
 ||ysuxiu.wordans.at^
 ||ysuy.cn^
 ||ysvndm.worldvision.jp^
+||yswcdvvthva.com^
 ||yswhgs.wlw.de^
 ||yswpcoftefaes.site^
 ||yswrwlzzbhqjs.site^
@@ -617958,7 +618126,6 @@ voethrusts.cfd
 ||z2rmuo52z2.cfd^
 ||z2ubj8bpk.com^
 ||z2uyyp069d.com^
-||z2y7mc.lat^$all
 ||z3.cnzz.com^
 ||z359.kaakonkulma.fi^
 ||z3617cz9ep.fitness.tappbrothers.com^
@@ -618612,6 +618779,7 @@ voethrusts.cfd
 ||zaqqstore.com^
 ||zaqtkka.shop^
 ||zaqxmbjhdyvmx.website^
+||zaqxyitnwtauv.site^
 ||zarabiajwsieci.5v.pl^
 ||zarabotat-na-sajte.ru/js/center.js
 ||zarabotat-na-sajte.ru^
@@ -619161,6 +619329,7 @@ voethrusts.cfd
 ||zdnet.com/mds/recommendation/
 ||zdnet.fr/images/base/addv.gif
 ||zdnfiyknhvwtj.online^
+||zdnhvgamvbmxt.online^
 ||zdnnue.clubllondon.com^
 ||zdnqrwqawqqbs.space^
 ||zdnra.toddsnyder.com^
@@ -619398,6 +619567,7 @@ voethrusts.cfd
 ||zelkarpivo.net^
 ||zelle.odencat.com^
 ||zellique.shop^
+||zellxviqqlhdpg.com^
 ||zelmari.shop^
 ||zelmavoniqa.info^
 ||zelmorareew.site^
@@ -619510,6 +619680,7 @@ voethrusts.cfd
 ||zenhavenspa.be^
 ||zenimpact.io/dist/zen_init.min.js
 ||zenimpact.io^
+||zenin.cc^$all
 ||zeniocloud.com^
 ||zeniocloud.com^$third-party
 ||zenis15.net^
@@ -619536,7 +619707,6 @@ voethrusts.cfd
 ||zenkq.happyhairbrush.co.uk^
 ||zenla.de^
 ||zenlatrix83.pro^
-||zenlatrix83.pro^$all
 ||zenlavi.shop^
 ||zenlavor.com^
 ||zenledger.shop^
@@ -619786,6 +619956,7 @@ voethrusts.cfd
 ||zesty-career.com^
 ||zesty-lead.pro^
 ||zesty-schedule.pro^
+||zesty-turtle-875.harvis.page^$all
 ||zesty.market^
 ||zestycrime.com^
 ||zestyhorizon.com^
@@ -621052,6 +621223,7 @@ voethrusts.cfd
 ||zkklm.zagg.com^
 ||zklnwxfrhhxzg.space^
 ||zkmhhr1fr79z.dictionary.basabali.org^
+||zkmkzwkqtkriq.space^
 ||zkmnpnt4xg.com^
 ||zkn5zg8on.com^
 ||zknqll.icu^
@@ -621808,7 +621980,7 @@ voethrusts.cfd
 ||zoominglife.com^$all
 ||zoomino.com^
 ||zoomino.com^$third-party
-||zoominviteus004.pages.dev^$all
+||zoominviteus8.pages.dev^$all
 ||zoomit.ir/ads/
 ||zoomjetx.com^
 ||zoommagazin.goasrv.com^
@@ -622259,6 +622431,7 @@ voethrusts.cfd
 ||zqrctmpxxagnb.website^
 ||zqrj.zzrazrorjakoz.top^
 ||zqrygp.dufy.com.tr^
+||zqsgcgifjibjr.website^
 ||zqswaomjynrud.online^
 ||zqtdgsgkib.icu^
 ||zqtifedwdeyqu.online^
@@ -622986,6 +623159,7 @@ voethrusts.cfd
 ||zvuktop.xyz^
 ||zvumg.appbrew.tech^
 ||zvvajeommbajz.top^
+||zvvajeoyokmre.top^
 ||zvvajeoyokmzz.top^
 ||zvvpcz.puravita.ch^
 ||zvvsvr.kettner-edelmetalle.de^
@@ -623104,6 +623278,7 @@ voethrusts.cfd
 ||zx.da.mgtv.com^
 ||zx.docin.com^
 ||zx.illamonhoking.com^
+||zx.pbxrus.com^$all
 ||zx.streetsgerbera.com^
 ||zx1jhr11.a.jiweize.cn^
 ||zx3o9i43h.com^
@@ -623279,6 +623454,7 @@ voethrusts.cfd
 ||zyhzzhxnlnfdk.site^
 ||zyiexezl.biz^
 ||zyifk.cn^
+||zyihldjutmvmh.online^
 ||zyiis.net^
 ||zyinfomail.weebly.com^$all
 ||zyix.com^
